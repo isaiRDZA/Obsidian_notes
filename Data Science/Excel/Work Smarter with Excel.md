@@ -1,0 +1,21 @@
+- Week 1
+	- Excel interface
+	- Workbooks and data
+	- Format
+	- [[Applying layouyt]]
+	- [[Print] in Excel]
+- Week 2
+	- Use formulas and functions
+	- [[Sorting and filtering with Excel]]
+	- Specialized functions
+- Week 3
+	- [[Create, format, and modify tables and charts with Excel]]
+	- [[Manage large workbooks with Excel]]
+	- [[Analyzing data using pivot tables and sparklines with Excel]]
+- Week 4
+	- [[Customizing formulas in Excel]]
+	- [[Proofing and interface options in Excel]]
+	- [[Apliying conditional formatting in Excel]]
+	- [[Customize, manage, enhance and automate large workbooks in Excel]]
+	- [[Export data from Excel]] 
+	- [[Use data sources fo Excel]]

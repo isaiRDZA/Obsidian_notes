@@ -1,0 +1,1 @@
+A data professional who uses their knowledge of business trends and databases to organize infromation and make it accesibe; also referred as a Business Intelligence Analyst.

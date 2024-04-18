@@ -1,0 +1,2 @@
+- Un sistema de [[ecuaciones lineales]] es [[inconsistente]] si [[no tiene solución]].
+- Un sistema [[consistente]] tiene [[solución única]] o [[número infinito de soluciones]].

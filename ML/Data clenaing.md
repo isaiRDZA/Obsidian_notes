@@ -1,0 +1,1 @@
+The process of formating the data removinf inwanted material

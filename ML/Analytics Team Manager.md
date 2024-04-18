@@ -1,0 +1,1 @@
+A data professional who supervises analytical strategy for an organization, often managing multiple groups
