@@ -10,3 +10,5 @@ There are a Number Summary for quantitative data
 
 What is the relationship between **[[mean]]** and **[[media]]** when the data is skewed to the right or left? 
 
+![[Seaborn]]
+

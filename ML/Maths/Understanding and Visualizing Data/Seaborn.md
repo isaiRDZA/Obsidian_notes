@@ -28,3 +28,27 @@ A "swarmplot" is a type of scatterplot for situations where one variable is cate
 sns.swarmplot(x = 'Gender', y = 'CWDistance', data = df);
 ```
 ![[Pasted image 20240419164721.png]]
+
+## Visualizing the Data - Tables
+
+^fad6d3
+
+One of the most useful ways to begin the analysis is to visualize the data.
+```Python
+import seaborn as sns #For plotting
+import matplotlib.pyplot as plt # For showing plots
+
+#Next we read the data from the filesystem and use it to construct a Pandas dataframe
+
+tips_data = sns.load_dataset("tips")
+```
+
+^5cd50b
+
+When you begin working with a new data set, it is often useful to inspect the first few rows of data. This will show you what kind of data is in the dataset, what data types you are working with, and will serve as a reference for the other plots that we produce below.
+
+```Python
+tip_data.head()
+```
+![[Pasted image 20240419174505.png]]
+
