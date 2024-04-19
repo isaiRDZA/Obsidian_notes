@@ -4,96 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db13b2744a9316c6",
+        "id": "6e6003e43201dca5",
         "type": "tabs",
         "children": [
           {
-            "id": "51eacb7862bd909f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Maths/Linear Algebra/Stacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "139300bef94293bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Maths/Linear Algebra/np.linalg.solve.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95e9636d42a12e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-02-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60f5c6c648cbcadc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Excel/Work Smarter with Excel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "215854e6c59e839c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flash fill (Relleno rápido).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "900009cb7f9fd368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Habits/Gym tracker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37ee3168627c8f1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "neural networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a78d11b9ef246c48",
+            "id": "bbbeec7be797ddbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bc57da6774418688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Data Engineer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -177,35 +79,6 @@
         "id": "05a5e8e8864ac9c0",
         "type": "tabs",
         "children": [
-          {
-            "id": "fa4f714e0adbd134",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "32c39f7141c9f6d9",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "5ab0d348ea6b632c",
             "type": "leaf",
@@ -218,57 +91,44 @@
             }
           },
           {
-            "id": "aa3c49114f04a21a",
+            "id": "847d6a5bbc3b6625",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md"
-              }
-            }
-          },
-          {
-            "id": "34087a0b653496c2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "a78d11b9ef246c48",
+  "active": "bbbeec7be797ddbc",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Templates/Template daily.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
-    "ML/Maths/Mathematics for Machine Learning.md",
-    "ML/Maths/Numpy.md",
-    "ML/Maths/Linear Algebra/Untitled.md",
-    "ML/Maths/Understanding and Visualizing Data",
     "daily/2024-04-18.md",
+    "ML/Maths/Understanding and Visualizing Data",
+    "ML/Maths/Linear Algebra/Untitled.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
     "ML/Machine Learning.md",
     "neural networks.md",
     "gradient descent.md",
+    "ML/Maths/Mathematics for Machine Learning.md",
+    "Untitled.canvas",
+    "Templates/Template daily.md",
+    "Untitled.md",
     "daily/2024-02-16.md",
     "Pasted image 20231220122156.png",
     "Templates/Untitled.md",
@@ -288,8 +148,12 @@
     "ML/Maths/Linear Algebra/Numpy array.md",
     "Habits",
     "Pasted image 20240219175515.png",
+    "Untitled 1.md",
+    "Data Science/Excel/Work Smarter with Excel.md",
     "Data Science/Excel",
     "Data Science",
+    "ML/Maths/Linear Algebra/Indexing.md",
+    "ML/Maths/Linear Algebra/np.linalg.solve.md",
     "Pasted image 20231222193659.png",
     "Pasted image 20231222183943.png",
     "ML/Maths/Linear Algebra/Untitled",
