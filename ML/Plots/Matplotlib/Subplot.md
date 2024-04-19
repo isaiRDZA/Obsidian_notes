@@ -40,4 +40,7 @@ plt.title('Sine')
 #Set the second subplot as active, and make the second plot.
 plt.subplot(2, 1, 2)
 plt.plot(x, y_cos)
+plt.title('Cosine')S
+```
 
+![[Pasted image 20240419150654.png]]
