@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Histograms.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Histograms.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Histograms.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Histograms.md"
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md"
               }
             }
           },
@@ -254,9 +254,9 @@
   },
   "active": "a78d11b9ef246c48",
   "lastOpenFiles": [
+    "ML/Maths/Understanding and Visualizing Data/Histograms.md",
     "Pasted image 20240419115638.png",
     "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
-    "ML/Maths/Understanding and Visualizing Data/Histograms.md",
     "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
     "Pasted image 20240419092049.png",
     "Pasted image 20240419091701.png",
@@ -297,7 +297,6 @@
     "Pasted image 20231222183943.png",
     "ML/Maths/Linear Algebra/Untitled",
     "Pasted image 20231221113843.png",
-    "Pasted image 20231221110433.png",
     "ML/Maths/Linear Algebra",
     "ML/Maths",
     "Untitled"
