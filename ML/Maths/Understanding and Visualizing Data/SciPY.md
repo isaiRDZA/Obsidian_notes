@@ -25,7 +25,19 @@ print(stats.t(5).ppf(0.975))
 
 
 #The probability that a stadard normal value is less than or equal to 3
+orubt(stats.expon.cdf(3))
 
+
+#The height of the standard normal density function at 1
+print(stats.norm.pdf(1))
+
+
+#The probability of getting exactly 3 heads in 10 flips of a fair coin
+print(stats.binom(10, 0.5).pmf(3))
+
+
+#The probability of getting 3 or fewer heads in 10 flips of a fair coin
+print(stats.binom(10, 0.5).cdf(3))
 
 ```
 

@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/SciPY.md",
+                "file": "ML/Plots/Matplotlib/Matplotlib.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Data Engineer.md",
+                "file": "Data Science/Roles/Data Engineer.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/SciPY.md",
+                "file": "ML/Plots/Matplotlib/Matplotlib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/SciPY.md",
+                "file": "ML/Plots/Matplotlib/Matplotlib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/SciPY.md"
+                "file": "ML/Plots/Matplotlib/Matplotlib.md"
               }
             }
           },
@@ -254,8 +254,26 @@
   },
   "active": "a78d11b9ef246c48",
   "lastOpenFiles": [
-    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+    "ML/Plots/Matplotlib/Labeles.md",
+    "ML/Plots/Matplotlib/Legend.md",
+    "ML/Plots/Matplotlib/Linestyle.md",
+    "ML/Plots/Matplotlib/Matplotlib.md",
+    "ML/Plots/Matplotlib/Multiple line plots.md",
+    "ML/Plots/Matplotlib/Scale.md",
+    "ML/Plots/Matplotlib/Spacing.md",
+    "ML/Plots/Matplotlib/Subplot.md",
+    "Pasted image 20240419144437.png",
+    "Data Science/Roles/Analytics Team Manager.md",
+    "Data Science/Roles",
+    "ML/Machine Learning.md",
+    "ML/Jupyter Notebook.md",
+    "Data Science/Roles/Data scientist.md",
+    "Data Science/Roles/Data Engineer.md",
+    "Data Science/Roles/Data clenaing.md",
+    "Data Science/Roles/Chief Data Officer.md",
+    "Data Science/Roles/Business Intelligence Engineer.md",
     "ML/Maths/Understanding and Visualizing Data/SciPY.md",
+    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
     "ML/Maths/Understanding and Visualizing Data/Histograms.md",
     "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
@@ -267,29 +285,13 @@
     "Data Science/Excel/Work Smarter with Excel.md",
     "ML/Maths/Numpy.md",
     "ML/Maths/Mathematics for Machine Learning.md",
-    "daily/2024-04-19.md",
     "Untitled.canvas",
-    "Templates/Template daily.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "ML/Maths/Linear Algebra/Untitled.md",
     "ML/Maths/Understanding and Visualizing Data",
-    "daily/2024-04-18.md",
-    "ML/Machine Learning.md",
-    "neural networks.md",
-    "gradient descent.md",
-    "daily/2024-02-16.md",
     "Pasted image 20231220122156.png",
-    "Templates/Untitled.md",
     "Pasted image 20231220120308.png",
     "Pasted image 20231220115502.png",
-    "Flash fill (Relleno rápido).md",
-    "First Note.md",
-    "daily/2024-01-10.md",
     "Templates",
     "daily/Untitled",
-    "daily/2024-02-26.md",
     "Habits",
     "Pasted image 20240219175515.png",
     "Data Science/Excel",
@@ -297,9 +299,7 @@
     "Pasted image 20231222193659.png",
     "Pasted image 20231222183943.png",
     "ML/Maths/Linear Algebra/Untitled",
-    "Pasted image 20231221113843.png",
     "ML/Maths/Linear Algebra",
-    "ML/Maths",
-    "Untitled"
+    "ML/Maths"
   ]
 }
