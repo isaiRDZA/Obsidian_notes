@@ -16,3 +16,12 @@
 ![[Pasted image 20240419091701.png]]
 
 ![[Pasted image 20240419092049.png]]
+
+To make a boxplot in python we need the seaborn library:
+
+```Python
+sns.boxplot(data=df.loc[:, ["Age","Height", "Wingspan", "CWDistance", "Score"]])
+```
+
+![[Pasted image 20240419165022.png]]
+

@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Seaborn.md"
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md"
               }
             }
           },
@@ -254,8 +254,12 @@
   },
   "active": "a78d11b9ef246c48",
   "lastOpenFiles": [
-    "ML/Plots/Matplotlib/Matplotlib.md",
+    "Pasted image 20240419165022.png",
     "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
+    "Pasted image 20240419164721.png",
+    "Pasted image 20240419164258.png",
+    "Pasted image 20240419164122.png",
+    "ML/Plots/Matplotlib/Matplotlib.md",
     "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
     "ML/Maths/Mathematics for Machine Learning.md",
     "ML/Maths/Understanding and Visualizing Data/SciPY.md",
@@ -287,12 +291,8 @@
     "Pasted image 20240419091701.png",
     "ML/Maths/Linear Algebra/Array math operations.md",
     "Habits/Gym tracker.md",
-    "Data Science/Excel/Work Smarter with Excel.md",
     "Untitled.canvas",
     "ML/Maths/Understanding and Visualizing Data",
-    "Pasted image 20231220122156.png",
-    "Pasted image 20231220120308.png",
-    "Pasted image 20231220115502.png",
     "Templates",
     "daily/Untitled",
     "Habits",
