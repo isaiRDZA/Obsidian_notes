@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51eacb7862bd909f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Maths/Linear Algebra/Stacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "139300bef94293bc",
             "type": "leaf",
             "state": {
@@ -56,31 +44,19 @@
             }
           },
           {
-            "id": "900009cb7f9fd368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bc57da6774418688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Roles/Data Engineer.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,13 +155,30 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "51eacb7862bd909f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "49343668c9f6fb2b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,15 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "900009cb7f9fd368",
+  "active": "bc57da6774418688",
   "lastOpenFiles": [
+    "Data Science/Roles/Data Engineer.md",
+    "daily/2024-04-19.md",
+    "ML/Maths/Linear Algebra/Stacking.md",
+    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
     "ML/Maths/Linear Algebra/Multidimensional Array.md",
     "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
-    "daily/2024-04-19.md",
     "Habits/Gym tracker.md",
     "Data Science/Roles/Data scientist.md",
-    "Data Science/Roles/Data Engineer.md",
     "Data Science/Roles/Data clenaing.md",
     "Data Science/Roles/Chief Data Officer.md",
     "Data Science/Roles/Business Intelligence Engineer.md",
@@ -224,7 +219,6 @@
     "Pasted image 20240419170539.png",
     "ML/Maths/Understanding and Visualizing Data/Histograms.md",
     "Pasted image 20240419170334.png",
-    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "Pasted image 20240419170032.png",
     "Pasted image 20240419165821.png",
     "Pasted image 20240419165022.png",
@@ -232,7 +226,6 @@
     "Pasted image 20240419164721.png",
     "Pasted image 20240419164258.png",
     "Pasted image 20240419164122.png",
-    "ML/Plots/Matplotlib/Matplotlib.md",
     "Pasted image 20240419150654.png",
     "Pasted image 20240419150106.png",
     "Data Science/Roles",
