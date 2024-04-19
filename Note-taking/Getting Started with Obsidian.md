@@ -1,13 +1,13 @@
 
 [Getting Started with Obsidian]([Overview of Obsidian (Obsidian for Everyone announcement) (youtube.com)](https://www.youtube.com/watch?v=HNFF_EeFr9Y&list=PL-1Nqb2waX4Vba6QDVS5rhnSb9pZGTO4b&index=1&t=16s))
 
-|Traditional Note Taking|Instead|
-|---|---|
-|Temporary|Continaully changing|
-|Contextual|Contextual and abstracted|
-|Isolated|Interconected|
-|Spun feed|Evergreeen|
-||Actually usefull|
+| Traditional Note Taking | Instead                   |
+| ----------------------- | ------------------------- |
+| Temporary               | Continaully changing      |
+| Contextual              | Contextual and abstracted |
+| Isolated                | Interconected             |
+| Spun feed               | Evergreeen                |
+|                         | Actually usefull          |
 
 ## Obsidian best fetatures
 - Uses local storage: you control and own your own data.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -115,15 +115,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8897d54bfa2a951f",
+  "active": "bbbeec7be797ddbc",
   "lastOpenFiles": [
+    "Note-taking/Getting Started with Obsidian.md",
+    "Note-taking/Code to obsidian.md",
+    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+    "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
     "ML/Maths/Linear Algebra/Lineal.md",
     "ML/Maths/Linear Algebra/Indexing.md",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
     "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
-    "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
-    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
     "daily/2024-04-18.md",
     "ML/Maths/Understanding and Visualizing Data",
     "ML/Maths/Linear Algebra/Untitled.md",
@@ -147,9 +150,6 @@
     "Habits/Gym tracker.md",
     "daily/2024-02-26.md",
     "daily/2024-02-24.md",
-    "daily/2024-02-25.md",
-    "daily/2023-12-19.md",
-    "ML/Maths/Linear Algebra/Multidimensional Array.md",
     "Habits",
     "Pasted image 20240219175515.png",
     "Data Science/Excel",
