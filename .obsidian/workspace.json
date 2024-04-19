@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,13 +115,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbbeec7be797ddbc",
+  "active": "8897d54bfa2a951f",
   "lastOpenFiles": [
+    "ML/Maths/Linear Algebra/Lineal.md",
+    "ML/Maths/Linear Algebra/Indexing.md",
+    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "ML/Maths/Linear Algebra/Array math operations.md",
+    "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
     "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
     "daily/2024-04-18.md",
     "ML/Maths/Understanding and Visualizing Data",
     "ML/Maths/Linear Algebra/Untitled.md",
-    "ML/Maths/Linear Algebra/Array math operations.md",
     "ML/Machine Learning.md",
     "neural networks.md",
     "gradient descent.md",
@@ -145,15 +150,10 @@
     "daily/2024-02-25.md",
     "daily/2023-12-19.md",
     "ML/Maths/Linear Algebra/Multidimensional Array.md",
-    "ML/Maths/Linear Algebra/Numpy array.md",
     "Habits",
     "Pasted image 20240219175515.png",
-    "Untitled 1.md",
-    "Data Science/Excel/Work Smarter with Excel.md",
     "Data Science/Excel",
     "Data Science",
-    "ML/Maths/Linear Algebra/Indexing.md",
-    "ML/Maths/Linear Algebra/np.linalg.solve.md",
     "Pasted image 20231222193659.png",
     "Pasted image 20231222183943.png",
     "ML/Maths/Linear Algebra/Untitled",
