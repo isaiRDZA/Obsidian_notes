@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Array math operations.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Array math operations.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Array math operations.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Array math operations.md"
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md"
               }
             }
           },
@@ -254,6 +254,9 @@
   },
   "active": "a78d11b9ef246c48",
   "lastOpenFiles": [
+    "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
+    "ML/Maths/Linear Algebra/Array math operations.md",
+    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "Habits/Gym tracker.md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "ML/Maths/Numpy.md",
@@ -268,7 +271,6 @@
     "ML/Maths/Linear Algebra/Untitled.md",
     "ML/Maths/Understanding and Visualizing Data",
     "daily/2024-04-18.md",
-    "ML/Maths/Linear Algebra/Array math operations.md",
     "ML/Machine Learning.md",
     "neural networks.md",
     "gradient descent.md",
@@ -285,8 +287,6 @@
     "daily/2024-02-26.md",
     "daily/2024-02-24.md",
     "daily/2024-02-25.md",
-    "daily/2023-12-19.md",
-    "ML/Maths/Linear Algebra/Multidimensional Array.md",
     "Habits",
     "Pasted image 20240219175515.png",
     "Data Science/Excel",
