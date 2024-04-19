@@ -25,3 +25,15 @@ sns.boxplot(data=df.loc[:, ["Age","Height", "Wingspan", "CWDistance", "Score"]])
 
 ![[Pasted image 20240419165022.png]]
 
+```Python
+#A box only of females
+sns.boxplot(data=df.loc[df['Gender'] == 'F', ['Age', 'Height', 'Wingspan', 'CWDistance', "Score"]])
+```
+
+![[Pasted image 20240419165821.png]]
+
+```Python
+#A boxplot only of males
+sns.boxplot(data=df.loc[df['Gender'] == 'M', ['Age', 'Height', 'Wingspan', 'CWDistance', "Score"]])
+```
+![[Pasted image 20240419170032.png]]
