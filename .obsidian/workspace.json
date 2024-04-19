@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Plots/Matplotlib/Matplotlib.md",
+                "file": "ML/Plots/Matplotlib/Subplot.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Plots/Matplotlib/Matplotlib.md",
+                "file": "ML/Plots/Matplotlib/Subplot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Plots/Matplotlib/Matplotlib.md",
+                "file": "ML/Plots/Matplotlib/Subplot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Plots/Matplotlib/Matplotlib.md"
+                "file": "ML/Plots/Matplotlib/Subplot.md"
               }
             }
           },
@@ -254,11 +254,13 @@
   },
   "active": "a78d11b9ef246c48",
   "lastOpenFiles": [
-    "ML/Plots/Matplotlib/Labeles.md",
-    "ML/Plots/Matplotlib/Legend.md",
     "ML/Plots/Matplotlib/Linestyle.md",
     "ML/Plots/Matplotlib/Matplotlib.md",
     "ML/Plots/Matplotlib/Multiple line plots.md",
+    "Pasted image 20240419150106.png",
+    "Pasted image 20240419145206.png",
+    "ML/Plots/Matplotlib/Labeles.md",
+    "ML/Plots/Matplotlib/Legend.md",
     "ML/Plots/Matplotlib/Scale.md",
     "ML/Plots/Matplotlib/Spacing.md",
     "ML/Plots/Matplotlib/Subplot.md",
@@ -284,7 +286,6 @@
     "Habits/Gym tracker.md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "ML/Maths/Numpy.md",
-    "ML/Maths/Mathematics for Machine Learning.md",
     "Untitled.canvas",
     "ML/Maths/Understanding and Visualizing Data",
     "Pasted image 20231220122156.png",
@@ -296,8 +297,6 @@
     "Pasted image 20240219175515.png",
     "Data Science/Excel",
     "Data Science",
-    "Pasted image 20231222193659.png",
-    "Pasted image 20231222183943.png",
     "ML/Maths/Linear Algebra/Untitled",
     "ML/Maths/Linear Algebra",
     "ML/Maths"
