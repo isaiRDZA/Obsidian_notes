@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+                "file": "ML/Maths/Linear Algebra/Array math operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+                "file": "ML/Maths/Linear Algebra/Array math operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+                "file": "ML/Maths/Linear Algebra/Array math operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md"
+                "file": "ML/Maths/Linear Algebra/Array math operations.md"
               }
             }
           },
@@ -254,14 +254,17 @@
   },
   "active": "a78d11b9ef246c48",
   "lastOpenFiles": [
+    "Habits/Gym tracker.md",
+    "Data Science/Excel/Work Smarter with Excel.md",
+    "ML/Maths/Numpy.md",
+    "ML/Maths/Mathematics for Machine Learning.md",
+    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+    "daily/2024-04-19.md",
     "Untitled.canvas",
     "Templates/Template daily.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
-    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
-    "ML/Maths/Mathematics for Machine Learning.md",
-    "ML/Maths/Numpy.md",
     "ML/Maths/Linear Algebra/Untitled.md",
     "ML/Maths/Understanding and Visualizing Data",
     "daily/2024-04-18.md",
@@ -279,13 +282,11 @@
     "daily/2024-01-10.md",
     "Templates",
     "daily/Untitled",
-    "Habits/Gym tracker.md",
     "daily/2024-02-26.md",
     "daily/2024-02-24.md",
     "daily/2024-02-25.md",
     "daily/2023-12-19.md",
     "ML/Maths/Linear Algebra/Multidimensional Array.md",
-    "ML/Maths/Linear Algebra/Numpy array.md",
     "Habits",
     "Pasted image 20240219175515.png",
     "Data Science/Excel",
