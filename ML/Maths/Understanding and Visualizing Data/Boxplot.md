@@ -37,3 +37,28 @@ sns.boxplot(data=df.loc[df['Gender'] == 'F', ['Age', 'Height', 'Wingspan', 'CWDi
 sns.boxplot(data=df.loc[df['Gender'] == 'M', ['Age', 'Height', 'Wingspan', 'CWDistance', "Score"]])
 ```
 ![[Pasted image 20240419170032.png]]
+
+
+## Visualizing data
+Histograms require a lot of data to produce accurate estimates of the population density (which is what the histogram is estimating). Boxplots show a minimal amount of information about the shape of a distribution and can be more informative with smaller datasets.
+
+Below we create a boxplot of the bill amount. The median bill is around 18 dollars, and half of the bills fall between 12 and 24 dollars (approximately). Extreme bills may be as large as 40 dollars, with a small number of bills being even larger than 40 dollars.
+![[Histograms#^9fa637]]
+
+```Python
+sns.boxplot(x=tips_data["total_bill"]).set_title("Box plot of the Total Bill")
+```
+![[Pasted image 20240419182241.png]]
+
+Next we create a boxplot of t tip amounts
+```Python
+sns.boxplot(x = tips_data['tips']).set_title("Box plot of the Tips")
+```
+![[Pasted image 20240419182451.png]]
+
+## Creating histograms and box plots stratified by groups
+While looking at a single variable is interesting, it is often useful to see how a variable changes in coordination with another. Using graphs, we can see if there is a difference between the tipping amounts of smokers vs non-smokers, or if tipping varies according to the time of the day
+```Python
+#Create a boxplot and histogram of the tips grounded by smoking status
+sns.boxplot(x = tips_data["tip"])
+```

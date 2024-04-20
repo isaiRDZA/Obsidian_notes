@@ -6,6 +6,8 @@ When a histogram is right skewed the mean is normally larger than the median.
 
 ## Creating a Histogram
 
+^9fa637
+
 ```Python
 sns.displot(df.CWDistance)
 ```
@@ -31,4 +33,9 @@ sns.scatterplot(x='total_', y = 'tip', data=tips_data);
 ```
 ![[Pasted image 20240419181239.png]]
 
-We wish to stratify ouur data to some factor, such as the sex of the customer. In this case, we would be able to see if there are systematic
+We wish to stratify ouur data to some factor, such as the sex of the customer. In this case, we would be able to see if there are systematic differences in tipping behavior or bill size between sexes.
+```Python
+sns.scatterplot(x = 'total_bill', y = 'tip', hue= 'sex', data= tips_data);
+```
+![[Pasted image 20240419181449.png]]
+

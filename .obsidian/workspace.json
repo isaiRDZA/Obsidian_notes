@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Reshaping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98f8656ac7c7b220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Histograms.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Histograms.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Histograms.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +159,11 @@
           {
             "id": "51eacb7862bd909f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
@@ -202,18 +192,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98f8656ac7c7b220",
+  "active": "bc57da6774418688",
   "lastOpenFiles": [
+    "ML/Maths/Linear Algebra/Reshaping.md",
+    "ML/Maths/Linear Algebra/Numpy array.md",
+    "ML/Maths/Linear Algebra/Teorema de resumen.md",
+    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+    "Pasted image 20240419182451.png",
+    "Pasted image 20240419182241.png",
+    "Histograms^.md",
+    "ML/Maths/Understanding and Visualizing Data/Histograms.md",
+    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+    "Pasted image 20240419181449.png",
     "Pasted image 20240419181239.png",
     "Pasted image 20240419180946.png",
-    "ML/Maths/Understanding and Visualizing Data/Histograms.md",
     "Pasted image 20240419180708.png",
-    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
     "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
     "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
     "ML/Maths/Understanding and Visualizing Data/SciPY.md",
     "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
-    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "daily/2024-04-19.md",
     "Data Science/Roles/Analytics Team Manager.md",
@@ -229,17 +226,10 @@
     "ML/Maths/Linear Algebra/Lineal.md",
     "ML/Maths/Linear Algebra/Matriz.md",
     "ML/Maths/Linear Algebra/Multidimensional Array.md",
-    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
-    "ML/Maths/Linear Algebra/np.linalg.solve.md",
-    "ML/Maths/Linear Algebra/Numpy array.md",
     "Pasted image 20240419175740.png",
     "Pasted image 20240419174505.png",
     "Pasted image 20240419170539.png",
     "Pasted image 20240419170334.png",
-    "Pasted image 20240419170032.png",
-    "Pasted image 20240419165821.png",
-    "Pasted image 20240419165022.png",
-    "Pasted image 20240419164721.png",
     "Data Science/Roles",
     "Untitled.canvas",
     "ML/Maths/Understanding and Visualizing Data",
