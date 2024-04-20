@@ -91,5 +91,7 @@ Histograms can capture more features of a distribution, but if the sample is sma
 
 ```Python
 g = sns.FacetGrid(tips_data, row = 'day')
-g = g.map)
+g = g.map(plt.hist, "tip")
+plt.show()
 ```
+![[Pasted image 20240420005050.png]]
