@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Histograms.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Histograms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Histograms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,11 +185,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
+    "width": 387.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -204,42 +204,42 @@
   },
   "active": "98f8656ac7c7b220",
   "lastOpenFiles": [
-    "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
-    "mean.md",
-    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+    "Pasted image 20240419181239.png",
+    "Pasted image 20240419180946.png",
     "ML/Maths/Understanding and Visualizing Data/Histograms.md",
-    "ML/Maths/Linear Algebra/Untitled.md",
-    "ML/Maths/Linear Algebra/Teorema de resumen.md",
-    "ML/Maths/Linear Algebra/Stacking.md",
-    "ML/Maths/Linear Algebra/Size, shape and dimension.md",
-    "ML/Maths/Linear Algebra/Sistemas inconsistentes y consistentes.md",
-    "ML/Maths/Linear Algebra/Reshaping.md",
-    "ML/Maths/Linear Algebra/Operaciones elementales con renglones.md",
-    "ML/Maths/Linear Algebra/Numpy array.md",
-    "ML/Maths/Linear Algebra/np.linalg.solve.md",
-    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
-    "ML/Maths/Linear Algebra/Multidimensional Array.md",
+    "Pasted image 20240419180708.png",
+    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+    "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
+    "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
+    "ML/Maths/Understanding and Visualizing Data/SciPY.md",
+    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
+    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+    "Data Science/Excel/Work Smarter with Excel.md",
+    "daily/2024-04-19.md",
+    "Data Science/Roles/Analytics Team Manager.md",
+    "Data Science/Roles/Business Intelligence Engineer.md",
+    "Data Science/Roles/Chief Data Officer.md",
+    "Data Science/Roles/Data clenaing.md",
+    "Data Science/Roles/Data Engineer.md",
+    "Data Science/Roles/Data scientist.md",
+    "ML/Maths/Linear Algebra/Array math operations.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
+    "ML/Maths/Linear Algebra/Indexing.md",
     "ML/Maths/Linear Algebra/Lineal.md",
     "ML/Maths/Linear Algebra/Matriz.md",
-    "ML/Maths/Linear Algebra/Indexing.md",
-    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
-    "ML/Maths/Linear Algebra/Creating arrays.md",
-    "ML/Maths/Linear Algebra/Array math operations.md",
-    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
-    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
-    "Note-taking/Getting Started with Obsidian.md",
-    "Note-taking/Code to obsidian.md",
+    "ML/Maths/Linear Algebra/Multidimensional Array.md",
+    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
+    "ML/Maths/Linear Algebra/np.linalg.solve.md",
+    "ML/Maths/Linear Algebra/Numpy array.md",
+    "Pasted image 20240419175740.png",
     "Pasted image 20240419174505.png",
-    "Data Science/Roles/Data Engineer.md",
     "Pasted image 20240419170539.png",
     "Pasted image 20240419170334.png",
     "Pasted image 20240419170032.png",
     "Pasted image 20240419165821.png",
     "Pasted image 20240419165022.png",
     "Pasted image 20240419164721.png",
-    "Pasted image 20240419164258.png",
-    "Pasted image 20240419164122.png",
-    "Pasted image 20240419150654.png",
     "Data Science/Roles",
     "Untitled.canvas",
     "ML/Maths/Understanding and Visualizing Data",

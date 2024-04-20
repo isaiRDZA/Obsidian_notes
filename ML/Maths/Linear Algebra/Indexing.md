@@ -1,4 +1,4 @@
-(Indecing is very useful as it allows you to select specific elemnts from an array. It also lets you select entire rows/columns or planes.
+Indexing is very useful as it allows you to select specific elements from an array. It also lets you select entire rows/columns or planes.
 
 Let us select specific elements from the arrays as given
 ```Python

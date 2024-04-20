@@ -29,7 +29,7 @@ sns.swarmplot(x = 'Gender', y = 'CWDistance', data = df);
 ```
 ![[Pasted image 20240419164721.png]]
 
-## Visualizing the Data - Tables
+## Visualizing the Data
 
 ^fad6d3
 
