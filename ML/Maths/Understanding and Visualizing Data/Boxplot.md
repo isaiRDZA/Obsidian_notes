@@ -60,5 +60,8 @@ sns.boxplot(x = tips_data['tips']).set_title("Box plot of the Tips")
 While looking at a single variable is interesting, it is often useful to see how a variable changes in coordination with another. Using graphs, we can see if there is a difference between the tipping amounts of smokers vs non-smokers, or if tipping varies according to the time of the day
 ```Python
 #Create a boxplot and histogram of the tips grounded by smoking status
-sns.boxplot(x = tips_data["tip"])
+sns.boxplot(x = tips_data["tip"], y = tips_data["smoker"])
+plt.show()
 ```
+![[Pasted image 20240419184109.png]]
+
