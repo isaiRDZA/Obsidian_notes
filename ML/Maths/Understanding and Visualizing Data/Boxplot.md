@@ -65,3 +65,31 @@ plt.show()
 ```
 ![[Pasted image 20240419184109.png]]
 
+```Python
+#Create a boxplot and histogram of the tips grouped by time of day
+sns.boxplot(x = tips_data['tip'], y = tips_data['time'])
+```
+![[Pasted image 20240420004253.png]]
+
+We can also compare the tip distributions based on wether the tip was paid for lunch or dinner.
+```Python
+g = sns.FacetGrid(tep_data, row = 'time')
+g = g.map(plt.hist, "tip")
+plt.show()
+```
+![[Pasted image 20240420004506.png]]
+
+Next we look at the distribution of tips by day of week, using boxplots to show the main features of the distributions.
+
+```Python
+sns.boxplot(x = tips_data['tip'], y = tips_data['day'])
+```
+
+![[Pasted image 20240420004716.png]]
+
+Histograms can capture more features of a distribution, but if the sample is small a histogram may be quite imprecise.
+
+```Python
+g = sns.FacetGrid(tips_data, row = 'day')
+g = g.map)
+```
