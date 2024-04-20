@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+                "file": "Data Science/Pandas/value_counts().md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+                "file": "Data Science/Excel/Work Smarter with Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+                "file": "Data Science/Excel/Work Smarter with Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,11 +192,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc57da6774418688",
+  "active": "60f5c6c648cbcadc",
   "lastOpenFiles": [
+    "ML/Maths/Linear Algebra/np.linalg.solve.md",
+    "Data Science/Pandas/value_counts().md",
+    "Pasted image 20240420011905.png",
+    "ML/Maths/Numpy.md",
+    "Data Science/Pandas",
+    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "Pasted image 20240420005050.png",
     "ML/Maths/Understanding and Visualizing Data/Histograms.md",
-    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "Pasted image 20240420004716.png",
     "Pasted image 20240420004506.png",
     "Pasted image 20240420004253.png",
@@ -210,8 +215,6 @@
     "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
     "Pasted image 20240419181449.png",
     "Pasted image 20240419181239.png",
-    "Pasted image 20240419180946.png",
-    "Pasted image 20240419180708.png",
     "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
     "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
     "ML/Maths/Understanding and Visualizing Data/SciPY.md",
@@ -228,8 +231,6 @@
     "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
     "ML/Maths/Linear Algebra/Indexing.md",
-    "ML/Maths/Linear Algebra/Lineal.md",
-    "ML/Maths/Linear Algebra/Matriz.md",
     "Data Science/Roles",
     "Untitled.canvas",
     "ML/Maths/Understanding and Visualizing Data",
@@ -239,7 +240,6 @@
     "Data Science/Excel",
     "Data Science",
     "ML/Maths/Linear Algebra/Untitled",
-    "ML/Maths/Linear Algebra",
-    "ML/Maths"
+    "ML/Maths/Linear Algebra"
   ]
 }
