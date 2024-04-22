@@ -16,7 +16,7 @@ expenses/learn:
 expenses/events: 
 expenses/house:
 ---
-## What we would like to achieve today?
+## What did we achieve today?
 
 
 

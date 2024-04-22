@@ -3,7 +3,7 @@
 	- Workbooks and data
 	- Format
 	- [[Applying layouyt]]
-	- [[Print] in Excel]
+	- [[Print in Excel]]
 - Week 2
 	- Use formulas and functions
 	- [[Sorting and filtering with Excel]]

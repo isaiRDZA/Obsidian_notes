@@ -1,0 +1,1 @@
+A data professional who makes data accessible, ensure data ecosystems, offer reliable results, and manages infrastructure for data across enterprises.

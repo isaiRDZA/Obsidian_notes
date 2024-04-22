@@ -9,4 +9,15 @@ There are a Number Summary for quantitative data
 - Std Dev: The [[standard deviation]] is roughly the average distance that the values are from the mean 
 
 What is the relationship between **[[mean]]** and **[[media]]** when the data is skewed to the right or left? 
+## Describing data
 
+^98f5fd
+
+![[Seaborn#^fad6d3]]
+
+Summary statistics including the mean, minimum, and maximum of the data, can be useful to get a feel or the central tendency and dispersion of each variable.
+```Python
+tips_data.describe()
+```
+![[Pasted image 20240419175740.png]]
+^18ea09
