@@ -97,3 +97,5 @@ rand_arr = np.random.rand(3)
 print(rand_arr)
 ```
 \[0.02424706 0.5460603  0.40185951\]
+
+

@@ -19,6 +19,9 @@ A histogram captures the shape of the distribution of the data.
 ```Python
 sns.histplot(tips_data["total_bill"], kde = False).set_tittle("Histogram of Total Bill")
 ```
+
+^38111d
+
 ![[Pasted image 20240419180708.png]]
 
 ```Python

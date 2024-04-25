@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Excel/Work Smarter with Excel.md",
+                "file": "Templates/Template daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Excel/Work Smarter with Excel.md",
+                "file": "Templates/Template daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Excel/Work Smarter with Excel.md",
+                "file": "Templates/Template daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,14 +173,23 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "dc914b37b0f3e38f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Template daily.md"
+              }
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 746.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,43 +203,43 @@
   },
   "active": "60f5c6c648cbcadc",
   "lastOpenFiles": [
-    "ML/Maths/Linear Algebra/np.linalg.solve.md",
-    "Data Science/Pandas/value_counts().md",
-    "Pasted image 20240420011905.png",
+    "daily/2024-04-19.md",
+    "daily/2024-04-21.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "pene.md",
     "ML/Maths/Numpy.md",
+    "ML/Maths/Linear Algebra/Array math operations.md",
+    "Data Science/Roles/Chief Data Officer.md",
+    "Habits/Gym tracker.md",
+    "ML/Maths/Linear Algebra/Teorema de resumen.md",
+    "ML/Maths/Linear Algebra/Stacking.md",
+    "ML/Maths/Linear Algebra/Slicing.md",
+    "ML/Maths/Linear Algebra/Size, shape and dimension.md",
+    "ML/Maths/Linear Algebra/Sistemas inconsistentes y consistentes.md",
+    "ML/Maths/Linear Algebra/Reshaping.md",
+    "ML/Maths/Linear Algebra/Operaciones elementales con renglones.md",
+    "ML/Maths/Linear Algebra/Numpy array.md",
+    "ML/Maths/Linear Algebra/np.linalg.solve.md",
+    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
+    "ML/Maths/Linear Algebra/Multidimensional Array.md",
+    "ML/Maths/Linear Algebra/Matriz.md",
+    "ML/Maths/Linear Algebra/Lineal.md",
+    "ML/Maths/Linear Algebra/Indexing.md",
+    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
+    "ML/Maths/Mathematics for Machine Learning.md",
+    "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
+    "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
+    "Pasted image 20240420011905.png",
     "Data Science/Pandas",
-    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "Pasted image 20240420005050.png",
-    "ML/Maths/Understanding and Visualizing Data/Histograms.md",
     "Pasted image 20240420004716.png",
     "Pasted image 20240420004506.png",
     "Pasted image 20240420004253.png",
     "Pasted image 20240419184109.png",
-    "ML/Maths/Linear Algebra/Reshaping.md",
-    "ML/Maths/Linear Algebra/Numpy array.md",
-    "ML/Maths/Linear Algebra/Teorema de resumen.md",
     "Pasted image 20240419182451.png",
     "Pasted image 20240419182241.png",
-    "Histograms^.md",
-    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
     "Pasted image 20240419181449.png",
     "Pasted image 20240419181239.png",
-    "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
-    "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
-    "ML/Maths/Understanding and Visualizing Data/SciPY.md",
-    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
-    "Data Science/Excel/Work Smarter with Excel.md",
-    "daily/2024-04-19.md",
-    "Data Science/Roles/Analytics Team Manager.md",
-    "Data Science/Roles/Business Intelligence Engineer.md",
-    "Data Science/Roles/Chief Data Officer.md",
-    "Data Science/Roles/Data clenaing.md",
-    "Data Science/Roles/Data Engineer.md",
-    "Data Science/Roles/Data scientist.md",
-    "ML/Maths/Linear Algebra/Array math operations.md",
-    "ML/Maths/Linear Algebra/Creating arrays.md",
-    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
-    "ML/Maths/Linear Algebra/Indexing.md",
     "Data Science/Roles",
     "Untitled.canvas",
     "ML/Maths/Understanding and Visualizing Data",
