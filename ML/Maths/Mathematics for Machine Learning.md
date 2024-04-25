@@ -5,7 +5,7 @@ The specialization have three courses all courses in [[NumPy]]:
 		Luis S: That's what neural networks do they're just a bunch of matrices with activations in the middle that warp space.
 
 2. [[Calculus]]: [[Maximizing]] and [[minimazing]].
-		Bast majority of [[learning algorithms]] are creating by defining a cost function and minimizing it. When you can picture the [[gradient descent]] or [[adam]] derivatives in your head you're better able to tune the algorithm.
+		Bast majority of [[learning algorithms]] are creating by defining a cost function and minimizing it. When you can picture the [[ML/Neural Networks/gradient descent]] or [[adam]] derivatives in your head you're better able to tune the algorithm.
 
 3. [[Probability]]: Many times a model outputs a probability and probability can be used to train models. E.g. [[maximum likehood estimation]]  
 		

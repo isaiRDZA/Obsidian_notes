@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigmoid.md",
+                "file": "ML/Neural Networks/Logistic Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecc3f9d3d7af3efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Neural Networks/Logistic Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sigmoid.md",
+                "file": "ML/Neural Networks/Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sigmoid.md",
+                "file": "ML/Neural Networks/Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sigmoid.md"
+                "file": "ML/Neural Networks/Logistic Regression.md"
               }
             }
           }
@@ -214,17 +226,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed9812f56c98bd1b",
+  "active": "ecc3f9d3d7af3efb",
   "lastOpenFiles": [
-    "Logistic Regression.md",
-    "Sigmoid.md",
+    "ML/Neural Networks/neural networks.md",
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Neural Networks/Sigmoid.md",
+    "ML/Plots/Matplotlib/Multiple line plots.md",
+    "Habits/Gym tracker.md",
+    "Templates/Template daily.md",
+    "First Note.md",
+    "Flash fill (Relleno rápido).md",
+    "mean.md",
+    "ML/Neural Networks/gradient descent.md",
+    "ML/Neural Networks/Binary classification.md",
+    "ML/Neural Networks/Untitled.md",
+    "ML/Neural Networks/Activation functions.md",
+    "ML/Neural Networks/Gradient Descent.md",
+    "Pasted image 20240424220652.png",
     "Classification.md",
     "ML/Neural Networks/Artificial neuron.md",
-    "ML/Neural Networks/Activation functions.md",
-    "ML/Neural Networks/Untitled.md",
-    "ML/Neural Networks/neural networks.md",
-    "ML/Neural Networks/Binary classification.md",
-    "ML/Neural Networks/Gradient Descent.md",
     "ML/Deep Learning/Deep Learning.md",
     "ML/Deep Learning",
     "ML/Neural Networks",
@@ -235,15 +255,8 @@
     "ML/Machine Learning.md",
     "neural networks.md",
     "daily/2024-04-22.md",
-    "Habits/Gym tracker.md",
     "daily/2024-04-21.md",
-    "Templates/Template daily.md",
     "daily/2024-04-19.md",
-    "ML/Maths/Linear Algebra/Creating arrays.md",
-    "pene.md",
-    "ML/Maths/Numpy.md",
-    "ML/Maths/Linear Algebra/Array math operations.md",
-    "Data Science/Roles/Chief Data Officer.md",
     "Pasted image 20240420011905.png",
     "Data Science/Pandas",
     "Pasted image 20240420005050.png",
@@ -254,7 +267,6 @@
     "Pasted image 20240419182451.png",
     "Pasted image 20240419182241.png",
     "Pasted image 20240419181449.png",
-    "Pasted image 20240419181239.png",
     "Data Science/Roles",
     "Untitled.canvas",
     "ML/Maths/Understanding and Visualizing Data",
