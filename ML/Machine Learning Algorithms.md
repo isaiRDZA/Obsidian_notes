@@ -8,6 +8,10 @@
 [[Anomaly Detection]]
 [[Collaborative Filtering]]
 [[Content-Based Filtering]]
+[[PCA]]
+
+## Reinforcement Learning
+[[Continuous state spaces]]
 
 ## Metrics
 [[Learning curves]]

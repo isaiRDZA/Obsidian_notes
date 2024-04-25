@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Machine Learning Algorithms.md",
+                "file": "ML/Neural Networks/neural networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Machine Learning Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Machine Learning Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,13 +177,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/Machine Learning Algorithms.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,10 +197,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60f5c6c648cbcadc",
+  "active": "51eacb7862bd909f",
   "lastOpenFiles": [
-    "Anormally Detection.md",
+    "ML/Neural Networks/neural networks.md",
+    "ML/Deep Learning/Deep Learning.md",
+    "ML/Deep Learning",
+    "ML/Neural Networks",
     "ML/Machine Learning Algorithms.md",
+    "Anormally Detection.md",
     "daily/2024-04-24.md",
     "daily/2024-04-23.md",
     "ML/Machine Learning.md",
@@ -227,8 +227,6 @@
     "ML/Maths/Linear Algebra/Reshaping.md",
     "ML/Maths/Linear Algebra/Operaciones elementales con renglones.md",
     "ML/Maths/Linear Algebra/Numpy array.md",
-    "ML/Maths/Linear Algebra/np.linalg.solve.md",
-    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
     "Pasted image 20240420011905.png",
     "Data Science/Pandas",
     "Pasted image 20240420005050.png",
@@ -247,8 +245,6 @@
     "daily/Untitled",
     "Habits",
     "Data Science/Excel",
-    "Data Science",
-    "ML/Maths/Linear Algebra/Untitled",
-    "ML/Maths/Linear Algebra"
+    "Data Science"
   ]
 }
