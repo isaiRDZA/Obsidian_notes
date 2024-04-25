@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md",
+                "file": "ML/Neural Networks/Artificial neuron.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md",
+                "file": "ML/Neural Networks/Artificial neuron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md",
+                "file": "ML/Neural Networks/Artificial neuron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md"
+                "file": "ML/Neural Networks/Artificial neuron.md"
               }
             }
           }
@@ -204,9 +204,11 @@
   "active": "60f5c6c648cbcadc",
   "lastOpenFiles": [
     "ML/Neural Networks/Untitled.md",
-    "ML/Neural Networks/Activation functions.md",
-    "ML/Neural Networks/Gradient Descent.md",
     "ML/Neural Networks/neural networks.md",
+    "ML/Neural Networks/Artificial neuron.md",
+    "ML/Neural Networks/Activation functions.md",
+    "ML/Neural Networks/Binary classification.md",
+    "ML/Neural Networks/Gradient Descent.md",
     "ML/Deep Learning/Deep Learning.md",
     "ML/Deep Learning",
     "ML/Neural Networks",
@@ -229,8 +231,6 @@
     "ML/Maths/Linear Algebra/Teorema de resumen.md",
     "ML/Maths/Linear Algebra/Stacking.md",
     "ML/Maths/Linear Algebra/Slicing.md",
-    "ML/Maths/Linear Algebra/Size, shape and dimension.md",
-    "ML/Maths/Linear Algebra/Sistemas inconsistentes y consistentes.md",
     "Pasted image 20240420011905.png",
     "Data Science/Pandas",
     "Pasted image 20240420005050.png",
