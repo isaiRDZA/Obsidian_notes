@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flash fill (Relleno rápido).md",
+                "file": "ML/Neural Networks/Gradient Descent.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md",
+                "file": "ML/Neural Networks/Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md",
+                "file": "ML/Neural Networks/Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md"
+                "file": "ML/Neural Networks/Gradient Descent.md"
               }
             }
           }
@@ -226,16 +226,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecc3f9d3d7af3efb",
+  "active": "215854e6c59e839c",
   "lastOpenFiles": [
-    "ML/Neural Networks/neural networks.md",
     "ML/Neural Networks/Logistic Regression.md",
+    "ML/Neural Networks/neural networks.md",
     "ML/Neural Networks/Sigmoid.md",
+    "Flash fill (Relleno rápido).md",
     "ML/Plots/Matplotlib/Multiple line plots.md",
     "Habits/Gym tracker.md",
     "Templates/Template daily.md",
     "First Note.md",
-    "Flash fill (Relleno rápido).md",
     "mean.md",
     "ML/Neural Networks/gradient descent.md",
     "ML/Neural Networks/Binary classification.md",

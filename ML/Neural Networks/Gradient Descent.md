@@ -1,1 +1,1 @@
-[[Cost function]]
+This algorithm looks for the values of $\omega$ and $b$ that minimize the [[Cost function]] 
