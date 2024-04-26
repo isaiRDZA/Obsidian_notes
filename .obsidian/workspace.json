@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Sigmoid.md",
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Sigmoid.md",
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Sigmoid.md",
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Sigmoid.md"
+                "file": "ML/Maths/Linear Algebra/Reshaping.md"
               }
             }
           }
@@ -228,6 +228,11 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
+    "Pasted image 20240426134611.png",
+    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "ML/Maths/Linear Algebra/Array math operations.md",
+    "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/Activation functions.md",
     "ML/Neural Networks/Artificial neuron.md",
     "ML/Neural Networks/Binary classification.md",
@@ -243,7 +248,6 @@
     "ML/Neural Networks/gradient descent.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/neural networks.md",
-    "ML/Neural Networks/Sigmoid.md",
     "Pasted image 20240424224212.png",
     "Flash fill (Relleno rápido).md",
     "ML/Plots/Matplotlib/Multiple line plots.md",
@@ -252,12 +256,8 @@
     "mean.md",
     "ML/Neural Networks/Untitled.md",
     "Pasted image 20240424220652.png",
-    "Classification.md",
-    "ML/Deep Learning/Deep Learning.md",
     "ML/Deep Learning",
     "ML/Neural Networks",
-    "ML/Machine Learning Algorithms.md",
-    "Anormally Detection.md",
     "Pasted image 20240420011905.png",
     "Data Science/Pandas",
     "Pasted image 20240420005050.png",
