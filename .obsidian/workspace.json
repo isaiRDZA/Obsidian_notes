@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md",
+                "file": "Habits/Gym tracker.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md",
+                "file": "Habits/Gym tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md",
+                "file": "Habits/Gym tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,12 +204,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md"
+                "file": "Habits/Gym tracker.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -227,6 +227,14 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
+    "daily/2024-04-26.md",
+    "daily/2024-04-25.md",
+    "daily/2024-04-22.md",
+    "daily/2024-04-20.md",
+    "daily/2024-04-21.md",
+    "daily/2024-04-23.md",
+    "daily/2024-04-24.md",
+    "ML/Neural Networks/Activation functions.md",
     "ML/Neural Networks/Artificial neuron.md",
     "ML/Neural Networks/Binary classification.md",
     "ML/Neural Networks/Gradient Descent.md",
@@ -242,7 +250,6 @@
     "First Note.md",
     "mean.md",
     "ML/Neural Networks/Untitled.md",
-    "ML/Neural Networks/Activation functions.md",
     "Pasted image 20240424220652.png",
     "Classification.md",
     "ML/Deep Learning/Deep Learning.md",
@@ -250,12 +257,6 @@
     "ML/Neural Networks",
     "ML/Machine Learning Algorithms.md",
     "Anormally Detection.md",
-    "daily/2024-04-24.md",
-    "daily/2024-04-23.md",
-    "ML/Machine Learning.md",
-    "neural networks.md",
-    "daily/2024-04-22.md",
-    "daily/2024-04-21.md",
     "Pasted image 20240420011905.png",
     "Data Science/Pandas",
     "Pasted image 20240420005050.png",
