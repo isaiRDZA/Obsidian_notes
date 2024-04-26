@@ -6,6 +6,8 @@ For example in computer science, an image is represented by a 3D array of shape 
 
 ![[Pasted image 20240426134611.png]]
 
+Implementing image2vector() a function that takes an input of shape (lenght, height, 3) and returns a vector of shape (lenght \* height \* , 3) and returns a vector of shape (lenght \* height \* 3, 1).
+
 
 ![[Multidimensional Array#^574301]]
 ![[Multidimensional Array#^f7a42f]]
