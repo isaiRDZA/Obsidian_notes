@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Normalize.md",
+                "file": "Softmax.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Normalize.md",
+                "file": "Softmax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Normalize.md",
+                "file": "Softmax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Normalize.md"
+                "file": "Softmax.md"
               }
             }
           }
@@ -228,8 +228,12 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
-    "ML/Deep Learning/Deep Learning.md",
+    "ML/Neural Networks/Activation functions.md",
+    "Softmax.md",
     "ML/Maths/Linear Algebra/Normalize.md",
+    "Pasted image 20240427001501.png",
+    "broadcasting.md",
+    "ML/Deep Learning/Deep Learning.md",
     "ML/Maths/Linear Algebra/Reshaping.md",
     "ML/Neural Networks/Logistic Regression.md",
     "Classification.md",
@@ -241,7 +245,6 @@
     "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
     "ML/Neural Networks/Sigmoid.md",
-    "ML/Neural Networks/Activation functions.md",
     "ML/Neural Networks/Artificial neuron.md",
     "ML/Neural Networks/Binary classification.md",
     "Habits/Gym tracker.md",
@@ -254,9 +257,7 @@
     "daily/2024-04-24.md",
     "ML/Neural Networks/Gradient Descent.md",
     "ML/Neural Networks/gradient descent.md",
-    "ML/Neural Networks/neural networks.md",
     "Pasted image 20240424224212.png",
-    "Flash fill (Relleno rápido).md",
     "Pasted image 20240424220652.png",
     "ML/Deep Learning",
     "ML/Neural Networks",
@@ -266,7 +267,6 @@
     "Pasted image 20240420004716.png",
     "Pasted image 20240420004506.png",
     "Pasted image 20240420004253.png",
-    "Pasted image 20240419184109.png",
     "Data Science/Roles",
     "Untitled.canvas",
     "ML/Maths/Understanding and Visualizing Data",
