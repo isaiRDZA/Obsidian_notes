@@ -58,3 +58,12 @@ print("softmax(x) = " + str(softmax(t_x)))
 ```
 
 ![[Pasted image 20240427014213.png]]
+If we print `x_sum` we will get a vector $\vec{v} \in \mathbb{R}^{1,2}$ for this example, the sum of each row of our input vector.
+```Python
+t_x = np.array([[9, 2, 5, 0, 0],
+                [7, 5, 0, 0 ,0]])
+x_sum = np.sum(np.exp(t_x), axis=1, keepdims= True)
+x_sum
+```
+
+![[Pasted image 20240427142159.png]]

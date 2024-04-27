@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
+                "file": "ML/Maths/Linear Algebra/np.sum().md",
                 "mode": "source",
                 "source": false
               }
@@ -145,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/Maths/Linear Algebra/np.sum().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/Maths/Linear Algebra/np.sum().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,15 +202,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML/Maths/Linear Algebra/np.sum().md"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 764.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,15 +225,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51eacb7862bd909f",
+  "active": "139300bef94293bc",
   "lastOpenFiles": [
     "ML/Neural Networks/Softmax.md",
+    "ML/Maths/Linear Algebra/np.sum().md",
+    "Pasted image 20240427142159.png",
+    "daily/2024-04-27.md",
+    "daily/2024-04-26.md",
     "Pasted image 20240427014213.png",
     "ML/Machine Learning Algorithms.md",
     "daily/2024-04-23.md",
     "daily/2024-04-24.md",
     "daily/2024-04-25.md",
-    "daily/2024-04-26.md",
     "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
     "ML/Maths/Linear Algebra/np.linalg.solve.md",
     "ML/Neural Networks/Logistic Regression.md",
@@ -250,7 +258,6 @@
     "Pasted image 20240426134611.png",
     "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/Artificial neuron.md",
-    "ML/Neural Networks/Binary classification.md",
     "Pasted image 20240424224212.png",
     "Pasted image 20240424220652.png",
     "ML/Deep Learning",
@@ -259,7 +266,6 @@
     "Data Science/Pandas",
     "Pasted image 20240420005050.png",
     "Pasted image 20240420004716.png",
-    "Pasted image 20240420004506.png",
     "Data Science/Roles",
     "Untitled.canvas",
     "ML/Maths/Understanding and Visualizing Data",
