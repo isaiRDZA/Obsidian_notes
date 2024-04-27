@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
+                "file": "ML/Machine Learning Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
+                "file": "ML/Machine Learning Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
+                "file": "ML/Machine Learning Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md"
+                "file": "ML/Machine Learning Algorithms.md"
               }
             }
           }
@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,9 +226,14 @@
   },
   "active": "139300bef94293bc",
   "lastOpenFiles": [
+    "daily/2024-04-23.md",
+    "daily/2024-04-24.md",
+    "daily/2024-04-25.md",
+    "daily/2024-04-26.md",
+    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
+    "ML/Neural Networks/Softmax.md",
     "ML/Maths/Linear Algebra/np.linalg.solve.md",
     "ML/Neural Networks/Logistic Regression.md",
-    "ML/Neural Networks/Softmax.md",
     "ML/Maths/Linear Algebra/Lineal.md",
     "ML/Maths/Linear Algebra/Indexing.md",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
@@ -250,12 +254,7 @@
     "ML/Neural Networks/Artificial neuron.md",
     "ML/Neural Networks/Binary classification.md",
     "Habits/Gym tracker.md",
-    "daily/2024-04-26.md",
-    "daily/2024-04-25.md",
     "daily/2024-04-22.md",
-    "daily/2024-04-20.md",
-    "daily/2024-04-21.md",
-    "daily/2024-04-23.md",
     "Pasted image 20240424224212.png",
     "Pasted image 20240424220652.png",
     "ML/Deep Learning",
