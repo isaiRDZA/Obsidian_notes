@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md"
+                "file": "ML/Maths/Understanding and Visualizing Data/Boxplot.md"
               }
             }
           }
@@ -239,13 +239,22 @@
   },
   "active": "139300bef94293bc",
   "lastOpenFiles": [
+    "ML/Maths/Understanding and Visualizing Data/Histograms.md",
+    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
+    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+    "Ve.md",
+    "Untitled.canvas",
+    "broadcasting.md",
+    "Classification.md",
+    "First Note.md",
+    "Flash fill (Relleno rápido).md",
+    "mean.md",
+    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+    "ML/Neural Networks/Softmax.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Maths/Linear Algebra/Normalize.md",
-    "Classification.md",
     "ML/Maths/Linear Algebra/Lineal.md",
-    "ML/Neural Networks/Softmax.md",
     "ML/Maths/Linear Algebra/Matriz.md",
-    "Ve.md",
     "ML/Maths/Linear Algebra/np.sum().md",
     "Pasted image 20240427142159.png",
     "daily/2024-04-27.md",
@@ -259,15 +268,7 @@
     "ML/Maths/Linear Algebra/np.linalg.solve.md",
     "ML/Maths/Linear Algebra/Indexing.md",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
-    "ML/Maths/Linear Algebra/Creating arrays.md",
-    "ML/Maths/Linear Algebra/Array math operations.md",
-    "Data Science/Pandas/value_counts().md",
-    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
-    "ML/Neural Networks/Activation functions.md",
     "Pasted image 20240427001501.png",
-    "broadcasting.md",
-    "ML/Deep Learning/Deep Learning.md",
-    "ML/Maths/Linear Algebra/Reshaping.md",
     "Pasted image 20240426142458.png",
     "Pasted image 20240426134611.png",
     "Pasted image 20240424224212.png",
@@ -279,7 +280,6 @@
     "Pasted image 20240420005050.png",
     "Pasted image 20240420004716.png",
     "Data Science/Roles",
-    "Untitled.canvas",
     "ML/Maths/Understanding and Visualizing Data",
     "Templates",
     "daily/Untitled",
