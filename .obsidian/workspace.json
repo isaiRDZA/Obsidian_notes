@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Reshaping.md",
+                "file": "ML/Maths/Linear Algebra/Normalize.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Reshaping.md",
+                "file": "ML/Maths/Linear Algebra/Normalize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Reshaping.md",
+                "file": "ML/Maths/Linear Algebra/Normalize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Reshaping.md"
+                "file": "ML/Maths/Linear Algebra/Normalize.md"
               }
             }
           }
@@ -228,11 +228,13 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
+    "ML/Deep Learning/Deep Learning.md",
+    "ML/Maths/Linear Algebra/Normalize.md",
+    "ML/Maths/Linear Algebra/Reshaping.md",
     "ML/Neural Networks/Logistic Regression.md",
     "Classification.md",
     "ML/Maths/Linear Algebra/np.linalg.solve.md",
     "Data Science/Pandas/value_counts().md",
-    "ML/Maths/Linear Algebra/Reshaping.md",
     "Pasted image 20240426142458.png",
     "Pasted image 20240426134611.png",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
@@ -255,8 +257,6 @@
     "ML/Neural Networks/neural networks.md",
     "Pasted image 20240424224212.png",
     "Flash fill (Relleno rápido).md",
-    "ML/Plots/Matplotlib/Multiple line plots.md",
-    "Templates/Template daily.md",
     "Pasted image 20240424220652.png",
     "ML/Deep Learning",
     "ML/Neural Networks",
