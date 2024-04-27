@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softmax.md",
+                "file": "ML/Maths/Linear Algebra/Normalize.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md",
+                "file": "ML/Neural Networks/Softmax.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softmax.md",
+                "file": "ML/Neural Networks/Softmax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softmax.md",
+                "file": "ML/Neural Networks/Softmax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softmax.md"
+                "file": "ML/Neural Networks/Softmax.md"
               }
             }
           }
@@ -226,11 +226,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "215854e6c59e839c",
+  "active": "bc57da6774418688",
   "lastOpenFiles": [
-    "ML/Neural Networks/Activation functions.md",
-    "Softmax.md",
+    "Data Science/Pandas/value_counts().md",
     "ML/Maths/Linear Algebra/Normalize.md",
+    "ML/Neural Networks/Softmax.md",
+    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
+    "ML/Neural Networks/Activation functions.md",
     "Pasted image 20240427001501.png",
     "broadcasting.md",
     "ML/Deep Learning/Deep Learning.md",
@@ -238,7 +240,6 @@
     "ML/Neural Networks/Logistic Regression.md",
     "Classification.md",
     "ML/Maths/Linear Algebra/np.linalg.solve.md",
-    "Data Science/Pandas/value_counts().md",
     "Pasted image 20240426142458.png",
     "Pasted image 20240426134611.png",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
@@ -256,7 +257,6 @@
     "daily/2024-04-23.md",
     "daily/2024-04-24.md",
     "ML/Neural Networks/Gradient Descent.md",
-    "ML/Neural Networks/gradient descent.md",
     "Pasted image 20240424224212.png",
     "Pasted image 20240424220652.png",
     "ML/Deep Learning",
