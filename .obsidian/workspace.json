@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/np.sum().md",
+                "file": "ML/Neural Networks/Softmax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "145cb92761348f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Maths/Linear Algebra/Lineal.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Linear Algebra/np.sum().md",
+                "file": "ML/Neural Networks/Softmax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Linear Algebra/np.sum().md",
+                "file": "ML/Neural Networks/Softmax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Linear Algebra/np.sum().md"
+                "file": "ML/Neural Networks/Softmax.md"
               }
             }
           }
@@ -227,7 +239,13 @@
   },
   "active": "139300bef94293bc",
   "lastOpenFiles": [
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Maths/Linear Algebra/Normalize.md",
+    "Classification.md",
+    "ML/Maths/Linear Algebra/Lineal.md",
     "ML/Neural Networks/Softmax.md",
+    "ML/Maths/Linear Algebra/Matriz.md",
+    "Ve.md",
     "ML/Maths/Linear Algebra/np.sum().md",
     "Pasted image 20240427142159.png",
     "daily/2024-04-27.md",
@@ -239,25 +257,19 @@
     "daily/2024-04-25.md",
     "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
     "ML/Maths/Linear Algebra/np.linalg.solve.md",
-    "ML/Neural Networks/Logistic Regression.md",
-    "ML/Maths/Linear Algebra/Lineal.md",
     "ML/Maths/Linear Algebra/Indexing.md",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
     "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
     "Data Science/Pandas/value_counts().md",
-    "ML/Maths/Linear Algebra/Normalize.md",
     "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
     "ML/Neural Networks/Activation functions.md",
     "Pasted image 20240427001501.png",
     "broadcasting.md",
     "ML/Deep Learning/Deep Learning.md",
     "ML/Maths/Linear Algebra/Reshaping.md",
-    "Classification.md",
     "Pasted image 20240426142458.png",
     "Pasted image 20240426134611.png",
-    "ML/Neural Networks/Sigmoid.md",
-    "ML/Neural Networks/Artificial neuron.md",
     "Pasted image 20240424224212.png",
     "Pasted image 20240424220652.png",
     "ML/Deep Learning",

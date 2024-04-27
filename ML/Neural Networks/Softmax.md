@@ -67,3 +67,5 @@ x_sum
 ```
 
 ![[Pasted image 20240427142159.png]]
+
+for more information check ![[np.sum()]]
