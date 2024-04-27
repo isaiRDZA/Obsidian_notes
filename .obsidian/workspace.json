@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/np.linalg.solve.md",
+                "file": "ML/Neural Networks/Softmax.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
+                "file": "ML/Neural Networks/Logistic Regression.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,25 +225,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc57da6774418688",
+  "active": "139300bef94293bc",
   "lastOpenFiles": [
+    "ML/Maths/Linear Algebra/np.linalg.solve.md",
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Neural Networks/Softmax.md",
+    "ML/Maths/Linear Algebra/Lineal.md",
+    "ML/Maths/Linear Algebra/Indexing.md",
+    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "ML/Maths/Linear Algebra/Array math operations.md",
     "Data Science/Pandas/value_counts().md",
     "ML/Maths/Linear Algebra/Normalize.md",
-    "ML/Neural Networks/Softmax.md",
     "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
     "ML/Neural Networks/Activation functions.md",
     "Pasted image 20240427001501.png",
     "broadcasting.md",
     "ML/Deep Learning/Deep Learning.md",
     "ML/Maths/Linear Algebra/Reshaping.md",
-    "ML/Neural Networks/Logistic Regression.md",
     "Classification.md",
-    "ML/Maths/Linear Algebra/np.linalg.solve.md",
     "Pasted image 20240426142458.png",
     "Pasted image 20240426134611.png",
-    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
-    "ML/Maths/Linear Algebra/Creating arrays.md",
-    "ML/Maths/Linear Algebra/Array math operations.md",
     "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/Artificial neuron.md",
     "ML/Neural Networks/Binary classification.md",
@@ -255,8 +256,6 @@
     "daily/2024-04-20.md",
     "daily/2024-04-21.md",
     "daily/2024-04-23.md",
-    "daily/2024-04-24.md",
-    "ML/Neural Networks/Gradient Descent.md",
     "Pasted image 20240424224212.png",
     "Pasted image 20240424220652.png",
     "ML/Deep Learning",
