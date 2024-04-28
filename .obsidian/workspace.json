@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "cff97dbe043f9c05",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "ed9812f56c98bd1b",
             "type": "leaf",
             "state": {
@@ -67,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md",
+                "file": "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md",
+                "file": "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md"
+                "file": "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md"
               }
             }
           }
@@ -214,11 +225,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "145cb92761348f0a",
+  "active": "cff97dbe043f9c05",
   "lastOpenFiles": [
+    "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/Binary classification.md",
     "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md",
-    "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/Sigmoid.md",
     "Pasted Image 20240427194405_014.png",
     "ML/Machine Learning Algorithms.md",

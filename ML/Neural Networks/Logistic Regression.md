@@ -11,4 +11,5 @@ Then the **the [[Cost function]]**: $J(w,b) = \frac{1}{m}\sum_{i = 1}^{m}\mathsc
 **What is the difference between the cost function and the loss function for logistic regression?**
 *The loss function computes the error for a single training example; the cost function is the average of the loss functions of the entire training set.*
 
-## Derivative with Computation Graph  (Gradi)
+## Derivative with Computation Graph  (Gradient Descent for Logistic Regression)
+![[Drawing 2024-04-27 19.18.09.excalidraw]]
