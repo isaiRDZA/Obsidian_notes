@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "139300bef94293bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-04-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "145cb92761348f0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md"
               }
             }
           },
@@ -79,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
+                "file": "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md",
+                "file": "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Softmax.md"
+                "file": "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md"
               }
             }
           }
@@ -229,6 +214,14 @@
   },
   "active": "145cb92761348f0a",
   "lastOpenFiles": [
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Neural Networks/Binary classification.md",
+    "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md",
+    "Pasted Image 20240427194405_014.png",
+    "ML/Neural Networks/Sigmoid.md",
+    "ML/Machine Learning Algorithms.md",
+    "ML/Jupyter Notebook.md",
+    "ML/Neural Networks/Softmax.md",
     "ML/Maths/Linear Algebra/Normalize.md",
     "Habits/Gym tracker.md",
     "daily/2024-04-19.md",
@@ -240,9 +233,7 @@
     "daily/2024-04-26.md",
     "daily/2024-04-27.md",
     "Data Science/Excel/Work Smarter with Excel.md",
-    "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md",
     "Excalidraw/Drawing 2024-04-27 19.19.21.excalidraw.md",
-    "ML/Neural Networks/Logistic Regression.md",
     "Untitled.canvas",
     "Ve.md",
     "Classification.md",
@@ -252,11 +243,6 @@
     "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "ML/Maths/Understanding and Visualizing Data/Histograms.md",
     "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
-    "broadcasting.md",
-    "First Note.md",
-    "Flash fill (Relleno rápido).md",
-    "mean.md",
-    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
     "Pasted image 20240427142159.png",
     "Pasted image 20240427014213.png",
     "Pasted image 20240427001501.png",
@@ -269,7 +255,6 @@
     "Pasted image 20240420011905.png",
     "Data Science/Pandas",
     "Pasted image 20240420005050.png",
-    "Pasted image 20240420004716.png",
     "Data Science/Roles",
     "ML/Maths/Understanding and Visualizing Data",
     "Templates",
