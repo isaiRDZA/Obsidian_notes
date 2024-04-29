@@ -1,4 +1,4 @@
-Two common numpy function used in deep learning are np.shape and np.reshape().
+					Two common numpy function used in deep learning are np.shape and np.reshape().
 - X.shape  is used to get the shape (dimension) of matrix/vector X.
 - X.reshape(...) is used to reshape X into some other dimension.
 
