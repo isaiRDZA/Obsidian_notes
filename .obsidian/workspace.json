@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Jupyter Notebook.md",
+                "file": "Data Science/Excel/Work Smarter with Excel.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0cddbc89aeb7c425",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-29 11.48.28.excalidraw.md"
               }
             }
           },
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Jupyter Notebook.md",
+                "file": "Excalidraw/Drawing 2024-04-29 11.48.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Jupyter Notebook.md",
+                "file": "Excalidraw/Drawing 2024-04-29 11.48.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Jupyter Notebook.md"
+                "file": "Excalidraw/Drawing 2024-04-29 11.48.28.excalidraw.md"
               }
             }
           }
@@ -226,36 +236,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cff97dbe043f9c05",
+  "active": "0cddbc89aeb7c425",
   "lastOpenFiles": [
-    "ML/Machine Learning Algorithms.md",
-    "ML/Neural Networks/Architecture of the learning algorithm.md",
-    "ML/Neural Networks/Logistic Regression.md",
-    "ML/Maths/Linear Algebra/Stacking.md",
-    "daily/2024-04-29.md",
-    "ML/Maths/Linear Algebra/Reshaping.md",
-    "daily/2024-04-28.md",
-    "daily/2024-04-27.md",
     "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md",
-    "ML/Neural Networks/Binary classification.md",
-    "ML/Neural Networks/Sigmoid.md",
-    "Pasted Image 20240427194405_014.png",
-    "ML/Jupyter Notebook.md",
     "ML/Neural Networks/Softmax.md",
-    "ML/Maths/Linear Algebra/Normalize.md",
-    "Habits/Gym tracker.md",
-    "daily/2024-04-19.md",
-    "daily/2024-04-20.md",
-    "daily/2024-04-22.md",
-    "daily/2024-04-23.md",
-    "daily/2024-04-24.md",
-    "daily/2024-04-25.md",
-    "daily/2024-04-26.md",
-    "Data Science/Excel/Work Smarter with Excel.md",
-    "Excalidraw/Drawing 2024-04-27 19.19.21.excalidraw.md",
+    "ML/Neural Networks/Sigmoid.md",
+    "ML/Neural Networks/neural networks.md",
+    "ML/Neural Networks/Gradient Descent.md",
+    "ML/Neural Networks/gradient descent.md",
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Neural Networks/Binary classification.md",
+    "ML/Neural Networks/Artificial neuron.md",
+    "ML/Neural Networks/Architecture of the learning algorithm.md",
+    "ML/Neural Networks/Activation functions.md",
+    "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
+    "ML/Maths/Understanding and Visualizing Data/Seaborn.md",
+    "ML/Maths/Understanding and Visualizing Data/SciPY.md",
+    "ML/Maths/Understanding and Visualizing Data/Quantitative Data.md",
+    "ML/Maths/Understanding and Visualizing Data/Histograms.md",
+    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
+    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+    "ML/Maths/Linear Algebra/Untitled.md",
+    "ML/Maths/Linear Algebra/Teorema de resumen.md",
+    "ML/Maths/Linear Algebra/Stacking.md",
+    "ML/Maths/Linear Algebra/Slicing.md",
+    "ML/Maths/Linear Algebra/Size, shape and dimension.md",
+    "ML/Maths/Linear Algebra/Sistemas inconsistentes y consistentes.md",
+    "ML/Maths/Linear Algebra/Reshaping.md",
+    "ML/Maths/Linear Algebra/Operaciones elementales con renglones.md",
+    "Pasted Image 20240427194405_014.png",
     "Untitled.canvas",
-    "Ve.md",
-    "Classification.md",
     "Excalidraw",
     "Pasted image 20240427142159.png",
     "Pasted image 20240427014213.png",
