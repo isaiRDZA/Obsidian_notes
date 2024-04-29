@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Stacking.md",
+                "file": "ML/Neural Networks/Logistic Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vsta",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Stacking.md",
+                "file": "ML/Neural Networks/Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Stacking.md",
+                "file": "ML/Neural Networks/Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Stacking.md"
+                "file": "ML/Neural Networks/Logistic Regression.md"
               }
             }
           }
@@ -229,6 +228,7 @@
   },
   "active": "cff97dbe043f9c05",
   "lastOpenFiles": [
+    "ML/Maths/Linear Algebra/Stacking.md",
     "daily/2024-04-29.md",
     "ML/Maths/Linear Algebra/Reshaping.md",
     "daily/2024-04-28.md",
@@ -257,7 +257,6 @@
     "Classification.md",
     "Excalidraw",
     "ML/Maths/Linear Algebra/Multidimensional Array.md",
-    "ML/Maths/Linear Algebra/Lineal.md",
     "Pasted image 20240427142159.png",
     "Pasted image 20240427014213.png",
     "Pasted image 20240427001501.png",
