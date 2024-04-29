@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-04-27.md",
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-04-27.md",
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-04-27.md",
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-04-27.md"
+                "file": "ML/Maths/Linear Algebra/Reshaping.md"
               }
             }
           }
@@ -213,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +228,8 @@
   },
   "active": "cff97dbe043f9c05",
   "lastOpenFiles": [
+    "daily/2024-04-28.md",
+    "daily/2024-04-27.md",
     "ML/Neural Networks/Logistic Regression.md",
     "Excalidraw/Drawing 2024-04-27 19.18.09.excalidraw.md",
     "ML/Neural Networks/Binary classification.md",
@@ -246,7 +247,6 @@
     "daily/2024-04-24.md",
     "daily/2024-04-25.md",
     "daily/2024-04-26.md",
-    "daily/2024-04-27.md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "Excalidraw/Drawing 2024-04-27 19.19.21.excalidraw.md",
     "Untitled.canvas",
@@ -257,7 +257,6 @@
     "ML/Maths/Linear Algebra/Lineal.md",
     "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "ML/Maths/Understanding and Visualizing Data/Histograms.md",
-    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
     "Pasted image 20240427142159.png",
     "Pasted image 20240427014213.png",
     "Pasted image 20240427001501.png",
