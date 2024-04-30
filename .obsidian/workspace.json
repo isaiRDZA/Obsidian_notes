@@ -35,9 +35,11 @@
             "id": "0cddbc89aeb7c425",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md"
+                "file": "ML/Neural Networks/Vectorization.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md",
+                "file": "ML/Neural Networks/Vectorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md",
+                "file": "ML/Neural Networks/Vectorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md"
+                "file": "ML/Neural Networks/Vectorization.md"
               }
             }
           }
@@ -238,12 +240,12 @@
   },
   "active": "0cddbc89aeb7c425",
   "lastOpenFiles": [
+    "Excalidraw/derivativeBackpropagationGraph.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/Vectorization.md",
     "Habits/Gym tracker.md",
     "daily/2024-04-29.md",
     "daily/2024-04-30.md",
-    "Excalidraw/derivativeBackpropagationGraph.md",
     "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
     "ML/Maths/Linear Algebra/Multidimensional Array.md",
     "ML/Maths/Linear Algebra/Sistemas inconsistentes y consistentes.md",
