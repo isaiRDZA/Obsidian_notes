@@ -22,7 +22,7 @@ w2
 
 # Embedded files
 f45cb44ed591e83905f60b8b554ffb5b8d9fda72: $$\color{black} z = w_{1}x_{1}+w_{2}x_{2}+b$$
-4e9515331dce77b103a45ea4a17267bc023d8779: $$\hat{y} = a =   \sigma(z)$$
+4e9515331dce77b103a45ea4a17267bc023d8779: $$a =   \sigma(z)$$
 2f96c5f1ed1d2071d4f720e6bcdfd6ed2b2ea725: $$\mathcal{L}(a,y)$$
 26626ded7b500b9cbfd8389a8637f898d2f077a4: $$\sigma(z) = \frac{1}{1+e^{-z}}$$
 22d5d260f7c04055859383eebd58053ae7b8830b: $$\begin{align}
@@ -471,12 +471,12 @@ a62d5dd5c581283ece88ecc64bb8da568a3a0500: $$\begin{align}
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 514.3790616840786,
-			"y": -176.21794550915308,
+			"x": 528.9503052490583,
+			"y": -179.63909236647186,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 185,
-			"height": 36.59340659340659,
+			"width": 155.8575128700407,
+			"height": 43.43570030804413,
 			"seed": 74895,
 			"groupIds": [],
 			"frameId": null,
@@ -978,42 +978,6 @@ a62d5dd5c581283ece88ecc64bb8da568a3a0500: $$\begin{align}
 					-1.1777310861422166
 				]
 			]
-		},
-		{
-			"id": "4qeF8jsc",
-			"type": "text",
-			"x": 286.2036882414898,
-			"y": -344.5662105043282,
-			"width": 9.999984741210938,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 491753520,
-			"version": 2,
-			"versionNonce": 1947398352,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1714284108893,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -1031,10 +995,10 @@ a62d5dd5c581283ece88ecc64bb8da568a3a0500: $$\begin{align}
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 187.18214214254468,
-		"scrollY": 929.6948648681558,
+		"scrollX": 124.9173725642712,
+		"scrollY": 703.9024182664475,
 		"zoom": {
-			"value": 0.6500000000000001
+			"value": 0.8332223234871006
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
