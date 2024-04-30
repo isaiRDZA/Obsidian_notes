@@ -17,3 +17,14 @@ u = np.dot(A,v)
 Say we need to apply the exponential operation on every element of a matrix/vector.
 $$v = \begin{bmatrix}v_{1}\\\vdots\\v_{n}\end{bmatrix} \rightarrow  u = \begin{bmatrix}e^{v_1}\\\vdots\\e^{v_{n}}\end{bmatrix}$$
 
+We can take the using for approach
+```Python
+u = np.zeros((n,1))
+for i in range(n):
+	u[i] = math.exp(v[i])
+```
+Or we can use the vectorization:
+```Python
+import numpy as np
+u = np.exp(u)
+```
