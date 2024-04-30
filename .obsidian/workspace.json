@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md",
+                "file": "daily/2024-04-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md",
+                "file": "daily/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md",
+                "file": "daily/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md"
+                "file": "daily/2024-04-30.md"
               }
             }
           }
@@ -240,12 +240,15 @@
   },
   "active": "0cddbc89aeb7c425",
   "lastOpenFiles": [
+    "Ve.md",
+    "Untitled.md",
+    "ML/Maths/Linear Algebra/np.sum().md",
+    "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/Vectorization.md",
     "ML/Neural Networks/Activation functions.md",
     "ML/Neural Networks/Softmax.md",
     "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/neural networks.md",
-    "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/gradient descent.md",
     "ML/Neural Networks/Gradient Descent.md",
     "ML/Neural Networks/Artificial neuron.md",
@@ -263,9 +266,6 @@
     "daily/2024-04-29.md",
     "daily/2024-04-30.md",
     "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
-    "ML/Maths/Linear Algebra/Multidimensional Array.md",
-    "ML/Maths/Linear Algebra/Sistemas inconsistentes y consistentes.md",
-    "ML/Maths/Linear Algebra/Size, shape and dimension.md",
     "Pasted image 20240429121340.png",
     "Pasted Image 20240429121213_684.png",
     "Pasted Image 20240427194405_014.png",
