@@ -85,4 +85,15 @@ Which of the following gives an equivalent output for c?
 - [ ] The computation cannot happen because the sizes don't match. It's going to be an "Error"!
 - [ ] ```for i in range(3):
 		for j in range(3):
-			C[i][j] = ```
+			c[i][j] = a[i][j]**2 + b[i][j]**2```
+- [ ]  ```for i in range(3):
+		for j in range(3):
+			c[i][j] = a[i][j]**2 + b[j][i]**2
+
+10. Consider the following computational graph.
+![[Pasted image 20240430214804.png]]
+What is the output of J?
+- [ ] $(a+c)(b-1)$
+- [ ] $(c-1)(a+c)$
+- [ ] $ab+bc+ac$
+- [ ] $(a-1)(b+c)$
