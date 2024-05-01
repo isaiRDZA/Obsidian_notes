@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md",
+                "file": "ML/Quizes/Shallow Neural Networks Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md",
+                "file": "ML/Quizes/Shallow Neural Networks Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md",
+                "file": "ML/Quizes/Shallow Neural Networks Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md"
+                "file": "ML/Quizes/Shallow Neural Networks Quiz.md"
               }
             }
           }
@@ -240,6 +240,9 @@
   },
   "active": "0cddbc89aeb7c425",
   "lastOpenFiles": [
+    "Data Science/Pandas/value_counts().md",
+    "ML/Quizes/Shallow Neural Networks Quiz.md",
+    "ML/Quizes",
     "Data Science/Excel/Work Smarter with Excel.md",
     "daily/2024-04-28.md",
     "daily/2024-04-29.md",
@@ -264,8 +267,6 @@
     "ML/Maths/Mathematics for Machine Learning.md",
     "ML/Maths/Understanding and Visualizing Data/Histograms.md",
     "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
-    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
-    "Excalidraw/derivativeBackpropagationGraph.md",
     "Pasted image 20240429121340.png",
     "Pasted Image 20240429121213_684.png",
     "Pasted Image 20240427194405_014.png",
@@ -285,7 +286,6 @@
     "ML/Maths/Understanding and Visualizing Data",
     "Templates",
     "daily/Untitled",
-    "Habits",
-    "Data Science/Excel"
+    "Habits"
   ]
 }
