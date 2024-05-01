@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-04-30.md",
+                "file": "Data Science/Pandas/value_counts().md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-04-30.md",
+                "file": "Data Science/Pandas/value_counts().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-04-30.md",
+                "file": "Data Science/Pandas/value_counts().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-04-30.md"
+                "file": "Data Science/Pandas/value_counts().md"
               }
             }
           }
@@ -240,6 +240,10 @@
   },
   "active": "0cddbc89aeb7c425",
   "lastOpenFiles": [
+    "Data Science/Excel/Work Smarter with Excel.md",
+    "daily/2024-04-28.md",
+    "daily/2024-04-29.md",
+    "daily/2024-04-30.md",
     "Ve.md",
     "Untitled.md",
     "ML/Maths/Linear Algebra/np.sum().md",
@@ -262,10 +266,6 @@
     "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
     "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
-    "Habits/Gym tracker.md",
-    "daily/2024-04-29.md",
-    "daily/2024-04-30.md",
-    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
     "Pasted image 20240429121340.png",
     "Pasted Image 20240429121213_684.png",
     "Pasted Image 20240427194405_014.png",
