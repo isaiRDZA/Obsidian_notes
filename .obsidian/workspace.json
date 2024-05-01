@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vectori",
+                "query": "bmatrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,14 +240,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8897d54bfa2a951f",
+  "active": "a2c8c102ab57b7c8",
   "lastOpenFiles": [
+    "ML/Neural Networks/Vectorization.md",
+    "ML/Neural Networks/Activation functions.md",
+    "ML/Neural Networks/Architecture of the learning algorithm.md",
+    "ML/Neural Networks/Artificial neuron.md",
+    "ML/Neural Networks/Binary classification.md",
+    "ML/Neural Networks/Gradient Descent.md",
+    "ML/Neural Networks/gradient descent.md",
+    "ML/Neural Networks/Logistic Regression.md",
+    "neural networks.md",
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Quizes/Shallow Neural Networks Quiz.md",
     "daily/2024-04-30.md",
     "Pasted image 20240430203419.png",
     "Pasted image 20240430202149.png",
-    "ML/Neural Networks/Logistic Regression.md",
     "Data Science/Pandas/value_counts().md",
     "ML/Quizes",
     "Data Science/Excel/Work Smarter with Excel.md",
@@ -255,21 +264,13 @@
     "Ve.md",
     "Untitled.md",
     "ML/Maths/Linear Algebra/np.sum().md",
-    "ML/Neural Networks/Vectorization.md",
-    "ML/Neural Networks/Activation functions.md",
     "ML/Neural Networks/Softmax.md",
     "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/neural networks.md",
-    "ML/Neural Networks/gradient descent.md",
-    "ML/Neural Networks/Gradient Descent.md",
-    "ML/Neural Networks/Artificial neuron.md",
-    "ML/Neural Networks/Binary classification.md",
-    "ML/Neural Networks/Architecture of the learning algorithm.md",
     "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
     "ML/Maths/Numpy.md",
     "ML/Maths/Mathematics for Machine Learning.md",
-    "ML/Maths/Understanding and Visualizing Data/Histograms.md",
     "Pasted image 20240429121340.png",
     "Pasted Image 20240429121213_684.png",
     "Pasted Image 20240427194405_014.png",
