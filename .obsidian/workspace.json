@@ -59,9 +59,11 @@
             "id": "ecc3f9d3d7af3efb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md"
+                "file": "broadcasting.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md",
+                "file": "broadcasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md",
+                "file": "broadcasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md"
+                "file": "broadcasting.md"
               }
             }
           }
@@ -239,8 +241,9 @@
   },
   "active": "ecc3f9d3d7af3efb",
   "lastOpenFiles": [
-    "ML/Neural Networks/Logistic Regression.md",
+    "Pasted image 20240501152141.png",
     "Excalidraw/derivativeBackpropagationGraph.md",
+    "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/neural networks.md",
     "ML/Neural Networks/Vectorization.md",
     "ML/Neural Networks/Softmax.md",
@@ -264,7 +267,6 @@
     "ML/Maths/Linear Algebra/Numpy array.md",
     "ML/Plots/Matplotlib/Matplotlib.md",
     "ML/Plots/Matplotlib/Spacing.md",
-    "ML/Plots/Matplotlib/Multiple line plots.md",
     "Pasted image 20240430214804.png",
     "Pasted image 20240430203419.png",
     "Pasted image 20240430202149.png",
