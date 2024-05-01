@@ -40,4 +40,8 @@ What would be the y.shape?
 - [ ] Initialize all weights to a single number chosen randomly.
 - [ ] Initialize the weights to large random numbers.
 
-7. A single output and single layer 
+7. A single output and single layer neural network that uses the sigmoid function as activation is equivalent to the logistic regression. True/False
+- [ ] True
+- [ ] False
+
+8. 
