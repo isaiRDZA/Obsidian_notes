@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md",
+                "file": "ML/Quizes/Shallow Neural Networks Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,10 +238,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cddbc89aeb7c425",
+  "active": "ecc3f9d3d7af3efb",
   "lastOpenFiles": [
-    "Data Science/Pandas/value_counts().md",
+    "ML/Neural Networks/Logistic Regression.md",
     "ML/Quizes/Shallow Neural Networks Quiz.md",
+    "Data Science/Pandas/value_counts().md",
     "ML/Quizes",
     "Data Science/Excel/Work Smarter with Excel.md",
     "daily/2024-04-28.md",
@@ -250,7 +251,6 @@
     "Ve.md",
     "Untitled.md",
     "ML/Maths/Linear Algebra/np.sum().md",
-    "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/Vectorization.md",
     "ML/Neural Networks/Activation functions.md",
     "ML/Neural Networks/Softmax.md",
