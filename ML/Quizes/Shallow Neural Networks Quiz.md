@@ -44,4 +44,14 @@ What would be the y.shape?
 - [ ] True
 - [ ] False
 
-8. 
+8. Which of the following is true about the ReLU activation functions?
+- [ ] They cause several problems in practice because they have no derivative at 0. That is why ReLU Leaky was invented.
+- [ ] They are the go option when you don't know what activation function to choose for hidden layers.
+- [ ] They are only used in the case of regression problems, such as predicting houses.
+- [ ] They are increasingly being replaced by the tanh in most cases.
+
+9. Consider the following 1 hidden layer neural network
+![[Pasted image 20240430202149.png]]
+- [ ] $b^{[1]}$ will have shape (3,1).
+- [ ] $W^{[1]}$ will have shape (4,3).
+- [ ] 
