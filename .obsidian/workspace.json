@@ -158,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/Quizes/Neural Network Basics quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/Quizes/Neural Network Basics quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML/Quizes/Neural Network Basics quiz.md"
+              }
             }
           }
         ],
@@ -221,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 580.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,7 +239,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51eacb7862bd909f",
+  "active": "8897d54bfa2a951f",
   "lastOpenFiles": [
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Quizes/Shallow Neural Networks Quiz.md",
