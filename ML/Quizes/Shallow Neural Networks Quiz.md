@@ -54,4 +54,15 @@ What would be the y.shape?
 ![[Pasted image 20240430202149.png]]
 - [ ] $b^{[1]}$ will have shape (3,1).
 - [ ] $W^{[1]}$ will have shape (4,3).
-- [ ] 
+- [ ] $b^{[2]}$ will have shape (1,1).
+- [ ] $W^{[1]}$ will have shape (3,4).
+- [ ] $b^{[1]}$ will have shape (1,3).
+- [ ] $b^{[2]}$ will have shape (3,1).
+
+10. Consider the following 1 hidden layer neural network
+![[Pasted image 20240430203419.png]]
+What are the dimensions of $\matrix{Z^{[1]}}$ and $\matrix{A^{[1]}}$? 
+- [ ]  $\matrix{Z}^{[1]}$ and $\matrix{A}^{[1]}$ are (3,1)
+- [ ] $\matrix{Z}^{[1]}$ and $\matrix{A}^{[1]}$ are (3,m)
+- [ ] $\matrix{Z}^{[1]}$ and $\matrix{A}^{[1]}$ are (4,m)
+- [ ] $\matrix{Z}^{[1]}$ and $\matrix{A}^{[1]}$ are (4,1)
