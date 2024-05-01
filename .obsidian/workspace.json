@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bmatrix",
+                "query": "matrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

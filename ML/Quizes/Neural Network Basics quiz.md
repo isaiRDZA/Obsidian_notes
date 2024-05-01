@@ -43,4 +43,46 @@ What will be the shape of c?
 - [ ] c.shape = (1, 3)
 - [ ] The computation cannot happen because the sizes don´t match.
 
-6. Suppose you have $n_x$ input features per example. Recall that $\matrix{X} = \begin{bmatrix}x^{(1)&x^{(2), \dots &x^{(m)}\end{bmatrix}$ 
+6. Suppose you have $n_x$ input features per example. Recall that $\matrix{X} = \begin{bmatrix}x^{(1)}&x^{(2)}& \dots &x^{(m)}\end{bmatrix}$. What is the dimension of $\matrix{X}$
+- [ ] (m,1)
+- [ ] $(m, n_{x})$
+- [ ] (1,m)
+- [ ] $(n_{x}, m)$
+
+7. Consider the following array:
+$a = np.array([[2,1],[1,3]])$
+what is the result of a * a?
+- [ ] $\begin{pmatrix}5&5\\5&10\end{pmatrix}$
+- [ ] The computation cannot happen because the sizes don't match. It's going to be an "Error"
+- [ ] $\begin{pmatrix}4&2\\2&6\end{pmatrix}$
+- [ ] $\begin{pmatrix}4&1\\1&9\end{pmatrix}$
+
+8. Consider the following code snippet:
+```Python
+a.shape = (3,4)
+b.shape = (4,1)
+
+for i in range(3):
+	for i in range(4):
+		c[i][j] = a[i][j]*b[j]
+```
+How do you vectorize this?
+- [ ] `c = a.T * b`
+- [ ] `c = a*b`
+- [ ] `c = a*b.T`
+- [ ] `c = np.dot(a,b)`
+
+9. Consider the code snippet:
+```Python
+a.shape = (3,3)
+b.shape = (3,3)
+c = a**2 +b.T**2
+```
+Which of the following gives an equivalent output for c?
+- [ ] ```for i in range(3):
+	c[i] = a[i]**2 +b[i][j]**2```
+
+- [ ] The computation cannot happen because the sizes don't match. It's going to be an "Error"!
+- [ ] ```for i in range(3):
+		for j in range(3):
+			C[i][j] = ```
