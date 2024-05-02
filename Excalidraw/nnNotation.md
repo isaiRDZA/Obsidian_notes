@@ -15,6 +15,10 @@ tags: [excalidraw]
 column
 vector ^mSDdRpc7
 
+W is a column
+vector for 
+each neuron  ^RktzYJay
+
 # Embedded files
 3f4fb2ec7957b39392eda0395cb93b8501382a8d: $$x_1$$
 5ab0713e81d5658111bb840da37bc210366b8424: $$x_2$$
@@ -32,7 +36,11 @@ f6df24f8b08c33685d471a49b1ca5077f9725fad: $$b^{[2]}$$
 7cdf609ece7c80b9bfc0d58054247ce9fd5a175b: $$a^{[1]}_{3}$$
 39d466c6f2445c309b36dc2408ec1dbfdf311539: $$a^{[1]}_{2}$$
 24235ec12cac2c8690b778e2da25970564ca3578: $$a^{[2]}$$
-b5453f02655be6b398d5e16d94cf3d25aac6ba63: $$\begin{bmatrix} a^{[1]}_{1} \\ a^{[1]}_{2} \\ a^{[1]}_{3} \\ a^{[1]}_{4} \end{bmatrix}$$
+b5453f02655be6b398d5e16d94cf3d25aac6ba63: $$\begin{bmatrix} a^{[1]}_{1} \\ a^{[1]}_{2} \\ a^{[1]}_{3}  \end{bmatrix}$$
+eace5ea3669eab86392bc1fd5c538b22bccad791: $$\begin{bmatrix} \vdots&\vdots&\vdots\\
+w_1^{[1]}&w_2^{[1]}&w_3^{[1]} \\
+\vdots&\vdots&\vdots
+ \end{bmatrix}$$
 
 %%
 # Drawing
@@ -1308,8 +1316,8 @@ b5453f02655be6b398d5e16d94cf3d25aac6ba63: $$\begin{bmatrix} a^{[1]}_{1} \\ a^{[1
 		},
 		{
 			"type": "image",
-			"version": 697,
-			"versionNonce": 526231749,
+			"version": 698,
+			"versionNonce": 1987407077,
 			"isDeleted": false,
 			"id": "-HgHQCrRz-A1st5-rmLtu",
 			"fillStyle": "hachure",
@@ -1328,8 +1336,13 @@ b5453f02655be6b398d5e16d94cf3d25aac6ba63: $$\begin{bmatrix} a^{[1]}_{1} \\ a^{[1
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1714623951968,
+			"boundElements": [
+				{
+					"id": "st9ze3J4p44QH97wsgP14",
+					"type": "arrow"
+				}
+			],
+			"updated": 1714625111432,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2378,12 +2391,12 @@ b5453f02655be6b398d5e16d94cf3d25aac6ba63: $$\begin{bmatrix} a^{[1]}_{1} \\ a^{[1
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1.5796597732539226,
-			"y": 66.83583916880303,
+			"x": -1.7995958902298206,
+			"y": 73.9563726913693,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 39.60958115051104,
-			"height": 97.7036335045939,
+			"width": 46.36809247747853,
+			"height": 83.46256645946136,
 			"seed": 1847,
 			"groupIds": [],
 			"frameId": null,
@@ -2405,12 +2418,174 @@ b5453f02655be6b398d5e16d94cf3d25aac6ba63: $$\begin{bmatrix} a^{[1]}_{1} \\ a^{[1
 			]
 		},
 		{
-			"id": "qHmkvCkT5TyCZp7Yuw7pS",
 			"type": "arrow",
+			"version": 36,
+			"versionNonce": 119241259,
+			"isDeleted": false,
+			"id": "qHmkvCkT5TyCZp7Yuw7pS",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": 15.76692134626171,
 			"y": 16.400921346235805,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 1.1111111111111427,
 			"height": 44.44444444444446,
+			"seed": 939921541,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1714624443260,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "RhJyHAfWbqm69pqbVLTk9",
+				"focus": 0.504657185717583,
+				"gap": 11.84691701198108
+			},
+			"endBinding": {
+				"elementId": "t2jpy0rY",
+				"focus": -0.14911765502915628,
+				"gap": 5.990473378122772
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.1111111111111427,
+					44.44444444444446
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 172,
+			"versionNonce": 846101573,
+			"isDeleted": false,
+			"id": "mSDdRpc7",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -76.45530087596046,
+			"y": 83.06758801290243,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 62.41993713378906,
+			"height": 50,
+			"seed": 1845556261,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1714624484244,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "column\nvector",
+			"rawText": "column\nvector",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "column\nvector",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "image",
+			"version": 140,
+			"versionNonce": 454113189,
+			"isDeleted": false,
+			"id": "rEV1HPmZ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -277.2160494212894,
+			"y": 66.32659397558729,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 132,
+			"height": 88,
+			"seed": 33689,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "st9ze3J4p44QH97wsgP14",
+					"type": "arrow"
+				}
+			],
+			"updated": 1714625111432,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "eace5ea3669eab86392bc1fd5c538b22bccad791",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "RktzYJay",
+			"type": "text",
+			"x": -407.29855745546524,
+			"y": 70.32659397558723,
+			"width": 133.23983764648438,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2234213,
+			"version": 134,
+			"versionNonce": 981133605,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1714625265156,
+			"link": null,
+			"locked": false,
+			"text": "W is a column\nvector for \neach neuron ",
+			"rawText": "W is a column\nvector for \neach neuron ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "W is a column\nvector for \neach neuron ",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "st9ze3J4p44QH97wsgP14",
+			"type": "arrow",
+			"x": -182.85411301102084,
+			"y": 19.215482864476144,
+			"width": 11.111111111111086,
+			"height": 34.44444444444446,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2424,12 +2599,12 @@ b5453f02655be6b398d5e16d94cf3d25aac6ba63: $$\begin{bmatrix} a^{[1]}_{1} \\ a^{[1
 			"roundness": {
 				"type": 2
 			},
-			"seed": 939921541,
-			"version": 36,
-			"versionNonce": 119241259,
+			"seed": 245578635,
+			"version": 24,
+			"versionNonce": 425756741,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1714624443260,
+			"updated": 1714625111432,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2438,59 +2613,23 @@ b5453f02655be6b398d5e16d94cf3d25aac6ba63: $$\begin{bmatrix} a^{[1]}_{1} \\ a^{[1
 					0
 				],
 				[
-					1.1111111111111427,
-					44.44444444444446
+					-11.111111111111086,
+					34.44444444444446
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "RhJyHAfWbqm69pqbVLTk9",
-				"focus": 0.504657185717583,
-				"gap": 11.84691701198108
+				"elementId": "-HgHQCrRz-A1st5-rmLtu",
+				"focus": 0.140127080334958,
+				"gap": 8.5713817676272
 			},
 			"endBinding": {
-				"elementId": "t2jpy0rY",
-				"focus": -0.14911765502915628,
-				"gap": 5.990473378122772
+				"elementId": "rEV1HPmZ",
+				"focus": -0.01282827127626029,
+				"gap": 12.666666666666686
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
-		},
-		{
-			"id": "mSDdRpc7",
-			"type": "text",
-			"x": -76.45530087596046,
-			"y": 83.06758801290243,
-			"width": 62.41993713378906,
-			"height": 50,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1845556261,
-			"version": 172,
-			"versionNonce": 846101573,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1714624484244,
-			"link": null,
-			"locked": false,
-			"text": "column\nvector",
-			"rawText": "column\nvector",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "column\nvector",
-			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -2508,8 +2647,8 @@ b5453f02655be6b398d5e16d94cf3d25aac6ba63: $$\begin{bmatrix} a^{[1]}_{1} \\ a^{[1
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 390.8997453204049,
-		"scrollY": 614.1372730982087,
+		"scrollX": 425.5955436115051,
+		"scrollY": 597.9893782466349,
 		"zoom": {
 			"value": 0.9
 		},
