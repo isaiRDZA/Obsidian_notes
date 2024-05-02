@@ -71,11 +71,9 @@
             "id": "139580f4bfe2766a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ML/Neural Networks/Notation.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/nnNotation.md"
               }
             }
           },
@@ -170,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Notation.md",
+                "file": "Excalidraw/nnNotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Notation.md",
+                "file": "Excalidraw/nnNotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Notation.md"
+                "file": "Excalidraw/nnNotation.md"
               }
             }
           }
@@ -253,10 +251,10 @@
   },
   "active": "139580f4bfe2766a",
   "lastOpenFiles": [
-    "Excalidraw/nnNotation.md",
-    "ML/Neural Networks/Notation.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/architectureLearningAlgorith.md",
+    "ML/Neural Networks/Notation.md",
+    "Excalidraw/nnNotation.md",
     "broadcasting.md",
     "Pasted image 20240501153101.png",
     "Pasted image 20240501153026.png",
