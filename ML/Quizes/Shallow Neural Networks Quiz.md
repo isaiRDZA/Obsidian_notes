@@ -1,6 +1,6 @@
 1. Which of the following are true?
 - [ ] $w_{3}^{[4]}$ is the column vector of parameters of the third layer and fourth neuron.
-- [ ] $w_{3}^{[4]}$ is the row vector of parameters of the fourth layer and third neuron.
+- [x] $w_{3}^{[4]}$ is the row vector of parameters of the fourth layer and third neuron.
 - [ ] $a^{[3](2)}$ denotes the activation vector of the second layer for the third example.
 - [ ] $w_{3}^{[4]}$ is the column vector of parameters of the fourth layer and third neuron.
 - [ ] $a^{[2]}$ denotes the activation vector of the second layer.

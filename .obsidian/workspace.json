@@ -71,9 +71,11 @@
             "id": "139580f4bfe2766a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/nnNotation.md"
+                "file": "ML/Quizes/Shallow Neural Networks Quiz.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -168,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/nnNotation.md",
+                "file": "ML/Quizes/Shallow Neural Networks Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/nnNotation.md",
+                "file": "ML/Quizes/Shallow Neural Networks Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/nnNotation.md"
+                "file": "ML/Quizes/Shallow Neural Networks Quiz.md"
               }
             }
           }
@@ -251,10 +253,10 @@
   },
   "active": "139580f4bfe2766a",
   "lastOpenFiles": [
+    "Excalidraw/nnNotation.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/architectureLearningAlgorith.md",
     "ML/Neural Networks/Notation.md",
-    "Excalidraw/nnNotation.md",
     "broadcasting.md",
     "Pasted image 20240501153101.png",
     "Pasted image 20240501153026.png",
