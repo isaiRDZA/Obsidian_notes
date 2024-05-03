@@ -71,11 +71,9 @@
             "id": "139580f4bfe2766a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "daily/2024-05-01.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/nnNotation.md"
               }
             }
           },
@@ -170,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-05-01.md",
+                "file": "Excalidraw/nnNotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-05-01.md",
+                "file": "Excalidraw/nnNotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-05-01.md"
+                "file": "Excalidraw/nnNotation.md"
               }
             }
           }
@@ -252,8 +250,8 @@
   },
   "active": "139580f4bfe2766a",
   "lastOpenFiles": [
-    "daily/2024-05-02.md",
     "daily/2024-05-01.md",
+    "daily/2024-05-02.md",
     "daily/2024-04-30.md",
     "daily/2024-04-25.md",
     "Templates/Template daily.md",
