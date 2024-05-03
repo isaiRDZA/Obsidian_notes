@@ -2,4 +2,6 @@
 [[ReLU]]
 [[Sigmoid]]
 [[Softmax]]
+[[tanh]]
+
 
