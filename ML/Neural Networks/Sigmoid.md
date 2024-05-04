@@ -7,8 +7,12 @@ and if $z$ is a large negative number $\sigma(z)$ will be approximate 0
 ## Derivative
 The derivative of the sigmoid function is equal to
 $$\begin{align}
-\frac{d\sigma}{dx} = \frac{du}{d\sigma}\cdot\frac{d\sigma}{dx}
+\frac{d\sigma}{dx} = \frac{d\sigma}{du}\cdot\frac{du}{dx}
 \\ du = 1+e^{-x}
 \\\sigma = du^{-1}
-\\ \frac{d\sigma}{du}=
+\\ \frac{d\sigma}{du}=-1\cdot du^{-2}
+\\ = -\frac{1}{(1+e^{-x})^{2}}
+\\ \frac{du}{dx} = -e^{-x}
+\\ \frac{d\sigma}{dx} = (1+e^{-x})^{-2} \cdot (e^{-x})
+\\
 \end{align}$$
