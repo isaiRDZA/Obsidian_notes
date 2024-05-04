@@ -9,3 +9,7 @@ A downside of the tanh and the [[Sigmoid]] function is that if $z$ is very large
 To solve this problem the [[ReLU]] function was introduced.
 
 ## Derivative
+https://blogs.cuit.columbia.edu/zp2130/derivative_of_tanh_function/
+$\frac{d}{dz} g(z) =$ slope of $g(z)$ at $z$.
+$$1-(tanh(z))^{2}$$
+$$ = 1 - a²$$
