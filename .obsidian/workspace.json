@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md",
+                "file": "ML/Neural Networks/Sigmoid.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md",
+                "file": "ML/Neural Networks/Sigmoid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md",
+                "file": "ML/Neural Networks/Sigmoid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Activation functions.md"
+                "file": "ML/Neural Networks/Sigmoid.md"
               }
             }
           }
@@ -265,12 +265,12 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
+    "ML/Neural Networks/Activation functions.md",
     "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
     "ML/Neural Networks/ReLU.md",
     "Pasted image 20240504143748.png",
     "ML/Neural Networks/tanh.md",
     "ML/Maths/Linear Algebra/Normalize.md",
-    "ML/Neural Networks/Activation functions.md",
     "Pasted image 20240504143652.png",
     "Pasted image 20240504142843.png",
     "daily/2024-05-04.md",
