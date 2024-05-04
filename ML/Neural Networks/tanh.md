@@ -7,3 +7,5 @@ In hidden units, it always works better than the sigmoid function, because have 
 
 A downside of the tanh and the [[Sigmoid]] function is that if $z$ is very large or very small, the derivative of any of these two functions becomes very small (near to zero). This causes the gradient descent algorithm to slow. 
 To solve this problem the [[ReLU]] function was introduced.
+
+## Derivative

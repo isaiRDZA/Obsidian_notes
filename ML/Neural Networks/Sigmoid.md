@@ -14,5 +14,9 @@ $$\begin{align}
 \\ = -\frac{1}{(1+e^{-x})^{2}}
 \\ \frac{du}{dx} = -e^{-x}
 \\ \frac{d\sigma}{dx} = (1+e^{-x})^{-2} \cdot (e^{-x})
-\\
+\\= \frac{1}{1+e^{-x}}\cdot\frac{e^{-x}+(1-1)}{1+e^{-x}}
+\\ = \frac{1}{1+e^{-x}}\cdot(1-\frac{1}{1+e^{-x}})
+\\ = \sigma(1-\sigma)
+\\= a\cdot(1-a
+)
 \end{align}$$

@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Sigmoid.md",
+                "file": "ML/Neural Networks/tanh.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Sigmoid.md",
+                "file": "ML/Neural Networks/tanh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Sigmoid.md",
+                "file": "ML/Neural Networks/tanh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Sigmoid.md"
+                "file": "ML/Neural Networks/tanh.md"
               }
             }
           }
@@ -265,6 +265,7 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
+    "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/Activation functions.md",
     "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
     "ML/Neural Networks/ReLU.md",
@@ -298,7 +299,6 @@
     "ML/Neural Networks/Softmax.md",
     "ML/Maths/Linear Algebra/Teorema de resumen.md",
     "ML/Maths/Linear Algebra/Size, shape and dimension.md",
-    "ML/Maths/Linear Algebra/Operaciones elementales con renglones.md",
     "Pasted image 20240430214804.png",
     "Pasted image 20240430203419.png",
     "ML/Quizes",
