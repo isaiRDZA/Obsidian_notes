@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Normalize.md",
+                "file": "ML/Neural Networks/Activation functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -263,14 +263,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b9429cb8b905cc5",
+  "active": "215854e6c59e839c",
   "lastOpenFiles": [
-    "Pasted image 20240504143652.png",
-    "ReLU.md",
+    "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
+    "ML/Neural Networks/ReLU.md",
+    "Pasted image 20240504143748.png",
     "ML/Neural Networks/tanh.md",
+    "ML/Maths/Linear Algebra/Normalize.md",
+    "ML/Neural Networks/Activation functions.md",
+    "Pasted image 20240504143652.png",
     "Pasted image 20240504142843.png",
     "daily/2024-05-04.md",
-    "ML/Neural Networks/Activation functions.md",
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Quizes/Shallow Neural Networks Quiz.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
@@ -296,12 +299,9 @@
     "ML/Maths/Linear Algebra/Teorema de resumen.md",
     "ML/Maths/Linear Algebra/Size, shape and dimension.md",
     "ML/Maths/Linear Algebra/Operaciones elementales con renglones.md",
-    "ML/Maths/Linear Algebra/Reshaping.md",
     "Pasted image 20240430214804.png",
     "Pasted image 20240430203419.png",
-    "Pasted image 20240430202149.png",
     "ML/Quizes",
-    "Pasted image 20240429121340.png",
     "Untitled.canvas",
     "Excalidraw",
     "ML/Deep Learning",
