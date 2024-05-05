@@ -97,9 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/ReLU.md",
+                "file": "daily/2024-05-05.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "12bdb49277aa4734",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md"
               }
             }
           },
@@ -116,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/ReLU.md",
+                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/ReLU.md",
+                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/ReLU.md"
+                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md"
               }
             }
           }
@@ -263,14 +273,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "215854e6c59e839c",
+  "active": "12bdb49277aa4734",
   "lastOpenFiles": [
+    "daily/2024-05-05.md",
+    "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
+    "ML/Neural Networks/ReLU.md",
     "Pasted image 20240504163836.png",
     "ML/Neural Networks/tanh.md",
     "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/Activation functions.md",
     "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
-    "ML/Neural Networks/ReLU.md",
     "Pasted image 20240504143748.png",
     "ML/Maths/Linear Algebra/Normalize.md",
     "Pasted image 20240504143652.png",
@@ -298,9 +310,7 @@
     "ML/Neural Networks/neural networks.md",
     "ML/Neural Networks/Vectorization.md",
     "ML/Neural Networks/Softmax.md",
-    "ML/Maths/Linear Algebra/Teorema de resumen.md",
     "Pasted image 20240430214804.png",
-    "Pasted image 20240430203419.png",
     "ML/Quizes",
     "Untitled.canvas",
     "Excalidraw",
