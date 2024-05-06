@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-04-30.md",
+                "file": "daily/2024-05-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-04-30.md",
+                "file": "daily/2024-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-04-30.md",
+                "file": "daily/2024-05-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-04-30.md"
+                "file": "daily/2024-05-06.md"
               }
             }
           }
@@ -275,8 +275,9 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
-    "daily/2024-05-04.md",
     "daily/2024-05-05.md",
+    "daily/2024-04-30.md",
+    "daily/2024-05-04.md",
     "daily/2024-05-02.md",
     "daily/2024-05-01.md",
     "daily/2024-05-06.md",
@@ -304,7 +305,6 @@
     "Pasted image 20240504143652.png",
     "Pasted image 20240504142843.png",
     "ML/Quizes/Neural Network Basics quiz.md",
-    "ML/Quizes/Shallow Neural Networks Quiz.md",
     "Pasted image 20240501221144.png",
     "Pasted image 20240501153101.png",
     "Pasted image 20240501153026.png",
