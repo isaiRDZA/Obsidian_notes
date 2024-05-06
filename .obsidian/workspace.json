@@ -95,9 +95,11 @@
             "id": "215854e6c59e839c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/nnNotation.md"
+                "file": "ML/Neural Networks/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -190,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/nnNotation.md",
+                "file": "ML/Neural Networks/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/nnNotation.md",
+                "file": "ML/Neural Networks/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/nnNotation.md"
+                "file": "ML/Neural Networks/Untitled.md"
               }
             }
           }
@@ -273,6 +275,8 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
+    "Excalidraw/nnNotation.md",
+    "ML/Neural Networks/Untitled.md",
     "ML/Neural Networks/Notation.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/gradient descent.md",
@@ -298,11 +302,9 @@
     "daily/2024-05-04.md",
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Quizes/Shallow Neural Networks Quiz.md",
-    "Excalidraw/nnNotation.md",
     "daily/2024-05-01.md",
     "daily/2024-05-02.md",
     "daily/2024-04-30.md",
-    "daily/2024-04-25.md",
     "Pasted image 20240501221144.png",
     "Pasted image 20240501153101.png",
     "Pasted image 20240501153026.png",
