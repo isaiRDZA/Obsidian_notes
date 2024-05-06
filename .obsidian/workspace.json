@@ -97,7 +97,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md"
+                "file": "Excalidraw/nnNotation.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md",
+                "file": "Excalidraw/nnNotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md",
+                "file": "Excalidraw/nnNotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md"
+                "file": "Excalidraw/nnNotation.md"
               }
             }
           }
@@ -283,9 +283,10 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
+    "Excalidraw/architectureLearningAlgorith.md",
     "Excalidraw/Deep learning notation.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
-    "Excalidraw/architectureLearningAlgorith.md",
+    "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
     "ML/Deep Learning/Deep Learning.md",
     "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/tanh.md",
@@ -307,7 +308,6 @@
     "ML/Neural Networks/Artificial neuron.md",
     "ML/Neural Networks/Architecture of the learning algorithm.md",
     "ML/Neural Networks/Activation functions.md",
-    "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
     "ML/Maths/Linear Algebra/np.sum().md",
     "Pasted image 20240504163836.png",
     "Pasted image 20240504143748.png",
