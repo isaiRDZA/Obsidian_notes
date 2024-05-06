@@ -97,7 +97,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md"
+                "file": "Excalidraw/nnNotation.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
+                "file": "Excalidraw/nnNotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
+                "file": "Excalidraw/nnNotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md"
+                "file": "Excalidraw/nnNotation.md"
               }
             }
           }
@@ -273,17 +273,23 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
-    "daily/2024-05-05.md",
-    "Excalidraw/derivativeBackpropagationGraph.md",
-    "ML/Maths/Linear Algebra/np.sum().md",
-    "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
-    "ML/Neural Networks/tanh.md",
-    "Excalidraw/architectureLearningAlgorith.md",
+    "ML/Neural Networks/Notation.md",
     "ML/Neural Networks/Logistic Regression.md",
+    "ML/Neural Networks/gradient descent.md",
+    "ML/Neural Networks/Gradient Descent.md",
+    "ML/Neural Networks/Binary classification.md",
+    "ML/Neural Networks/Artificial neuron.md",
+    "ML/Neural Networks/Architecture of the learning algorithm.md",
+    "ML/Neural Networks/Activation functions.md",
+    "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
+    "Excalidraw/derivativeBackpropagationGraph.md",
+    "Excalidraw/architectureLearningAlgorith.md",
+    "daily/2024-05-05.md",
+    "ML/Maths/Linear Algebra/np.sum().md",
+    "ML/Neural Networks/tanh.md",
     "ML/Neural Networks/ReLU.md",
     "Pasted image 20240504163836.png",
     "ML/Neural Networks/Sigmoid.md",
-    "ML/Neural Networks/Activation functions.md",
     "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
     "Pasted image 20240504143748.png",
     "ML/Maths/Linear Algebra/Normalize.md",
@@ -297,17 +303,11 @@
     "daily/2024-05-02.md",
     "daily/2024-04-30.md",
     "daily/2024-04-25.md",
-    "Templates/Template daily.md",
     "Pasted image 20240501221144.png",
-    "ML/Neural Networks/Notation.md",
-    "broadcasting.md",
     "Pasted image 20240501153101.png",
     "Pasted image 20240501153026.png",
     "Pasted image 20240501152803.png",
     "Pasted image 20240501152141.png",
-    "ML/Neural Networks/neural networks.md",
-    "ML/Neural Networks/Vectorization.md",
-    "ML/Neural Networks/Softmax.md",
     "Pasted image 20240430214804.png",
     "ML/Quizes",
     "Untitled.canvas",

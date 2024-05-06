@@ -19,6 +19,8 @@ W is a column
 vector for 
 each neuron  ^RktzYJay
 
+X.shape =  ^9UYCJ44O
+
 # Embedded files
 3f4fb2ec7957b39392eda0395cb93b8501382a8d: $$x_1$$
 5ab0713e81d5658111bb840da37bc210366b8424: $$x_2$$
@@ -41,6 +43,11 @@ eace5ea3669eab86392bc1fd5c538b22bccad791: $$\begin{bmatrix} \vdots&\vdots&\vdots
 w_1^{[1]}&w_2^{[1]}&w_3^{[1]} \\
 \vdots&\vdots&\vdots
  \end{bmatrix}$$
+4d6938d235d601bc409127cf21a78bdbe3412952: $$X = \begin{bmatrix}\vdots&\vdots&\vdots
+\\x^{(1)}&x^{(2)}&x^{(3)}\\
+\vdots&\vdots&\vdots
+\end{bmatrix}$$
+cf5ef1ae0d83488d3ee26d6628092837365116b5: $$n_x,m$$
 
 %%
 # Drawing
@@ -2544,35 +2551,35 @@ w_1^{[1]}&w_2^{[1]}&w_3^{[1]} \\
 			]
 		},
 		{
-			"id": "RktzYJay",
 			"type": "text",
-			"x": -407.29855745546524,
-			"y": 70.32659397558723,
-			"width": 133.23983764648438,
-			"height": 75,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 134,
+			"versionNonce": 981133605,
+			"isDeleted": false,
+			"id": "RktzYJay",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -407.29855745546524,
+			"y": 70.32659397558723,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 133.23983764648438,
+			"height": 75,
+			"seed": 2234213,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2234213,
-			"version": 134,
-			"versionNonce": 981133605,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1714625265156,
 			"link": null,
 			"locked": false,
-			"text": "W is a column\nvector for \neach neuron ",
-			"rawText": "W is a column\nvector for \neach neuron ",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "W is a column\nvector for \neach neuron ",
+			"rawText": "W is a column\nvector for \neach neuron ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -2580,44 +2587,33 @@ w_1^{[1]}&w_2^{[1]}&w_3^{[1]} \\
 			"lineHeight": 1.25
 		},
 		{
-			"id": "st9ze3J4p44QH97wsgP14",
 			"type": "arrow",
-			"x": -182.85411301102084,
-			"y": 19.215482864476144,
-			"width": 11.111111111111086,
-			"height": 34.44444444444446,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 425756741,
+			"isDeleted": false,
+			"id": "st9ze3J4p44QH97wsgP14",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -182.85411301102084,
+			"y": 19.215482864476144,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 11.111111111111086,
+			"height": 34.44444444444446,
+			"seed": 245578635,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 245578635,
-			"version": 24,
-			"versionNonce": 425756741,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1714625111432,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-11.111111111111086,
-					34.44444444444446
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "-HgHQCrRz-A1st5-rmLtu",
 				"focus": 0.140127080334958,
@@ -2628,8 +2624,125 @@ w_1^{[1]}&w_2^{[1]}&w_3^{[1]} \\
 				"focus": -0.01282827127626029,
 				"gap": 12.666666666666686
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-11.111111111111086,
+					34.44444444444446
+				]
+			]
+		},
+		{
+			"type": "image",
+			"version": 52,
+			"versionNonce": 1800018970,
+			"isDeleted": false,
+			"id": "LgLN6l3b",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -354.3367025038199,
+			"y": 194.3156027804705,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 149.92331373072034,
+			"height": 74.51809676556513,
+			"seed": 6600,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1714972293017,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "4d6938d235d601bc409127cf21a78bdbe3412952",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "9UYCJ44O",
+			"type": "text",
+			"x": -319.9155861790003,
+			"y": 280.7638403524422,
+			"width": 75.2419579583245,
+			"height": 17.97297297297297,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [
+				"7TZeI56PA8DCM-3ZciM4P"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1839635034,
+			"version": 142,
+			"versionNonce": 897329478,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1714972353232,
+			"link": null,
+			"locked": false,
+			"text": "X.shape = ",
+			"rawText": "X.shape = ",
+			"fontSize": 14.378378378378374,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "X.shape = ",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "image",
+			"version": 207,
+			"versionNonce": 1609764998,
+			"isDeleted": false,
+			"id": "bfX8GCA4",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -246.85787982399665,
+			"y": 285.74769718224496,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.756756756756747,
+			"height": 7.908108108108106,
+			"seed": 26936,
+			"groupIds": [
+				"7TZeI56PA8DCM-3ZciM4P"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1714972353232,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "cf5ef1ae0d83488d3ee26d6628092837365116b5",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -2647,10 +2760,10 @@ w_1^{[1]}&w_2^{[1]}&w_3^{[1]} \\
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 425.5955436115051,
-		"scrollY": 597.9893782466349,
+		"scrollX": 440.4561267195408,
+		"scrollY": 136.23784883674693,
 		"zoom": {
-			"value": 0.9
+			"value": 1.85
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
