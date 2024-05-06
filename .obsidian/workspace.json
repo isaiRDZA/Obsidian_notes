@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Backpropagation.md",
+                "file": "daily/2024-04-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Backpropagation.md",
+                "file": "daily/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Backpropagation.md",
+                "file": "daily/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Backpropagation.md"
+                "file": "daily/2024-04-30.md"
               }
             }
           }
@@ -275,8 +275,13 @@
   },
   "active": "215854e6c59e839c",
   "lastOpenFiles": [
-    "Excalidraw/nnNotation.md",
+    "daily/2024-05-04.md",
+    "daily/2024-05-05.md",
+    "daily/2024-05-02.md",
+    "daily/2024-05-01.md",
+    "daily/2024-05-06.md",
     "ML/Neural Networks/Backpropagation.md",
+    "Excalidraw/nnNotation.md",
     "ML/Neural Networks/Notation.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/gradient descent.md",
@@ -288,7 +293,6 @@
     "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/architectureLearningAlgorith.md",
-    "daily/2024-05-05.md",
     "ML/Maths/Linear Algebra/np.sum().md",
     "ML/Neural Networks/tanh.md",
     "ML/Neural Networks/ReLU.md",
@@ -299,12 +303,8 @@
     "ML/Maths/Linear Algebra/Normalize.md",
     "Pasted image 20240504143652.png",
     "Pasted image 20240504142843.png",
-    "daily/2024-05-04.md",
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Quizes/Shallow Neural Networks Quiz.md",
-    "daily/2024-05-01.md",
-    "daily/2024-05-02.md",
-    "daily/2024-04-30.md",
     "Pasted image 20240501221144.png",
     "Pasted image 20240501153101.png",
     "Pasted image 20240501153026.png",
