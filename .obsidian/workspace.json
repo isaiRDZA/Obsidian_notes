@@ -109,7 +109,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Deep learning.md"
+                "file": "Excalidraw/Deep learning notation.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Deep learning.md",
+                "file": "ML/Deep Learning/Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Deep learning.md",
+                "file": "ML/Deep Learning/Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Deep learning.md"
+                "file": "ML/Deep Learning/Deep Learning.md"
               }
             }
           }
@@ -283,10 +283,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8897d54bfa2a951f",
+  "active": "215854e6c59e839c",
   "lastOpenFiles": [
+    "Excalidraw/Deep learning notation.md",
     "ML/Deep Learning/Deep Learning.md",
-    "Excalidraw/Deep learning.md",
     "Excalidraw/Untitled.md",
     "daily/2024-05-06.md",
     "daily/2024-05-05.md",

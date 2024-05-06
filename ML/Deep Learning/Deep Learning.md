@@ -9,4 +9,4 @@ $a^{[l]}$: activations in layer l
 X: input but also is $a^{[0]}$
 $a^{[L]}$ = $\hat{y}$
 
-P
+![[Deep learning notation]]
