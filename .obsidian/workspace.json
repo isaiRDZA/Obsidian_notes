@@ -97,9 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-05-06.md",
+                "file": "ML/Deep Learning/Deep Learning.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "da23a6b3a4da7c3e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Deep learning.md"
               }
             }
           },
@@ -126,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -192,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-05-06.md",
+                "file": "Excalidraw/Deep learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-05-06.md",
+                "file": "Excalidraw/Deep learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-05-06.md"
+                "file": "Excalidraw/Deep learning.md"
               }
             }
           }
@@ -273,14 +283,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "215854e6c59e839c",
+  "active": "8897d54bfa2a951f",
   "lastOpenFiles": [
+    "ML/Deep Learning/Deep Learning.md",
+    "Excalidraw/Deep learning.md",
+    "Excalidraw/Untitled.md",
+    "daily/2024-05-06.md",
     "daily/2024-05-05.md",
     "daily/2024-04-30.md",
     "daily/2024-05-04.md",
     "daily/2024-05-02.md",
     "daily/2024-05-01.md",
-    "daily/2024-05-06.md",
     "ML/Neural Networks/Backpropagation.md",
     "Excalidraw/nnNotation.md",
     "ML/Neural Networks/Notation.md",
@@ -299,12 +312,9 @@
     "ML/Neural Networks/ReLU.md",
     "Pasted image 20240504163836.png",
     "ML/Neural Networks/Sigmoid.md",
-    "ML/Maths/Understanding and Visualizing Data/standard deviation.md",
     "Pasted image 20240504143748.png",
-    "ML/Maths/Linear Algebra/Normalize.md",
     "Pasted image 20240504143652.png",
     "Pasted image 20240504142843.png",
-    "ML/Quizes/Neural Network Basics quiz.md",
     "Pasted image 20240501221144.png",
     "Pasted image 20240501153101.png",
     "Pasted image 20240501153026.png",
