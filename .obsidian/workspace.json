@@ -95,9 +95,21 @@
             "id": "215854e6c59e839c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-05-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93c05092c3b733b7",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/nnNotation.md"
+                "file": "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md"
               }
             }
           },
@@ -134,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/nnNotation.md",
+                "file": "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/nnNotation.md",
+                "file": "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/nnNotation.md"
+                "file": "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md"
               }
             }
           }
@@ -281,8 +293,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "215854e6c59e839c",
+  "active": "93c05092c3b733b7",
   "lastOpenFiles": [
+    "daily/2024-05-07.md",
+    "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
+    "MLOps",
+    "Excalidraw/nnNotation.md",
     "Excalidraw/architectureLearningAlgorith.md",
     "Excalidraw/Deep learning notation.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
@@ -299,7 +315,6 @@
     "daily/2024-05-02.md",
     "daily/2024-05-01.md",
     "ML/Neural Networks/Backpropagation.md",
-    "Excalidraw/nnNotation.md",
     "ML/Neural Networks/Notation.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/gradient descent.md",
@@ -307,8 +322,6 @@
     "ML/Neural Networks/Binary classification.md",
     "ML/Neural Networks/Artificial neuron.md",
     "ML/Neural Networks/Architecture of the learning algorithm.md",
-    "ML/Neural Networks/Activation functions.md",
-    "ML/Maths/Linear Algebra/np.sum().md",
     "Pasted image 20240504163836.png",
     "Pasted image 20240504143748.png",
     "Pasted image 20240504143652.png",
@@ -328,7 +341,6 @@
     "Data Science/Roles",
     "ML/Maths/Understanding and Visualizing Data",
     "Templates",
-    "daily/Untitled",
-    "Habits"
+    "daily/Untitled"
   ]
 }
