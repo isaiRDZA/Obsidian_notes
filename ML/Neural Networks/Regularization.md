@@ -4,7 +4,8 @@ $$\begin{align}J(w,b) = \frac{1}{m}\sum^{m}_{i = 1} \mathscr{L} (\hat{y}^{(i)}, 
 \end{align}$$
 Normally the regularization for parameter be is not used.
 $$+\frac{\lambda}{2m}b^{2}$$
-
+## L1 regularization
+$$$$
 
 ### L2 regularization (weight decay)
 $$\begin{align}
@@ -18,6 +19,18 @@ where the size of $\matrix{W}: (n^{l}, n^{[l-1]})$
 
 For this regurarization we are not using the usual norm we are using **Frobenius norm** of a matrix
 $$||w^{[l]}||_{F}^{2} = \sum_{i=1}^{n^{[l]}} \sum_{j=1}^{n^{[l-1]}}(w_{i,j}^{[l]})²$$
+
+For backpropagation we have
+$$\begin{align}dw^{[l]} = backprop + \frac{\lambda}{m}w^{l}
+\\
+\frac{\partial J}{\partial w^{l}} = dw^{[l]}
+\\
+w^{[l]} = w^{[l]}-\alpha  dw^{[l]}
+\\w^{[l]} = w^{[l]}- \alpha[(backprop)+\frac{\lambda}{m}w^{[l]}]
+\\= w^{[l]}-\frac{\alpha\lambda}{m}w^{[l]}-\alpha(backprop)
+\\ = w^{[l]}(1-\frac{\alpha\lambda}{m})-\alpha(backprop)
+\end{align}$$
+
 ## Gradient descent with normalization
 
 
