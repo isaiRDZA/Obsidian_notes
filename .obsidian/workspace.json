@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md",
+                "file": "ML/Neural Networks/Regularization.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md",
+                "file": "ML/Neural Networks/Regularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md",
+                "file": "ML/Neural Networks/Regularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md"
+                "file": "ML/Neural Networks/Regularization.md"
               }
             }
           }
@@ -297,6 +297,9 @@
   },
   "active": "93c05092c3b733b7",
   "lastOpenFiles": [
+    "daily/2024-05-10.md",
+    "ML/Neural Networks/Regularization.md",
+    "Data Science/Pandas/value_counts().md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "daily/2024-04-19.md",
     "daily/2024-04-26.md",
@@ -321,9 +324,6 @@
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "MLOps",
     "Excalidraw/nnNotation.md",
-    "Excalidraw/architectureLearningAlgorith.md",
-    "Excalidraw/Deep learning notation.md",
-    "Excalidraw/derivativeBackpropagationGraph.md",
     "Pasted image 20240504163836.png",
     "Pasted image 20240504143748.png",
     "Pasted image 20240504143652.png",
