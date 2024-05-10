@@ -14,9 +14,10 @@ $$\begin{align}
 $$\begin{align}J(w^{[1]}, b^{[1]},..., w^{[L]}, b^{[L]}) = \frac{1}{m} \sum_{i=1}^{n}\mathscr{L}(\hat{y}, y^{(i)}) + \frac{\lambda}{2m}\sum^{L}_{l=1}||w^{[l]}||^{2}_{F}
 \\
 \end{align}$$
-where $\matrix{W}: (n^{l}, n^{[l-1]})$
+where the size of $\matrix{W}: (n^{l}, n^{[l-1]})$
 
-Frobenius norm of a matrix
+For this regurarization we are not using the usual norm we are using **Frobenius norm** of a matrix
 $$||w^{[l]}||_{F}^{2} = \sum_{i=1}^{n^{[l]}} \sum_{j=1}^{n^{[l-1]}}(w_{i,j}^{[l]})²$$
+## Gradient descent with normalization
 
 
