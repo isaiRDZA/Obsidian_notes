@@ -277,12 +277,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 483.5,
-    "collapsed": true
+    "width": 452.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,8 +296,8 @@
   },
   "active": "93c05092c3b733b7",
   "lastOpenFiles": [
-    "daily/2024-05-10.md",
     "ML/Neural Networks/Regularization.md",
+    "daily/2024-05-10.md",
     "Data Science/Pandas/value_counts().md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "daily/2024-04-19.md",

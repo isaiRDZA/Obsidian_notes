@@ -21,7 +21,7 @@ For this regurarization we are not using the usual norm we are using **Frobenius
 $$||w^{[l]}||_{F}^{2} = \sum_{i=1}^{n^{[l]}} \sum_{j=1}^{n^{[l-1]}}(w_{i,j}^{[l]})²$$
 ## Gradient descent with normalization
 For backpropagation we have
-$$\begin{align}dw^{[l]} = backprop + \frac{\lambda}{m}w^{l}
+$$\begin{align}dw^{[l]} = backprop + \frac{\lambda}{m}w^{[l]}
 \\
 \frac{\partial J}{\partial w^{l}} = dw^{[l]}
 \\
@@ -34,4 +34,4 @@ This is why L2 normalization is also called **weight decay**.
 
 ## How does regularization reduces overfiting
 - When we choose a larger $\lambda$ we are forcing the W values to reduce close to zero, so it is like if we were disconnecting neurons or nullifying some of them. 
-- 
+- When we add the regularization parameter 
