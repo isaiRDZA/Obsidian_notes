@@ -5,7 +5,7 @@ $$\begin{align}J(w,b) = \frac{1}{m}\sum^{m}_{i = 1} \mathscr{L} (\hat{y}^{(i)}, 
 Normally the regularization for parameter be is not used.
 $$+\frac{\lambda}{2m}b^{2}$$
 ## L1 regularization
-$$$$
+$$\frac{\lambda}{m}\sum^{n_x}_{i = 1}|w| = \frac{\lambda}{m}||w||$$
 
 ### L2 regularization (weight decay)
 $$\begin{align}
@@ -19,7 +19,7 @@ where the size of $\matrix{W}: (n^{l}, n^{[l-1]})$
 
 For this regurarization we are not using the usual norm we are using **Frobenius norm** of a matrix
 $$||w^{[l]}||_{F}^{2} = \sum_{i=1}^{n^{[l]}} \sum_{j=1}^{n^{[l-1]}}(w_{i,j}^{[l]})²$$
-
+## Gradient descent with normalization
 For backpropagation we have
 $$\begin{align}dw^{[l]} = backprop + \frac{\lambda}{m}w^{l}
 \\
@@ -30,7 +30,8 @@ w^{[l]} = w^{[l]}-\alpha  dw^{[l]}
 \\= w^{[l]}-\frac{\alpha\lambda}{m}w^{[l]}-\alpha(backprop)
 \\ = w^{[l]}(1-\frac{\alpha\lambda}{m})-\alpha(backprop)
 \end{align}$$
+This is why L2 normalization is also called **weight decay**.
 
-## Gradient descent with normalization
-
-
+## How does regularization reduces overfiting
+- When we choose a larger $\lambda$ we are forcing the W values to reduce close to zero, so it is like if we were disconnecting neurons or nullifying some of them. 
+- 
