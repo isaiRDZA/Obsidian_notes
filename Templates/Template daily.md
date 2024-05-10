@@ -15,7 +15,8 @@ expenses/fun:
 expenses/learn: 
 expenses/events: 
 expenses/house: 
-expenses/car:
+expenses/car: 
+expenses/gasolin:
 ---
 ## What did we achieve today?
 

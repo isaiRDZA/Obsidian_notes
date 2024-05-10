@@ -107,9 +107,11 @@
             "id": "93c05092c3b733b7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md"
+                "file": "Data Science/Pandas/value_counts().md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -212,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
+                "file": "Data Science/Pandas/value_counts().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
+                "file": "Data Science/Pandas/value_counts().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md"
+                "file": "Data Science/Pandas/value_counts().md"
               }
             }
           }
@@ -295,33 +297,33 @@
   },
   "active": "93c05092c3b733b7",
   "lastOpenFiles": [
+    "Data Science/Excel/Work Smarter with Excel.md",
+    "daily/2024-04-19.md",
+    "daily/2024-04-26.md",
+    "daily/2024-04-28.md",
+    "daily/2024-04-29.md",
+    "daily/2024-04-30.md",
+    "daily/2024-05-01.md",
+    "daily/2024-05-02.md",
+    "daily/2024-05-04.md",
+    "daily/2024-05-05.md",
+    "daily/2024-05-06.md",
     "daily/2024-05-07.md",
+    "daily/2024-05-08.md",
+    "daily/2024-05-09.md",
+    "Templates/Template daily.md",
+    "daily/2024-04-25.md",
+    "daily/2024-04-24.md",
+    "daily/2024-04-23.md",
+    "daily/2024-04-22.md",
+    "daily/2024-04-20.md",
+    "daily/2024-04-27.md",
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "MLOps",
     "Excalidraw/nnNotation.md",
     "Excalidraw/architectureLearningAlgorith.md",
     "Excalidraw/Deep learning notation.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
-    "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
-    "ML/Deep Learning/Deep Learning.md",
-    "ML/Neural Networks/Sigmoid.md",
-    "ML/Neural Networks/tanh.md",
-    "ML/Neural Networks/Softmax.md",
-    "Excalidraw/Untitled.md",
-    "daily/2024-05-06.md",
-    "daily/2024-05-05.md",
-    "daily/2024-04-30.md",
-    "daily/2024-05-04.md",
-    "daily/2024-05-02.md",
-    "daily/2024-05-01.md",
-    "ML/Neural Networks/Backpropagation.md",
-    "ML/Neural Networks/Notation.md",
-    "ML/Neural Networks/Logistic Regression.md",
-    "ML/Neural Networks/gradient descent.md",
-    "ML/Neural Networks/Gradient Descent.md",
-    "ML/Neural Networks/Binary classification.md",
-    "ML/Neural Networks/Artificial neuron.md",
-    "ML/Neural Networks/Architecture of the learning algorithm.md",
     "Pasted image 20240504163836.png",
     "Pasted image 20240504143748.png",
     "Pasted image 20240504143652.png",
