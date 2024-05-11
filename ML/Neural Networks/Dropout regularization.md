@@ -1,4 +1,4 @@
-
+Dropout is another method to apply [[Regularization]] to reduce [[high variance]] or [[overfitting]]
 ![[Excalidraw/Dropout regularization|Dropout regularization]]
 ## Implementing dropout ("Inverted dropout")
 We are going to apply a drop out to the layer 3 with a probability of dropout  = 0.2. However, we have to set the probability of keeping a node.

@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md",
+                "file": "ML/Quizes/Practical aspects of Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md",
+                "file": "ML/Quizes/Practical aspects of Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md",
+                "file": "ML/Quizes/Practical aspects of Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md"
+                "file": "ML/Quizes/Practical aspects of Deep Learning.md"
               }
             }
           }
@@ -308,6 +308,9 @@
   },
   "active": "1ffc42fb11059478",
   "lastOpenFiles": [
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Quizes/Practical aspects of Deep Learning.md",
+    "ML/Neural Networks/Dropout regularization.md",
     "Excalidraw/Dropout regularization.md",
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
@@ -315,7 +318,6 @@
     "Excalidraw/nnNotation.md",
     "Excalidraw/architectureLearningAlgorith.md",
     "Excalidraw/Deep learning notation.md",
-    "ML/Neural Networks/Dropout regularization.md",
     "Excalidraw/Untitled.md",
     "ML/Neural Networks/Regularization.md",
     "ML/Neural Networks/neural networks.md",
@@ -333,8 +335,6 @@
     "daily/2024-05-01.md",
     "daily/2024-05-02.md",
     "daily/2024-05-04.md",
-    "daily/2024-05-05.md",
-    "daily/2024-05-06.md",
     "MLOps",
     "Pasted image 20240504163836.png",
     "Pasted image 20240504143748.png",
