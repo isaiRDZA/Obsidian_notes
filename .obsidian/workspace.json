@@ -226,7 +226,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Quizes/Practical aspects of Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Quizes/Practical aspects of Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,9 +281,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/Quizes/Practical aspects of Deep Learning.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -306,10 +302,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ffc42fb11059478",
+  "active": "51eacb7862bd909f",
   "lastOpenFiles": [
-    "ML/Neural Networks/Logistic Regression.md",
     "ML/Quizes/Practical aspects of Deep Learning.md",
+    "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/Dropout regularization.md",
     "Excalidraw/Dropout regularization.md",
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
