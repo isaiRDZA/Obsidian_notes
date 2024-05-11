@@ -11,5 +11,5 @@ Then to keep the value of a3, we are going to divide its value by keep_prob.
 
 
 ##
-dimensions of $w^{[1]}$ should be 7x3 instead of 3x7
-dimensions of 
+dimensions of $w^{[1]}$ should be 7x3 
+dimensions of $w^{[3]}$ should be 3x7
