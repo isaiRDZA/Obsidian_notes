@@ -37,3 +37,7 @@ This is why L2 normalization is also called **weight decay**.
 - When we add the regularization parameter $w^{[l]}= w^{[l]}(1-\frac{\alpha\lambda}{m})-\alpha(backprop)$ we are also affecting $z^{[l]} = W^{[l]}a^{[l-1]} +b$, if W is smaller, then, $z^{[l]}$ is also smaller. And for example, when working for tanh, reducing z is make sure that we will be in the almost linear part:
 ![[Pasted image 20240510172556.png]]
 This prevent the overall layer to overfit the training set. Because the output will have a more linear behaviour.
+
+## Other Regularization methods
+- [[Data augmentation]]
+- [[Early stopping]]
