@@ -226,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/Quizes/Practical aspects of Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,6 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/Quizes/Practical aspects of Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +283,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML/Quizes/Practical aspects of Deep Learning.md"
+              }
             }
           }
         ],
@@ -289,7 +293,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 452.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,7 +307,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51eacb7862bd909f",
+  "active": "8897d54bfa2a951f",
   "lastOpenFiles": [
     "ML/Quizes/Practical aspects of Deep Learning.md",
     "ML/Neural Networks/Logistic Regression.md",
