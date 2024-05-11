@@ -119,9 +119,11 @@
             "id": "1ffc42fb11059478",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-10 18.55.15.excalidraw.md"
+                "file": "ML/Neural Networks/Dropout regularization.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -224,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-10 18.55.15.excalidraw.md",
+                "file": "ML/Neural Networks/Dropout regularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-10 18.55.15.excalidraw.md",
+                "file": "ML/Neural Networks/Dropout regularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-10 18.55.15.excalidraw.md"
+                "file": "ML/Neural Networks/Dropout regularization.md"
               }
             }
           }
@@ -306,10 +308,10 @@
   },
   "active": "1ffc42fb11059478",
   "lastOpenFiles": [
+    "Excalidraw/Dropout regularization.md",
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-10 18.55.15.excalidraw.md",
     "Excalidraw/nnNotation.md",
     "Excalidraw/architectureLearningAlgorith.md",
     "Excalidraw/Deep learning notation.md",
