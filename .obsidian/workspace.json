@@ -116,6 +116,16 @@
             }
           },
           {
+            "id": "1ffc42fb11059478",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-10 18.55.15.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "da23a6b3a4da7c3e",
             "type": "leaf",
             "state": {
@@ -148,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -214,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md",
+                "file": "Excalidraw/Drawing 2024-05-10 18.55.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md",
+                "file": "Excalidraw/Drawing 2024-05-10 18.55.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md"
+                "file": "Excalidraw/Drawing 2024-05-10 18.55.15.excalidraw.md"
               }
             }
           }
@@ -294,10 +304,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93c05092c3b733b7",
+  "active": "1ffc42fb11059478",
   "lastOpenFiles": [
-    "ML/Neural Networks/Regularization.md",
+    "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
+    "Excalidraw/derivativeBackpropagationGraph.md",
+    "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-10 18.55.15.excalidraw.md",
+    "Excalidraw/nnNotation.md",
+    "Excalidraw/architectureLearningAlgorith.md",
+    "Excalidraw/Deep learning notation.md",
     "ML/Neural Networks/Dropout regularization.md",
+    "Excalidraw/Untitled.md",
+    "ML/Neural Networks/Regularization.md",
     "ML/Neural Networks/neural networks.md",
     "ML/Neural Networks/Train-Dev-Test sets.md",
     "ML/Neural Networks/Bias and variance.md",
@@ -315,14 +333,6 @@
     "daily/2024-05-04.md",
     "daily/2024-05-05.md",
     "daily/2024-05-06.md",
-    "daily/2024-05-07.md",
-    "daily/2024-05-08.md",
-    "daily/2024-05-09.md",
-    "Templates/Template daily.md",
-    "daily/2024-04-25.md",
-    "daily/2024-04-24.md",
-    "daily/2024-04-23.md",
-    "daily/2024-04-22.md",
     "MLOps",
     "Pasted image 20240504163836.png",
     "Pasted image 20240504143748.png",
