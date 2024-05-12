@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Normlization.md",
+                "file": "ML/Neural Networks/Exploding gradients.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Normlization.md",
+                "file": "ML/Neural Networks/Exploding gradients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Normlization.md",
+                "file": "ML/Neural Networks/Exploding gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Normlization.md"
+                "file": "ML/Neural Networks/Exploding gradients.md"
               }
             }
           }
@@ -321,8 +321,14 @@
   },
   "active": "04d39afa8bdaeaf8",
   "lastOpenFiles": [
-    "Early stopping.md",
+    "ML/Neural Networks/Vanishing Gradients.md",
+    "ML/Neural Networks/Exploding gradients.md",
     "ML/Neural Networks/Normlization.md",
+    "Pasted image 20240511182637.png",
+    "Pasted image 20240511182109.png",
+    "Pasted image 20240511181819.png",
+    "Pasted image 20240511181735.png",
+    "Early stopping.md",
     "Pasted image 20240511170042.png",
     "ML/Neural Networks/Regularization.md",
     "Data augmentation.md",
@@ -348,16 +354,10 @@
     "daily/2024-04-19.md",
     "daily/2024-04-26.md",
     "daily/2024-04-28.md",
-    "daily/2024-04-29.md",
-    "daily/2024-04-30.md",
     "MLOps",
     "Pasted image 20240504163836.png",
     "Pasted image 20240504143748.png",
     "Pasted image 20240504143652.png",
-    "Pasted image 20240504142843.png",
-    "Pasted image 20240501221144.png",
-    "Pasted image 20240501153101.png",
-    "Pasted image 20240501153026.png",
     "ML/Quizes",
     "Untitled.canvas",
     "Excalidraw",
