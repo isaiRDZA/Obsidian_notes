@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
+                "file": "daily/2024-05-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
+                "file": "daily/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
+                "file": "daily/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,12 +296,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md"
+                "file": "daily/2024-05-11.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -319,41 +319,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04d39afa8bdaeaf8",
+  "active": "49343668c9f6fb2b",
   "lastOpenFiles": [
-    "ML/Deep Learning/Vanishing Gradients.md",
+    "daily/2024-05-10.md",
+    "daily/2024-05-11.md",
+    "ML/Neural Networks/Vectorization.md",
+    "ML/Neural Networks/Train-Dev-Test sets.md",
+    "ML/Neural Networks/tanh.md",
+    "ML/Neural Networks/Softmax.md",
+    "ML/Neural Networks/Sigmoid.md",
+    "ML/Neural Networks/ReLU.md",
+    "ML/Neural Networks/Regularization.md",
+    "ML/Neural Networks/Notation.md",
+    "ML/Neural Networks/neural networks.md",
+    "ML/Neural Networks/Normlization.md",
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Neural Networks/gradient descent.md",
+    "ML/Neural Networks/Gradient Descent.md",
+    "ML/Neural Networks/Dropout regularization.md",
+    "ML/Neural Networks/Binary classification.md",
+    "ML/Neural Networks/Bias and variance.md",
+    "ML/Neural Networks/Backpropagation.md",
+    "ML/Neural Networks/Artificial neuron.md",
+    "ML/Neural Networks/Architecture of the learning algorithm.md",
+    "ML/Neural Networks/Activation functions.md",
     "ML/Deep Learning/Weight Initialization for Deep Networks.md",
+    "ML/Deep Learning/Vanishing Gradients.md",
     "ML/Neural Networks/Untitled.md",
     "ML/Deep Learning/Exploding gradients.md",
-    "ML/Neural Networks/Normlization.md",
     "Pasted image 20240511182637.png",
     "Pasted image 20240511182109.png",
     "Pasted image 20240511181819.png",
     "Pasted image 20240511181735.png",
-    "Early stopping.md",
     "Pasted image 20240511170042.png",
-    "ML/Neural Networks/Regularization.md",
-    "Data augmentation.md",
     "Pasted image 20240511165800.png",
-    "ML/Quizes/Practical aspects of Deep Learning.md",
-    "ML/Neural Networks/Logistic Regression.md",
-    "ML/Neural Networks/Dropout regularization.md",
-    "Excalidraw/Dropout regularization.md",
-    "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
-    "Excalidraw/derivativeBackpropagationGraph.md",
-    "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
-    "Excalidraw/nnNotation.md",
-    "Excalidraw/architectureLearningAlgorith.md",
-    "Excalidraw/Deep learning notation.md",
-    "Excalidraw/Untitled.md",
-    "ML/Neural Networks/neural networks.md",
-    "ML/Neural Networks/Train-Dev-Test sets.md",
-    "ML/Neural Networks/Bias and variance.md",
     "Pasted image 20240510172556.png",
-    "daily/2024-05-10.md",
-    "Data Science/Pandas/value_counts().md",
-    "Data Science/Excel/Work Smarter with Excel.md",
-    "daily/2024-04-19.md",
     "MLOps",
     "Pasted image 20240504163836.png",
     "Pasted image 20240504143748.png",
