@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "67e4c25b5b1dcd71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da23a6b3a4da7c3e",
             "type": "leaf",
             "state": {
@@ -172,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -238,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-05-11.md",
+                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-05-11.md",
+                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-05-11.md"
+                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md"
               }
             }
           }
@@ -319,10 +331,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49343668c9f6fb2b",
+  "active": "67e4c25b5b1dcd71",
   "lastOpenFiles": [
-    "daily/2024-05-10.md",
+    "Excalidraw/Weight Initialization.md",
     "daily/2024-05-11.md",
+    "daily/2024-05-10.md",
     "ML/Neural Networks/Vectorization.md",
     "ML/Neural Networks/Train-Dev-Test sets.md",
     "ML/Neural Networks/tanh.md",
@@ -346,7 +359,6 @@
     "ML/Deep Learning/Weight Initialization for Deep Networks.md",
     "ML/Deep Learning/Vanishing Gradients.md",
     "ML/Neural Networks/Untitled.md",
-    "ML/Deep Learning/Exploding gradients.md",
     "Pasted image 20240511182637.png",
     "Pasted image 20240511182109.png",
     "Pasted image 20240511181819.png",
