@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Exploding gradients.md",
+                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Exploding gradients.md",
+                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Exploding gradients.md",
+                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Exploding gradients.md"
+                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md"
               }
             }
           }
@@ -321,8 +321,10 @@
   },
   "active": "04d39afa8bdaeaf8",
   "lastOpenFiles": [
-    "ML/Neural Networks/Vanishing Gradients.md",
-    "ML/Neural Networks/Exploding gradients.md",
+    "ML/Deep Learning/Vanishing Gradients.md",
+    "ML/Deep Learning/Weight Initialization for Deep Networks.md",
+    "ML/Neural Networks/Untitled.md",
+    "ML/Deep Learning/Exploding gradients.md",
     "ML/Neural Networks/Normlization.md",
     "Pasted image 20240511182637.png",
     "Pasted image 20240511182109.png",
@@ -352,8 +354,6 @@
     "Data Science/Pandas/value_counts().md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "daily/2024-04-19.md",
-    "daily/2024-04-26.md",
-    "daily/2024-04-28.md",
     "MLOps",
     "Pasted image 20240504163836.png",
     "Pasted image 20240504143748.png",
