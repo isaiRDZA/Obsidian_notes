@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Regularization.md",
+                "file": "ML/Neural Networks/Dropout regularization.md",
                 "mode": "source",
                 "source": false
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "drop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +242,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -262,6 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/Neural Networks/Dropout regularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,6 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/Neural Networks/Dropout regularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +320,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML/Neural Networks/Dropout regularization.md"
+              }
             }
           }
         ],
@@ -339,7 +344,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51eacb7862bd909f",
+  "active": "64b6c37973474591",
   "lastOpenFiles": [
     "ML/Neural Networks/Regularization.md",
     "ML/Neural Networks/Dropout regularization.md",
