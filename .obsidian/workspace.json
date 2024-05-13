@@ -250,7 +250,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +266,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,18 +305,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/Deep Learning/Weight Initialization for Deep Networks.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 452.5,
-    "collapsed": true
+    "width": 452.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,8 +326,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67e4c25b5b1dcd71",
+  "active": "51eacb7862bd909f",
   "lastOpenFiles": [
+    "ML/Deep Learning/Weight Initialization for Deep Networks.md",
     "Excalidraw/Weight Initialization.md",
     "daily/2024-05-11.md",
     "daily/2024-05-10.md",
@@ -356,7 +352,6 @@
     "ML/Neural Networks/Artificial neuron.md",
     "ML/Neural Networks/Architecture of the learning algorithm.md",
     "ML/Neural Networks/Activation functions.md",
-    "ML/Deep Learning/Weight Initialization for Deep Networks.md",
     "ML/Deep Learning/Vanishing Gradients.md",
     "ML/Neural Networks/Untitled.md",
     "Pasted image 20240511182637.png",
