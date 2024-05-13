@@ -225,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Regulariza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,8 +242,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Regularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +278,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Regularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,9 +317,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/Neural Networks/Regularization.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -330,7 +325,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 452.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,8 +339,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64b6c37973474591",
+  "active": "51eacb7862bd909f",
   "lastOpenFiles": [
+    "ML/Neural Networks/Regularization.md",
     "ML/Neural Networks/Dropout regularization.md",
     "daily/2024-05-09.md",
     "daily/2024-05-10.md",
@@ -358,7 +355,6 @@
     "ML/Neural Networks/Softmax.md",
     "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/ReLU.md",
-    "ML/Neural Networks/Regularization.md",
     "ML/Neural Networks/Notation.md",
     "ML/Neural Networks/neural networks.md",
     "ML/Neural Networks/Normlization.md",
