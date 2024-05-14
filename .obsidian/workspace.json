@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md",
+                "file": "daily/2024-05-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,8 +242,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md",
+                "file": "daily/2024-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md",
+                "file": "daily/2024-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md"
+                "file": "daily/2024-05-13.md"
               }
             }
           }
@@ -346,12 +345,23 @@
   },
   "active": "64b6c37973474591",
   "lastOpenFiles": [
-    "ML/Neural Networks/Regularization.md",
-    "ML/Neural Networks/Dropout regularization.md",
+    "daily/2024-05-12.md",
+    "daily/2024-05-13.md",
+    "daily/2024-04-27.md",
+    "daily/2024-04-29.md",
+    "daily/2024-04-30.md",
+    "daily/2024-05-01.md",
+    "daily/2024-05-02.md",
+    "daily/2024-05-04.md",
+    "daily/2024-05-05.md",
+    "daily/2024-05-06.md",
+    "daily/2024-05-07.md",
+    "daily/2024-05-08.md",
     "daily/2024-05-09.md",
     "daily/2024-05-10.md",
     "daily/2024-05-11.md",
-    "daily/2024-05-12.md",
+    "ML/Neural Networks/Dropout regularization.md",
+    "ML/Neural Networks/Regularization.md",
     "ML/Deep Learning/Weight Initialization for Deep Networks.md",
     "Excalidraw/Weight Initialization.md",
     "ML/Neural Networks/Vectorization.md",
@@ -361,17 +371,6 @@
     "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/ReLU.md",
     "ML/Neural Networks/Notation.md",
-    "ML/Neural Networks/neural networks.md",
-    "ML/Neural Networks/Normlization.md",
-    "ML/Neural Networks/Logistic Regression.md",
-    "ML/Neural Networks/gradient descent.md",
-    "ML/Neural Networks/Gradient Descent.md",
-    "ML/Neural Networks/Binary classification.md",
-    "ML/Neural Networks/Bias and variance.md",
-    "ML/Neural Networks/Backpropagation.md",
-    "ML/Neural Networks/Artificial neuron.md",
-    "ML/Neural Networks/Architecture of the learning algorithm.md",
-    "ML/Neural Networks/Activation functions.md",
     "Pasted image 20240511182637.png",
     "Pasted image 20240511182109.png",
     "Pasted image 20240511181819.png",
