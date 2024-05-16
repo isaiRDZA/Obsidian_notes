@@ -24,3 +24,7 @@ the graphic above is generated when $\beta = 0.9$ and this value is approximatel
 To calculate the days in this example we an use the following equation
 $$\frac{1}{1-\beta}\ days\ of\ temperature$$
 For example with a $\beta = 0.98$ we would be averaging 50 days.
+This formula came from the fact that when we start calculating the values of $V_{t}$ , we are multiplying the $\beta$, over and over.
+$$\begin{align} 
+\\V_{100} = 
+\end{align}$$
