@@ -1,0 +1,3 @@
+![[Excalidraw/Mini-batch gradient descent|Mini-batch gradient descent]]
+When we train a deep learning model with a lot of data. The problem is that the gradient descent algorithm need to finish doing all the matrix calculation all over the network to start the first step in descending the gradient.
+To optimize the running time in training a deep neural network is design the mini-batch. This runs steps of gradient descent while we are passing blocks of our training data called mini batches

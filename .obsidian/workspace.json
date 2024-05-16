@@ -167,9 +167,11 @@
             "id": "38c36129a62f6772",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.16.16.excalidraw.md"
+                "file": "ML/Deep Learning/Mini-batch gradient descent.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -272,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.16.16.excalidraw.md",
+                "file": "ML/Deep Learning/Mini-batch gradient descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.16.16.excalidraw.md",
+                "file": "ML/Deep Learning/Mini-batch gradient descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.16.16.excalidraw.md"
+                "file": "ML/Deep Learning/Mini-batch gradient descent.md"
               }
             }
           }
@@ -355,8 +357,13 @@
   },
   "active": "38c36129a62f6772",
   "lastOpenFiles": [
+    "ML/Deep Learning/Weight Initialization for Deep Networks.md",
+    "ML/Deep Learning/Mini-batch gradient descent.md",
+    "ML/Deep Learning/Vanishing Gradients.md",
+    "ML/Deep Learning/Exploding gradients.md",
+    "ML/Deep Learning/Deep Learning.md",
+    "Excalidraw/Mini-batch gradient descent.md",
     "ML/Quizes/Neural Network Basics quiz.md",
-    "Excalidraw/Drawing 2024-05-16 00.16.16.excalidraw.md",
     "ML/Quizes/Key Concepts on Deep Neural Networks.md",
     "ML/Quizes/Practical aspects of Deep Learning.md",
     "ML/Quizes/Shallow Neural Networks Quiz.md",
@@ -380,11 +387,6 @@
     "daily/2024-05-04.md",
     "daily/2024-05-05.md",
     "daily/2024-05-06.md",
-    "daily/2024-05-07.md",
-    "daily/2024-05-08.md",
-    "daily/2024-05-09.md",
-    "daily/2024-05-10.md",
-    "ML/Neural Networks/Dropout regularization.md",
     "Pasted image 20240511182637.png",
     "Pasted image 20240511182109.png",
     "Pasted image 20240511181819.png",
