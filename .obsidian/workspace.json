@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-05-13.md",
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-05-13.md",
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-05-13.md",
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,12 +320,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-05-13.md"
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -345,8 +345,13 @@
   },
   "active": "64b6c37973474591",
   "lastOpenFiles": [
-    "daily/2024-05-12.md",
+    "Pasted image 20240515204113.png",
+    "daily/2024-05-11.md",
+    "ML/Quizes/Key Concepts on Deep Neural Networks.md",
     "daily/2024-05-13.md",
+    "daily/2024-05-14.md",
+    "daily/2024-05-15.md",
+    "daily/2024-05-12.md",
     "daily/2024-04-27.md",
     "daily/2024-04-29.md",
     "daily/2024-04-30.md",
@@ -359,7 +364,6 @@
     "daily/2024-05-08.md",
     "daily/2024-05-09.md",
     "daily/2024-05-10.md",
-    "daily/2024-05-11.md",
     "ML/Neural Networks/Dropout regularization.md",
     "ML/Neural Networks/Regularization.md",
     "ML/Deep Learning/Weight Initialization for Deep Networks.md",
@@ -367,10 +371,6 @@
     "ML/Neural Networks/Vectorization.md",
     "ML/Neural Networks/Train-Dev-Test sets.md",
     "ML/Neural Networks/tanh.md",
-    "ML/Neural Networks/Softmax.md",
-    "ML/Neural Networks/Sigmoid.md",
-    "ML/Neural Networks/ReLU.md",
-    "ML/Neural Networks/Notation.md",
     "Pasted image 20240511182637.png",
     "Pasted image 20240511182109.png",
     "Pasted image 20240511181819.png",
