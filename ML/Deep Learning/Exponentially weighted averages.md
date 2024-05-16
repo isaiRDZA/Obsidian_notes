@@ -38,5 +38,9 @@ And we use the equation
 $$(1-\epsilon)^{\frac{1}{\epsilon}} = \frac{1}{e}$$
 Where for this example:
 $\epsilon = 0.1$
-$1-\epsilon = 0.9$
+$1-\epsilon = 0.9 = \beta$
 
+## Bias correction
+To correct the first "t's" values we have to use the following equation
+$$V_{t} = \frac{V_{t}}{1-\beta^{t}}$$
+This will increase the first values and when t is larger this will be tending to $V_{t}$

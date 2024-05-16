@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md",
+                "file": "ML/Deep Learning/Gradient descent with momentum.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md",
+                "file": "ML/Deep Learning/Gradient descent with momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md",
+                "file": "ML/Deep Learning/Gradient descent with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md"
+                "file": "ML/Deep Learning/Gradient descent with momentum.md"
               }
             }
           }
@@ -357,9 +357,10 @@
   },
   "active": "38c36129a62f6772",
   "lastOpenFiles": [
-    "ML/Deep Learning/Exploding gradients.md",
-    "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
+    "ML/Deep Learning/Gradient descent with momentum.md",
+    "ML/Deep Learning/Mini-batch gradient descent.md",
+    "ML/Deep Learning/Exploding gradients.md",
     "Pasted image 20240516110811.png",
     "Pasted image 20240516105832.png",
     "ML/Deep Learning/Vanishing Gradients.md",
