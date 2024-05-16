@@ -26,5 +26,17 @@ $$\frac{1}{1-\beta}\ days\ of\ temperature$$
 For example with a $\beta = 0.98$ we would be averaging 50 days.
 This formula came from the fact that when we start calculating the values of $V_{t}$ , we are multiplying the $\beta$, over and over.
 $$\begin{align} 
-\\V_{100} = 
+\\V_{100} = 0.9V_{99}+(0.1)\theta_{100}
+\\V_{99} = 0.9V_{98}+(0.1)\theta_{99}
+\\V_{98} = 0.9V_{97}+(0.1)\theta_{98}
+\\V_{97} = 0.9V_{96}+(0.1)\theta_{97}
+\\ \vdots
+\\V_{100} = 0.1\theta_{100}+ 0.9(0.1\theta_{99})+ 0.9^{2}(0.1)\theta_{98}+0.9^{3}(0.1)\theta_{97}+\dots
 \end{align}$$
+So the above formula calculates when the equation term $(1-\beta)$ is equal to a third of its value or equals to $\frac{1}{e} \approx 0.35$.
+And we use the equation
+$$(1-\epsilon)^{\frac{1}{\epsilon}} = \frac{1}{e}$$
+Where for this example:
+$\epsilon = 0.1$
+$1-\epsilon = 0.9$
+
