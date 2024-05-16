@@ -23,6 +23,38 @@
 - [ ] 
 ```Python
 for i in range(1, len(layer_dims)):
-	parameter['W' + str(i)] = np.random.randn(layer_dims[i-1], layer_dims[i])*0.01
-	parameter[]
+	parameter['W' + str(i)] = np.random.randn(layer_dims[i-1],layer_dims[i])*0.01
+	parameter['b' + str(i)] = np.random.randn(layer_dims[i], 1)*0.01
 ```
+- [ ] 
+```Python
+for i in range(1, len(layer_dims)):
+	parameter['W'+ str(i)] = np.random.randn(layer_dims[i], layer_dims[i-1])*0.01
+	parameter['b' + str(i)] = np.random.randn(layer_dims[i],1)*0.01
+```
+- [ ] 
+```Python
+for i in range(1, len(layer_dims)/2):
+	parameter['W'+str(i)] = np.random.randn(layer_dims[i], layer_dims[i-1])*0.01
+	parameter['b'+str(i)] = np.random.randn(layer_dims[i],1)*0.01
+```
+- [ ] 
+```Python
+for i in range(1, len(layer_dims)/2):
+	parameter['W' + str(i)] = np.random.randn(layer_dims[i], layer_dims[i-1])*0.01
+	parameter['b' + str(i)] = np.random.randn(layer_dims[i-1],1)*0.01
+```
+
+6. Consider the following neural network:
+![[Pasted image 20240515235416.png]]
+How may layer does this network have?
+- [ ] The number of layers L is 6
+- [ ] The number of layers L is 5
+- [ ] The number of layers L is 4
+- [ ] The number of layers L is 2
+
+7. If L is the number of layers of a neural network then $dZ^{[L]} = A^{[L]}-Y$. True/False 
+- [ ] True
+- [ ] False
+
+8. For anu mathematical funciton you can compute with an L-layered deep neural network with N hidden units there is a shallow neural network that req 
