@@ -1,4 +1,4 @@
-[[Broadcasting]] allows you to perform operations specifically on arrays of different shapes
+[[broadcasting]] allows you to perform operations specifically on arrays of different shapes
 ```Python
 vector = np.array([1, 2])
 vector * 1.6

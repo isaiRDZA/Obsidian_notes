@@ -9,4 +9,7 @@ So in order to perform mini-batch gradient descent we need to go to the full pro
 		$A^{[1]} = g^{[1]}(Z^{[1]})$
 		  $\vdots$
 		$A^{[L]} = g^{[L]}(Z^{[L]})$
-	Compute cost $J^{\{t\}} = \frac{1}{100}\sum^{l}_{i=1}\mathscr{L}(\hat{y}^{(i)}, y^{(i)}) + \frac{\lambda}{2}$ 
+	Compute cost $J^{\{t\}} = \frac{1}{100}\sum^{l}_{i=1}\mathscr{L}(\hat{y}^{(i)}, y^{(i)}) + \frac{\lambda}{2 \cdot 1000} \sum_{l} ||W^{[l]}||^{2}_{F}$ 
+	Backprop to compute gradient cost $J^{\{t\}} (X^{\{t\}}, Y^{\{t\}})$ 
+	 $W^{[l]} = W^{[l]}-\alpha dW^{[l]},\ b^{[l]} = b^{[l]}-\alpha db^{[l]}$
+	 And all of these will happen for the **1 epoch** pass through the mini batch trainnig set
