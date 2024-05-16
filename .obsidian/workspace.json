@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md",
+                "file": "ML/Quizes/Optimization Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md",
+                "file": "ML/Quizes/Optimization Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md",
+                "file": "ML/Quizes/Optimization Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md"
+                "file": "ML/Quizes/Optimization Algorithms.md"
               }
             }
           }
@@ -357,8 +357,10 @@
   },
   "active": "38c36129a62f6772",
   "lastOpenFiles": [
-    "ML/Deep Learning/Exponentially weighted averages.md",
+    "Pasted image 20240516171657.png",
     "ML/Deep Learning/Gradient descent with momentum.md",
+    "ML/Quizes/Optimization Algorithms.md",
+    "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Exploding gradients.md",
     "Pasted image 20240516110811.png",
@@ -386,9 +388,7 @@
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Quizes/Key Concepts on Deep Neural Networks.md",
     "ML/Quizes/Practical aspects of Deep Learning.md",
-    "ML/Quizes/Shallow Neural Networks Quiz.md",
     "Pasted image 20240515235400.png",
-    "ML/Maths/Understanding and Visualizing Data/SciPY.md",
     "Pasted image 20240515204113.png",
     "Pasted image 20240511182637.png",
     "Pasted image 20240511182109.png",
