@@ -167,11 +167,9 @@
             "id": "38c36129a62f6772",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ML/Quizes/Optimization Algorithms.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/nnNotation.md"
               }
             }
           },
@@ -179,9 +177,11 @@
             "id": "da23a6b3a4da7c3e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Deep learning notation.md"
+                "file": "ML/Quizes/Optimization Algorithms.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -208,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -355,11 +355,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38c36129a62f6772",
+  "active": "da23a6b3a4da7c3e",
   "lastOpenFiles": [
+    "Pasted image 20240516173749.png",
+    "Pasted image 20240516173530.png",
+    "Excalidraw/Deep learning notation.md",
+    "Excalidraw/nnNotation.md",
+    "ML/Quizes/Optimization Algorithms.md",
     "Pasted image 20240516171657.png",
     "ML/Deep Learning/Gradient descent with momentum.md",
-    "ML/Quizes/Optimization Algorithms.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Exploding gradients.md",
@@ -386,14 +390,10 @@
     "Classification.md",
     "Excalidraw/Mini-batch gradient descent.md",
     "ML/Quizes/Neural Network Basics quiz.md",
-    "ML/Quizes/Key Concepts on Deep Neural Networks.md",
-    "ML/Quizes/Practical aspects of Deep Learning.md",
     "Pasted image 20240515235400.png",
     "Pasted image 20240515204113.png",
     "Pasted image 20240511182637.png",
     "Pasted image 20240511182109.png",
-    "Pasted image 20240511181819.png",
-    "Pasted image 20240511181735.png",
     "MLOps",
     "ML/Quizes",
     "Excalidraw",
