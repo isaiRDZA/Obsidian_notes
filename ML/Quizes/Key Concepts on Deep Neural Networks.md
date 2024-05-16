@@ -15,4 +15,14 @@
 - [ ] Middle layers of the deep neural network.
 - [ ] Early layers of the deep network.
 
-4. Vectorization allows you to compute 
+4. Vectorization allows you to compute forward propagation in al $L$-layer neural network without an explicit for-loop (or any other explicit iterative loop) over the layers l = 1, 2, ..., L. True/Flase?
+- [ ] True
+- [ ] False
+
+5. Assume we store the value for $n^{[l]}$ in an array called llayer_dims, as follows: layer_dims = $[n_{x},4,3,2,1]$. So layer 1 has four hidden units, layer 2 has 3 hidden units and so on. Which of the following for-loops will allow you to initialize the parameters for the model?
+- [ ] 
+```Python
+for i in range(1, len(layer_dims)):
+	parameter['W' + str(i)] = np.random.randn(layer_dims[i-1], layer_dims[i])*0.01
+	parameter[]
+```
