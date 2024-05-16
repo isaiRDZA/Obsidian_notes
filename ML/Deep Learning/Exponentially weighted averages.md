@@ -23,3 +23,4 @@ $$V_{t} = \beta V_{t-1}+(1-\beta)\theta_{t}$$
 the graphic above is generated when $\beta = 0.9$ and this value is approximately to compute the average of 10 days.
 To calculate the days in this example we an use the following equation
 $$\frac{1}{1-\beta}\ days\ of\ temperature$$
+For example with a $\beta = 0.98$ we would be averaging 50 days.
