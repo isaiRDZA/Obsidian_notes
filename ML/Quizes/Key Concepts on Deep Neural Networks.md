@@ -15,7 +15,7 @@
 - [ ] Middle layers of the deep neural network.
 - [ ] Early layers of the deep network.
 
-4. Vectorization allows you to compute forward propagation in al $L$-layer neural network without an explicit for-loop (or any other explicit iterative loop) over the layers l = 1, 2, ..., L. True/Flase?
+4. Vectorization allows you to compute forward propagation in al $L$-layer neural network without an explicit for-loop (or any other explicit iterative loop) over the layers l = 1, 2, ..., L. True/False?
 - [ ] True
 - [ ] False
 
@@ -57,4 +57,25 @@ How may layer does this network have?
 - [ ] True
 - [ ] False
 
-8. For anu mathematical funciton you can compute with an L-layered deep neural network with N hidden units there is a shallow neural network that req 
+8. For any mathematical function you can compute with an L-layered deep neural network with N hidden units there is a shallow neural network that requires only $log\ N$ units, but it is very difficult to train.  
+- [ ] False
+- [ ] True
+
+9. Consider the following 2 hidden layers neural network:
+![[Pasted image 20240516000007.png]]
+Which of the following statements is true? (Check all that apply)
+- [ ] $b^{[1]}$ will have shape (1,4)
+- [ ] $W^{[2]}$ will have shape (3,1)
+- [ ] $W^{[1]}$ will have shape (4,3)
+- [ ] $b^{[1]}$ will have shape (3,1)
+- [ ] $W^{[2]}$ will have shape (1,3)
+- [ ] $b^{[1]}$ will have shape (4,1)
+- [ ] $W^{[2]}$ will have shape (3,4)
+- [ ] $W^{[1]}$ will have shape (3,4)
+- [ ] $W^{[2]}$ will have shape (4,3)
+
+10. Whereas the previous question used a specific network, in the general case what is the dimension of $b^{[l]}$, the bias vector associated with layer $l$?
+- [ ] $b^{[l]}$ has shape  $(1,\ n^{[l]})$
+- [ ] $b^{[l]}$ has shape  $(n^{[l]},\ 1)$
+- [ ] $b^{[l]}$ has shape  $(n^{[l+1]},\ 1)$
+- [ ] $b^{[l]}$ has shape  $(1,\ n^{[l-1]})$ 
