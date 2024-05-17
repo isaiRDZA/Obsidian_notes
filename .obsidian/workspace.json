@@ -274,7 +274,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/RMSProp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +290,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/RMSProp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,17 +329,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/Deep Learning/RMSProp.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 452.5,
+    "width": 689.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -355,10 +351,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da23a6b3a4da7c3e",
+  "active": "51eacb7862bd909f",
   "lastOpenFiles": [
-    "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/RMSProp.md",
+    "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Gradient descent with momentum.md",
     "Pasted image 20240516181144.png",
