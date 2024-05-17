@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Quizes/Optimization Algorithms.md",
+                "file": "ML/Deep Learning/Gradient descent with momentum.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Quizes/Optimization Algorithms.md",
+                "file": "ML/Deep Learning/Gradient descent with momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Quizes/Optimization Algorithms.md",
+                "file": "ML/Deep Learning/Gradient descent with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Quizes/Optimization Algorithms.md"
+                "file": "ML/Deep Learning/Gradient descent with momentum.md"
               }
             }
           }
@@ -357,15 +357,16 @@
   },
   "active": "da23a6b3a4da7c3e",
   "lastOpenFiles": [
+    "ML/Deep Learning/Exponentially weighted averages.md",
+    "ML/Deep Learning/Gradient descent with momentum.md",
+    "ML/Deep Learning/Mini-batch gradient descent.md",
+    "Pasted image 20240516181144.png",
+    "ML/Quizes/Optimization Algorithms.md",
     "Pasted image 20240516173749.png",
     "Pasted image 20240516173530.png",
     "Excalidraw/Deep learning notation.md",
     "Excalidraw/nnNotation.md",
-    "ML/Quizes/Optimization Algorithms.md",
     "Pasted image 20240516171657.png",
-    "ML/Deep Learning/Gradient descent with momentum.md",
-    "ML/Deep Learning/Exponentially weighted averages.md",
-    "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Exploding gradients.md",
     "Pasted image 20240516110811.png",
     "Pasted image 20240516105832.png",
@@ -392,8 +393,6 @@
     "ML/Quizes/Neural Network Basics quiz.md",
     "Pasted image 20240515235400.png",
     "Pasted image 20240515204113.png",
-    "Pasted image 20240511182637.png",
-    "Pasted image 20240511182109.png",
     "MLOps",
     "ML/Quizes",
     "Excalidraw",
