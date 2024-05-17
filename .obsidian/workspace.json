@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md"
+                "file": "ML/Deep Learning/RMSProp.md"
               }
             }
           }
@@ -357,9 +357,10 @@
   },
   "active": "da23a6b3a4da7c3e",
   "lastOpenFiles": [
+    "ML/Deep Learning/Mini-batch gradient descent.md",
+    "ML/Deep Learning/RMSProp.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Gradient descent with momentum.md",
-    "ML/Deep Learning/Mini-batch gradient descent.md",
     "Pasted image 20240516181144.png",
     "ML/Quizes/Optimization Algorithms.md",
     "Pasted image 20240516173749.png",
