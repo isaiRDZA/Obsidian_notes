@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/RMSProp.md",
+                "file": "ML/Deep Learning/Learning Decay.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,6 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/Deep Learning/Learning Decay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,6 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/Deep Learning/Learning Decay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,7 +331,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML/Deep Learning/Learning Decay.md"
+              }
             }
           }
         ],
@@ -351,9 +355,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51eacb7862bd909f",
+  "active": "da23a6b3a4da7c3e",
   "lastOpenFiles": [
     "ML/Deep Learning/RMSProp.md",
+    "ML/Deep Learning/Learning Decay.md",
+    "daily/2024-05-16.md",
+    "daily/2024-05-15.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Gradient descent with momentum.md",
@@ -370,7 +377,6 @@
     "ML/Deep Learning/Vanishing Gradients.md",
     "ML/Deep Learning/Deep Learning.md",
     "ML/Deep Learning/Weight Initialization for Deep Networks.md",
-    "daily/2024-05-16.md",
     "Pasted image 20240515235416.png",
     "Pasted image 20240516000007.png",
     "Ve.md",
@@ -386,8 +392,6 @@
     "Data Science/Excel/Work Smarter with Excel.md",
     "First Note.md",
     "Classification.md",
-    "Excalidraw/Mini-batch gradient descent.md",
-    "ML/Quizes/Neural Network Basics quiz.md",
     "Pasted image 20240515235400.png",
     "Pasted image 20240515204113.png",
     "MLOps",
