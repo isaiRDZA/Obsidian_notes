@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Learning Decay.md",
+                "file": "ML/Deep Learning/Exponentially weighted averages.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Learning Decay.md",
+                "file": "ML/Deep Learning/Exponentially weighted averages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Learning Decay.md",
+                "file": "ML/Deep Learning/Exponentially weighted averages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Learning Decay.md"
+                "file": "ML/Deep Learning/Exponentially weighted averages.md"
               }
             }
           }
@@ -357,11 +357,13 @@
   },
   "active": "da23a6b3a4da7c3e",
   "lastOpenFiles": [
-    "ML/Deep Learning/RMSProp.md",
     "ML/Deep Learning/Learning Decay.md",
+    "ML/Deep Learning/Mini-batch gradient descent.md",
+    "ML/Deep Learning/Adam Algorithm.md",
+    "Pasted image 20240516223835.png",
+    "ML/Deep Learning/RMSProp.md",
     "daily/2024-05-16.md",
     "daily/2024-05-15.md",
-    "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Gradient descent with momentum.md",
     "Pasted image 20240516181144.png",
@@ -391,9 +393,7 @@
     "Data Science/Excel/Flash fill (Relleno rápido).md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "First Note.md",
-    "Classification.md",
     "Pasted image 20240515235400.png",
-    "Pasted image 20240515204113.png",
     "MLOps",
     "ML/Quizes",
     "Excalidraw",
