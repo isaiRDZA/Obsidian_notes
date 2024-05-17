@@ -48,4 +48,18 @@ You notice that the value of J is not always decreasing. Which of the following 
 8. Consider this figure:
 ![[Pasted image 20240516173749.png]]
 These plots were generated with gradient descent; with gradient descent with momentum $(\beta = 0.5)$; and gradient descent with momentum $\beta = 0.9$. Which curve corresponds to which algorithm?
-- [ ] (1) 
+- [ ] (1) is gradient descent with momentum (small $\beta$), (2) is gradient descent with momentum (small $\beta$), (3) is gradient descent.
+- [ ] (1) is gradient descent. (2) is gradient descent with momentum (small $\beta$). (3) is gradient descent with momentum (large $\beta$).
+- [ ] (1) is gradient descent. (2) is gradient descent with momentum (large $\beta$). (3) is gradient descent with momentum (small $\beta$)
+- [ ] (1) is gradient descent with  momentum (small $\beta$). (2) is gradient descent. (3) is gradient descent with momentum (large $\beta$
+
+9. Suppose batch gradient descent in a deep network is talking excessively long to find a value of the parameters that achieves a s,all value for the cost function $J(W^{[1]}, b ^{[1]}, ..., W^{[L]}, b^{[L]})$. Which of the following techniques could help find parameter values that attain a small value of $J$ ? (Check all that apply)
+- [ ] Try better random initialization for weights
+- [ ] Try mini-batch gradient descent
+- [ ] Try turning the learning rate $\alpha$
+- [ ] Try using Adam
+
+10. In very high dimensional spaces it is most likely that the gradient descent process gives us a local minimum than a saddle point of the cost function. True/False?
+- [ ] True
+- [ ] False
+
