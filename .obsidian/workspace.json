@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,17 +332,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md"
+                "file": "ML/Deep Learning/RMSProp.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 689.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -357,14 +356,16 @@
   },
   "active": "da23a6b3a4da7c3e",
   "lastOpenFiles": [
-    "ML/Deep Learning/Learning Decay.md",
-    "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Adam Algorithm.md",
-    "Pasted image 20240516223835.png",
-    "ML/Deep Learning/RMSProp.md",
+    "daily/2024-05-18.md",
+    "daily/2024-05-17.md",
     "daily/2024-05-16.md",
     "daily/2024-05-15.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
+    "ML/Deep Learning/Learning Decay.md",
+    "ML/Deep Learning/Mini-batch gradient descent.md",
+    "Pasted image 20240516223835.png",
+    "ML/Deep Learning/RMSProp.md",
     "ML/Deep Learning/Gradient descent with momentum.md",
     "Pasted image 20240516181144.png",
     "ML/Quizes/Optimization Algorithms.md",
@@ -391,8 +392,6 @@
     "mean.md",
     "ML/Neural Networks/broadcasting.md",
     "Data Science/Excel/Flash fill (Relleno rápido).md",
-    "Data Science/Excel/Work Smarter with Excel.md",
-    "First Note.md",
     "Pasted image 20240515235400.png",
     "MLOps",
     "ML/Quizes",
