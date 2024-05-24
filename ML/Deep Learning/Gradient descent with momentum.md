@@ -5,7 +5,7 @@ For example in the function from the image we would have a better performance if
 To achieve this behavior we ca use the equation from exponentially weighted averages. Modifying the backpropagation like as follows:
 $$\begin{align}V_{dw} = \beta\cdot Vdw + (1-\beta)dW
 \\V_{db} = \beta\cdot V_{db} + (1+\beta)db
-\\ W = W-\alpha\cdot V_{dW}, \ \ \ b = b - \alpha\cdotV_{db}
+\\ W = W-\alpha\cdot V_{dW}, \ \ \ b = b - \alpha \cdot V_{db}
 \end{align}
 $$
 ```
