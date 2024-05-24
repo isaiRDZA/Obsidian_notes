@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-05-19.md",
+                "file": "ML/Deep Learning/Exponentially weighted averages.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 350.5
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-05-19.md",
+                "file": "ML/Deep Learning/Exponentially weighted averages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-05-19.md",
+                "file": "ML/Deep Learning/Exponentially weighted averages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-05-19.md"
+                "file": "ML/Deep Learning/Exponentially weighted averages.md"
               }
             }
           }
@@ -356,19 +356,23 @@
   },
   "active": "da23a6b3a4da7c3e",
   "lastOpenFiles": [
-    "daily/2024-05-20.md",
-    "daily/2024-05-19.md",
+    "ML/Deep Learning/Exploding gradients.md",
     "ML/Deep Learning/RMSProp.md",
+    "ML/Deep Learning/Mini-batch gradient descent.md",
+    "ML/Deep Learning/Learning Decay.md",
+    "ML/Deep Learning/Gradient descent with momentum.md",
+    "ML/Deep Learning/Exponentially weighted averages.md",
+    "ML/Deep Learning/Deep Learning.md",
     "ML/Deep Learning/Adam Algorithm.md",
+    "ML/Deep Learning/Vanishing Gradients.md",
+    "daily/2024-05-23.md",
+    "daily/2024-05-19.md",
+    "daily/2024-05-20.md",
     "daily/2024-05-18.md",
     "daily/2024-05-17.md",
     "daily/2024-05-16.md",
     "daily/2024-05-15.md",
-    "ML/Deep Learning/Exponentially weighted averages.md",
-    "ML/Deep Learning/Learning Decay.md",
-    "ML/Deep Learning/Mini-batch gradient descent.md",
     "Pasted image 20240516223835.png",
-    "ML/Deep Learning/Gradient descent with momentum.md",
     "Pasted image 20240516181144.png",
     "ML/Quizes/Optimization Algorithms.md",
     "Pasted image 20240516173749.png",
@@ -376,11 +380,8 @@
     "Excalidraw/Deep learning notation.md",
     "Excalidraw/nnNotation.md",
     "Pasted image 20240516171657.png",
-    "ML/Deep Learning/Exploding gradients.md",
     "Pasted image 20240516110811.png",
     "Pasted image 20240516105832.png",
-    "ML/Deep Learning/Vanishing Gradients.md",
-    "ML/Deep Learning/Deep Learning.md",
     "ML/Deep Learning/Weight Initialization for Deep Networks.md",
     "Pasted image 20240515235416.png",
     "Pasted image 20240516000007.png",
@@ -391,7 +392,6 @@
     "ML/Neural Networks/Data augmentation.md",
     "ML/Neural Networks/Early stopping.md",
     "neural networks.md",
-    "mean.md",
     "Pasted image 20240515235400.png",
     "MLOps",
     "ML/Quizes",
