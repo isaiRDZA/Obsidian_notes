@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md",
+                "file": "ML/Neural Networks/Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md",
+                "file": "ML/Neural Networks/Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Gradient descent with momentum.md"
+                "file": "ML/Neural Networks/Notation.md"
               }
             }
           }
@@ -366,9 +366,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7ef1aed6160b28e",
+  "active": "ecc3f9d3d7af3efb",
   "lastOpenFiles": [
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Quizes/Shallow Neural Networks Quiz.md",
+    "Data Science/Excel/Work Smarter with Excel.md",
+    "ML/Maths/Linear Algebra/np.sum().md",
+    "Excalidraw/derivativeBackpropagationGraph.md",
     "ML/Deep Learning/RMSProp.md",
+    "Excalidraw/nnNotation.md",
+    "ML/Quizes/Neural Network Basics quiz.md",
+    "ML/Neural Networks/Dropout regularization.md",
+    "daily/2024-05-11.md",
+    "ML/Neural Networks/Regularization.md",
+    "daily/2024-05-07.md",
+    "ML/Neural Networks/Activation functions.md",
+    "daily/2024-05-04.md",
+    "ML/Neural Networks/Notation.md",
     "ML/Deep Learning/Gradient descent with momentum.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Exploding gradients.md",
@@ -380,30 +394,16 @@
     "daily/2024-05-23.md",
     "daily/2024-05-19.md",
     "daily/2024-05-20.md",
-    "daily/2024-05-18.md",
-    "daily/2024-05-17.md",
-    "daily/2024-05-16.md",
-    "daily/2024-05-15.md",
     "Pasted image 20240516223835.png",
     "Pasted image 20240516181144.png",
-    "ML/Quizes/Optimization Algorithms.md",
     "Pasted image 20240516173749.png",
     "Pasted image 20240516173530.png",
-    "Excalidraw/Deep learning notation.md",
-    "Excalidraw/nnNotation.md",
     "Pasted image 20240516171657.png",
     "Pasted image 20240516110811.png",
     "Pasted image 20240516105832.png",
-    "ML/Deep Learning/Weight Initialization for Deep Networks.md",
     "Pasted image 20240515235416.png",
     "Pasted image 20240516000007.png",
-    "Ve.md",
-    "ML/Machine Learning Algorithms.md",
     "Untitled.canvas",
-    "ML/Jupyter Notebook.md",
-    "ML/Neural Networks/Data augmentation.md",
-    "ML/Neural Networks/Early stopping.md",
-    "neural networks.md",
     "Pasted image 20240515235400.png",
     "MLOps",
     "ML/Quizes",
