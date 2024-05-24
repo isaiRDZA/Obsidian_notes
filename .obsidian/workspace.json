@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Exponentially weighted averages.md"
+                "file": "ML/Deep Learning/RMSProp.md"
               }
             }
           }
@@ -356,12 +356,12 @@
   },
   "active": "da23a6b3a4da7c3e",
   "lastOpenFiles": [
+    "ML/Deep Learning/Gradient descent with momentum.md",
+    "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Exploding gradients.md",
     "ML/Deep Learning/RMSProp.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Learning Decay.md",
-    "ML/Deep Learning/Gradient descent with momentum.md",
-    "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Deep Learning.md",
     "ML/Deep Learning/Adam Algorithm.md",
     "ML/Deep Learning/Vanishing Gradients.md",

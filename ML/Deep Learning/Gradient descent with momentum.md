@@ -3,6 +3,11 @@ When running gradient descent, if we plot the values it takes on each epoch, we 
 
 For example in the function from the image we would have a better performance if we just slow the learning in the vertical direction and increase the magnitude on the steps over the horizontal direction.
 To achieve this behavior we ca use the equation from exponentially weighted averages. Modifying the backpropagation like as follows:
+$$\begin{align}V_{dw} = \beta\cdot Vdw + (1-\beta)dW
+\\V_{db} = \beta\cdot V_{db} + (1+\beta)db
+\\ W = W-\alpha\cdot V_{dW}, \ \ \ b = b - \alpha\cdotV_{db}
+\end{align}
+$$
 ```
 Momentum:
 On iteration t:
