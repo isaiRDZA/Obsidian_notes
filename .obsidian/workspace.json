@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Adam Algorithm.md",
+                "file": "ML/Deep Learning/Learning Decay.md",
                 "mode": "source",
                 "source": false
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Adam Algorithm.md",
+                "file": "ML/Deep Learning/Learning Decay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Adam Algorithm.md",
+                "file": "ML/Deep Learning/Learning Decay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Adam Algorithm.md"
+                "file": "ML/Deep Learning/Learning Decay.md"
               }
             }
           }
@@ -369,6 +369,11 @@
   },
   "active": "ecc3f9d3d7af3efb",
   "lastOpenFiles": [
+    "ML/Deep Learning/Gradient descent with momentum.md",
+    "ML/Deep Learning/Exponentially weighted averages.md",
+    "ML/Deep Learning/Exploding gradients.md",
+    "ML/Deep Learning/Deep Learning.md",
+    "ML/Deep Learning/Adam Algorithm.md",
     "ML/Neural Networks/Notation.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Quizes/Shallow Neural Networks Quiz.md",
@@ -384,13 +389,8 @@
     "daily/2024-05-07.md",
     "ML/Neural Networks/Activation functions.md",
     "daily/2024-05-04.md",
-    "ML/Deep Learning/Gradient descent with momentum.md",
-    "ML/Deep Learning/Exponentially weighted averages.md",
-    "ML/Deep Learning/Exploding gradients.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Learning Decay.md",
-    "ML/Deep Learning/Deep Learning.md",
-    "ML/Deep Learning/Adam Algorithm.md",
     "ML/Deep Learning/Vanishing Gradients.md",
     "daily/2024-05-23.md",
     "daily/2024-05-19.md",
