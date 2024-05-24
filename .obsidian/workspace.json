@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Notation.md",
+                "file": "ML/Deep Learning/Adam Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Notation.md",
+                "file": "ML/Deep Learning/Adam Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Notation.md",
+                "file": "ML/Deep Learning/Adam Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Notation.md"
+                "file": "ML/Deep Learning/Adam Algorithm.md"
               }
             }
           }
@@ -353,7 +353,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -368,6 +369,7 @@
   },
   "active": "ecc3f9d3d7af3efb",
   "lastOpenFiles": [
+    "ML/Neural Networks/Notation.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Quizes/Shallow Neural Networks Quiz.md",
     "Data Science/Excel/Work Smarter with Excel.md",
@@ -382,7 +384,6 @@
     "daily/2024-05-07.md",
     "ML/Neural Networks/Activation functions.md",
     "daily/2024-05-04.md",
-    "ML/Neural Networks/Notation.md",
     "ML/Deep Learning/Gradient descent with momentum.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Exploding gradients.md",
