@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Batch Normalization.md",
+                "file": "ML/Neural Networks/Normlization.md",
                 "mode": "source",
                 "source": false
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Batch Normalization.md",
+                "file": "ML/Neural Networks/Normlization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Batch Normalization.md",
+                "file": "ML/Neural Networks/Normlization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Batch Normalization.md"
+                "file": "ML/Neural Networks/Normlization.md"
               }
             }
           }
@@ -369,8 +369,8 @@
   },
   "active": "ecc3f9d3d7af3efb",
   "lastOpenFiles": [
-    "daily/2024-05-26.md",
     "ML/Deep Learning/Batch Normalization.md",
+    "daily/2024-05-26.md",
     "ML/Deep Learning/Learning Decay.md",
     "ML/Deep Learning/Gradient descent with momentum.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
