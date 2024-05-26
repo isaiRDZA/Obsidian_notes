@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-05-04.md",
+                "file": "ML/Deep Learning/Batch Normalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -367,10 +367,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecc3f9d3d7af3efb",
+  "active": "139580f4bfe2766a",
   "lastOpenFiles": [
-    "ML/Neural Networks/Normlization.md",
+    "daily/2024-05-04.md",
     "ML/Deep Learning/Batch Normalization.md",
+    "ML/Neural Networks/Normlization.md",
     "daily/2024-05-26.md",
     "ML/Deep Learning/Learning Decay.md",
     "ML/Deep Learning/Gradient descent with momentum.md",
@@ -392,7 +393,6 @@
     "ML/Neural Networks/Regularization.md",
     "daily/2024-05-07.md",
     "ML/Neural Networks/Activation functions.md",
-    "daily/2024-05-04.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Vanishing Gradients.md",
     "Pasted image 20240516223835.png",
