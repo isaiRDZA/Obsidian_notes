@@ -1,5 +1,5 @@
 
-**Substract the mean**
+**Subtract the mean**
 $$\begin{align}\mu = \frac{1}{m}\sum^{m}_{i=1}x^{(i)}
 \\ x:=x-\mu\end{align}$$
 **Normalize variance**

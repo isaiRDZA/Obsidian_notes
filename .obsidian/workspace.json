@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Normlization.md",
+                "file": "ML/Deep Learning/Batch Normalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Normlization.md",
+                "file": "ML/Deep Learning/Batch Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Normlization.md",
+                "file": "ML/Deep Learning/Batch Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Normlization.md"
+                "file": "ML/Deep Learning/Batch Normalization.md"
               }
             }
           }
@@ -369,6 +369,7 @@
   },
   "active": "ecc3f9d3d7af3efb",
   "lastOpenFiles": [
+    "ML/Neural Networks/Normlization.md",
     "ML/Deep Learning/Batch Normalization.md",
     "daily/2024-05-26.md",
     "ML/Deep Learning/Learning Decay.md",
@@ -394,7 +395,6 @@
     "daily/2024-05-04.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Vanishing Gradients.md",
-    "daily/2024-05-23.md",
     "Pasted image 20240516223835.png",
     "Pasted image 20240516181144.png",
     "Pasted image 20240516173749.png",
