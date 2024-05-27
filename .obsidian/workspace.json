@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Batch Normalization.md",
+                "file": "ML/Deep Learning/Learning Decay.md",
                 "mode": "source",
                 "source": false
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Batch Normalization.md",
+                "file": "ML/Deep Learning/Learning Decay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Batch Normalization.md",
+                "file": "ML/Deep Learning/Learning Decay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Batch Normalization.md"
+                "file": "ML/Deep Learning/Learning Decay.md"
               }
             }
           }
@@ -369,8 +369,9 @@
   },
   "active": "139580f4bfe2766a",
   "lastOpenFiles": [
-    "daily/2024-05-04.md",
     "ML/Deep Learning/Batch Normalization.md",
+    "Pasted image 20240526175958.png",
+    "daily/2024-05-04.md",
     "ML/Neural Networks/Normlization.md",
     "daily/2024-05-26.md",
     "ML/Deep Learning/Learning Decay.md",
@@ -394,7 +395,6 @@
     "daily/2024-05-07.md",
     "ML/Neural Networks/Activation functions.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
-    "ML/Deep Learning/Vanishing Gradients.md",
     "Pasted image 20240516223835.png",
     "Pasted image 20240516181144.png",
     "Pasted image 20240516173749.png",
@@ -405,7 +405,6 @@
     "Pasted image 20240515235416.png",
     "Pasted image 20240516000007.png",
     "Untitled.canvas",
-    "Pasted image 20240515235400.png",
     "MLOps",
     "ML/Quizes",
     "Excalidraw",
