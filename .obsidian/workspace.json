@@ -4,235 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "db13b2744a9316c6",
+        "id": "f3928ae0e37b937b",
         "type": "tabs",
         "children": [
           {
-            "id": "145cb92761348f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cff97dbe043f9c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Excel/Work Smarter with Excel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cddbc89aeb7c425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Quizes/Shallow Neural Networks Quiz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed9812f56c98bd1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Neural Networks/Logistic Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecc3f9d3d7af3efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Deep Learning/Batch Normalization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "139580f4bfe2766a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-05-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f10406df63ca09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English homework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b9429cb8b905cc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Neural Networks/Activation functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "215854e6c59e839c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-05-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93c05092c3b733b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ffc42fb11059478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Neural Networks/Regularization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04d39afa8bdaeaf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-05-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67e4c25b5b1dcd71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Neural Networks/Dropout regularization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64b6c37973474591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Quizes/Neural Network Basics quiz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38c36129a62f6772",
+            "id": "74b138393a447b16",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/nnNotation.md"
-              }
-            }
-          },
-          {
-            "id": "da23a6b3a4da7c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Deep Learning/RMSProp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7ef1aed6160b28e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Deep Learning/RMSProp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12bdb49277aa4734",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md"
-              }
-            }
-          },
-          {
-            "id": "bc57da6774418688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Maths/Linear Algebra/np.sum().md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-05-29 14.52.00.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English homework.md",
+                "file": "Excalidraw/Drawing 2024-05-29 14.52.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English homework.md",
+                "file": "Excalidraw/Drawing 2024-05-29 14.52.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English homework.md"
+                "file": "Excalidraw/Drawing 2024-05-29 14.52.00.excalidraw.md"
               }
             }
           }
@@ -379,37 +164,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f10406df63ca09f",
+  "active": "74b138393a447b16",
   "lastOpenFiles": [
-    "daily/2024-05-28.md",
-    "English homework.md",
-    "Untitled",
-    "MLOps/Untitled",
-    "ML/Deep Learning/Learning Decay.md",
-    "ML/Deep Learning/Batch Normalization.md",
-    "Pasted image 20240526175958.png",
-    "daily/2024-05-04.md",
-    "ML/Neural Networks/Normlization.md",
-    "daily/2024-05-26.md",
-    "ML/Deep Learning/Gradient descent with momentum.md",
-    "ML/Deep Learning/Exponentially weighted averages.md",
-    "ML/Deep Learning/Exploding gradients.md",
-    "ML/Deep Learning/Deep Learning.md",
-    "ML/Deep Learning/Adam Algorithm.md",
-    "ML/Neural Networks/Notation.md",
-    "ML/Neural Networks/Logistic Regression.md",
-    "ML/Quizes/Shallow Neural Networks Quiz.md",
-    "Data Science/Excel/Work Smarter with Excel.md",
-    "ML/Maths/Linear Algebra/np.sum().md",
     "Excalidraw/derivativeBackpropagationGraph.md",
-    "ML/Deep Learning/RMSProp.md",
+    "Excalidraw/Drawing 2024-05-29 14.52.00.excalidraw.md",
+    "Excalidraw/Deep learning notation.md",
+    "Excalidraw/architectureLearningAlgorith.md",
+    "Excalidraw/Weight Initialization.md",
     "Excalidraw/nnNotation.md",
+    "Excalidraw/Mini-batch gradient descent.md",
+    "Excalidraw/Dropout regularization.md",
+    "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
+    "Neural Networks.canvas",
+    "ML/Neural Networks/Backpropagation.md",
+    "neural networks.md",
+    "ML/Maths/Linear Algebra/np.sum().md",
+    "ML/Deep Learning/RMSProp.md",
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Neural Networks/Dropout regularization.md",
     "daily/2024-05-11.md",
     "ML/Neural Networks/Regularization.md",
     "daily/2024-05-07.md",
     "ML/Neural Networks/Activation functions.md",
+    "ML/Neural Networks/Architecture of the learning algorithm.md",
+    "daily/2024-05-28.md",
+    "ML/Deep Learning/Batch Normalization.md",
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Quizes/Shallow Neural Networks Quiz.md",
+    "Data Science/Excel/Work Smarter with Excel.md",
+    "Untitled",
+    "MLOps/Untitled",
+    "Pasted image 20240526175958.png",
     "Pasted image 20240516223835.png",
     "Pasted image 20240516181144.png",
     "Pasted image 20240516173749.png",
@@ -419,7 +205,6 @@
     "Pasted image 20240516105832.png",
     "Pasted image 20240515235416.png",
     "Pasted image 20240516000007.png",
-    "Untitled.canvas",
     "MLOps",
     "ML/Quizes",
     "Excalidraw",

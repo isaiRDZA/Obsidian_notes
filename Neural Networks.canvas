@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fb5061fed34b68e2","x":-820,"y":-121,"width":700,"height":541,"type":"file","file":"Excalidraw/architectureLearningAlgorith.md"},
+		{"id":"8a77fb5f9675ebd2","x":28,"y":-219,"width":452,"height":539,"type":"file","file":"ML/Neural Networks/Activation functions.md"},
+		{"id":"a7c5b6bb974ce93b","x":575,"y":-306,"width":1545,"height":506,"type":"file","file":"Excalidraw/derivativeBackpropagationGraph.md"}
+	],
+	"edges":[
+		{"id":"96733767ee2d1941","fromNode":"fb5061fed34b68e2","fromSide":"right","toNode":"8a77fb5f9675ebd2","toSide":"left"},
+		{"id":"8b5481f9e3f78e31","fromNode":"8a77fb5f9675ebd2","fromSide":"right","toNode":"a7c5b6bb974ce93b","toSide":"left"}
+	]
+}
