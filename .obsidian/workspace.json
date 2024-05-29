@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/Learning Decay.md",
+                "file": "daily/2024-05-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f10406df63ca09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -286,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/Learning Decay.md",
+                "file": "English homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/Learning Decay.md",
+                "file": "English homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/Learning Decay.md"
+                "file": "English homework.md"
               }
             }
           }
@@ -367,14 +379,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "139580f4bfe2766a",
+  "active": "0f10406df63ca09f",
   "lastOpenFiles": [
+    "daily/2024-05-28.md",
+    "English homework.md",
+    "Untitled",
+    "MLOps/Untitled",
+    "ML/Deep Learning/Learning Decay.md",
     "ML/Deep Learning/Batch Normalization.md",
     "Pasted image 20240526175958.png",
     "daily/2024-05-04.md",
     "ML/Neural Networks/Normlization.md",
     "daily/2024-05-26.md",
-    "ML/Deep Learning/Learning Decay.md",
     "ML/Deep Learning/Gradient descent with momentum.md",
     "ML/Deep Learning/Exponentially weighted averages.md",
     "ML/Deep Learning/Exploding gradients.md",
@@ -394,7 +410,6 @@
     "ML/Neural Networks/Regularization.md",
     "daily/2024-05-07.md",
     "ML/Neural Networks/Activation functions.md",
-    "ML/Deep Learning/Mini-batch gradient descent.md",
     "Pasted image 20240516223835.png",
     "Pasted image 20240516181144.png",
     "Pasted image 20240516173749.png",
@@ -412,8 +427,6 @@
     "ML/Neural Networks",
     "Data Science/Pandas",
     "Data Science/Roles",
-    "ML/Maths/Understanding and Visualizing Data",
-    "Templates",
-    "daily/Untitled"
+    "ML/Maths/Understanding and Visualizing Data"
   ]
 }
