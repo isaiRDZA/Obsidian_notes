@@ -9,7 +9,6 @@
 		{"id":"c4e18544a7a8299b","type":"file","file":"Excalidraw/nnNotation.md","x":-3800,"y":-1560,"width":1760,"height":1226},
 		{"id":"6fab8d56804f16da","type":"file","file":"ML/Deep Learning/Weight Initialization for Deep Networks.md","x":-2520,"y":-48,"width":620,"height":542},
 		{"id":"aacad893bd80a8b4","x":-960,"y":1210,"width":520,"height":510,"type":"file","file":"ML/Neural Networks/tanh.md"},
-		{"id":"012a48af00d375f0","x":-2062,"y":-656,"width":250,"height":60,"type":"text","text":""},
 		{"id":"7fa6fd57d8df6861","x":-960,"y":1760,"width":520,"height":560,"type":"file","file":"ML/Neural Networks/ReLU.md"},
 		{"id":"6b2eb139d196961a","x":-960,"y":699,"width":520,"height":421,"type":"file","file":"ML/Neural Networks/Sigmoid.md"},
 		{"id":"530e4f84e40d766e","x":-960,"y":2400,"width":520,"height":440,"type":"file","file":"ML/Neural Networks/Softmax.md"},

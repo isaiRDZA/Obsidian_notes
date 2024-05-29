@@ -23,17 +23,13 @@
             "id": "d22d01a829baae1d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mental maps summaries/Neural Networks.canvas",
-                "viewState": {
-                  "x": 100.75261085225173,
-                  "y": 64.52533770464981,
-                  "zoom": -1.5410896150743298
-                }
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "ce60202c750dfa77"
+            }
           },
           {
             "id": "cc763c6e77787036",
@@ -49,48 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "7694235ca20bb004",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5359187139f863d1",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Mental maps summaries/Neural Networks.canvas",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "ce60202c750dfa77"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental maps summaries/Neural Networks.canvas",
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental maps summaries/Neural Networks.canvas",
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental maps summaries/Neural Networks.canvas"
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md"
               }
             }
           }
@@ -239,6 +193,11 @@
   },
   "active": "d22d01a829baae1d",
   "lastOpenFiles": [
+    "ML/Quizes/Neural Network Basics quiz.md",
+    "ML/Quizes/Optimization Algorithms.md",
+    "ML/Quizes/Practical aspects of Deep Learning.md",
+    "ML/Quizes/Shallow Neural Networks Quiz.md",
+    "ML/Jupyter Notebook.md",
     "Mental maps summaries/Neural Networks.canvas",
     "ML/Neural Networks/neural networks.md",
     "ML/Neural Networks/Logistic Regression.md",
@@ -253,7 +212,6 @@
     "ML/Neural Networks/Sigmoid.md",
     "ML/Neural Networks/Normlization.md",
     "Excalidraw/NN function decomposition.md",
-    "ML/Quizes/Optimization Algorithms.md",
     "Excalidraw/Weight Initialization.md",
     "ML/Deep Learning/Weight Initialization for Deep Networks.md",
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
@@ -263,9 +221,6 @@
     "Excalidraw/Dropout regularization.md",
     "Excalidraw/Mini-batch gradient descent.md",
     "Excalidraw/nnNotation.md",
-    "ML/Neural Networks/Regularization.md",
-    "ML/Neural Networks/ReLU.md",
-    "ML/Neural Networks/Gradient Descent.md",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
     "Pasted image 20240516223835.png",
