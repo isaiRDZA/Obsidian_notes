@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
+                "file": "English homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
+                "file": "English homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
+                "file": "English homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md"
+                "file": "English homework.md"
               }
             }
           }
@@ -193,6 +193,7 @@
   },
   "active": "d22d01a829baae1d",
   "lastOpenFiles": [
+    "ML/Quizes/Key Concepts on Deep Neural Networks.md",
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Quizes/Optimization Algorithms.md",
     "ML/Quizes/Practical aspects of Deep Learning.md",
@@ -220,7 +221,6 @@
     "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/Dropout regularization.md",
     "Excalidraw/Mini-batch gradient descent.md",
-    "Excalidraw/nnNotation.md",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
     "Pasted image 20240516223835.png",
