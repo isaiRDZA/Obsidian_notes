@@ -2,21 +2,37 @@
 	"nodes":[
 		{"id":"32660bad44cee8e4","type":"file","file":"Excalidraw/NN function decomposition.md","x":-470,"y":-1840,"width":1400,"height":840},
 		{"id":"a7c5b6bb974ce93b","type":"file","file":"Excalidraw/derivativeBackpropagationGraph.md","x":120,"y":-121,"width":1545,"height":506},
-		{"id":"34815b611cb4873f","type":"file","file":"ML/Neural Networks/Gradient Descent.md","x":749,"y":699,"width":891,"height":1021},
 		{"id":"ef2d98c6fb1a04f9","type":"file","file":"Excalidraw/MultilayerBackpropChainRule.md","x":1840,"y":-178,"width":3220,"height":563},
 		{"id":"fb5061fed34b68e2","type":"file","file":"Excalidraw/architectureLearningAlgorith.md","x":-1600,"y":-14,"width":700,"height":541},
 		{"id":"8a77fb5f9675ebd2","type":"file","file":"ML/Neural Networks/Activation functions.md","x":-1900,"y":760,"width":600,"height":600},
 		{"id":"33ca6c87fc1b2298","type":"text","text":"![[Logistic Regression#Cost function]]","x":-560,"y":-48,"width":580,"height":328},
 		{"id":"c4e18544a7a8299b","type":"file","file":"Excalidraw/nnNotation.md","x":-3800,"y":-1560,"width":1760,"height":1226},
-		{"id":"6fab8d56804f16da","type":"file","file":"ML/Deep Learning/Weight Initialization for Deep Networks.md","x":-2100,"y":-15,"width":400,"height":400}
+		{"id":"6fab8d56804f16da","type":"file","file":"ML/Deep Learning/Weight Initialization for Deep Networks.md","x":-2520,"y":-48,"width":620,"height":542},
+		{"id":"aacad893bd80a8b4","x":-960,"y":1210,"width":520,"height":510,"type":"file","file":"ML/Neural Networks/tanh.md"},
+		{"id":"012a48af00d375f0","x":-2062,"y":-656,"width":250,"height":60,"type":"text","text":""},
+		{"id":"7fa6fd57d8df6861","x":-960,"y":1760,"width":520,"height":560,"type":"file","file":"ML/Neural Networks/ReLU.md"},
+		{"id":"6b2eb139d196961a","x":-960,"y":699,"width":520,"height":421,"type":"file","file":"ML/Neural Networks/Sigmoid.md"},
+		{"id":"530e4f84e40d766e","x":-960,"y":2400,"width":520,"height":440,"type":"file","file":"ML/Neural Networks/Softmax.md"},
+		{"id":"34815b611cb4873f","type":"file","file":"ML/Neural Networks/Gradient Descent.md","x":1000,"y":550,"width":891,"height":1021},
+		{"id":"9d55f81dbc2bb1cf","x":1000,"y":1760,"width":891,"height":520,"type":"file","file":"ML/Deep Learning/Adam Algorithm.md"},
+		{"id":"fccba73157d6fecc","x":2240,"y":1880,"width":1000,"height":800,"type":"file","file":"ML/Deep Learning/RMSProp.md"},
+		{"id":"812103a800d15217","x":2240,"y":2920,"width":1000,"height":640,"type":"file","file":"ML/Deep Learning/Exponentially weighted averages.md"}
 	],
 	"edges":[
 		{"id":"a1eda9c91411ce8a","fromNode":"32660bad44cee8e4","fromSide":"bottom","toNode":"fb5061fed34b68e2","toSide":"top","label":"Feed Forward"},
 		{"id":"12e97dc9ff2f0ae3","fromNode":"fb5061fed34b68e2","fromSide":"bottom","toNode":"8a77fb5f9675ebd2","toSide":"top"},
 		{"id":"75d6601167748d8a","fromNode":"32660bad44cee8e4","fromSide":"bottom","toNode":"a7c5b6bb974ce93b","toSide":"top","label":"Backpropagation"},
 		{"id":"28bd868ed47912f6","fromNode":"32660bad44cee8e4","fromSide":"left","toNode":"c4e18544a7a8299b","toSide":"top","label":"Notation"},
-		{"id":"52c33571fd61782a","fromNode":"a7c5b6bb974ce93b","fromSide":"bottom","toNode":"34815b611cb4873f","toSide":"top","label":"Algorithms"},
 		{"id":"ecc6d4df92eea3e0","fromNode":"a7c5b6bb974ce93b","fromSide":"right","toNode":"ef2d98c6fb1a04f9","toSide":"left"},
-		{"id":"7a4e7171c35be0d2","fromNode":"32660bad44cee8e4","fromSide":"bottom","toNode":"33ca6c87fc1b2298","toSide":"top","label":"Compute cost function"}
+		{"id":"7a4e7171c35be0d2","fromNode":"32660bad44cee8e4","fromSide":"bottom","toNode":"33ca6c87fc1b2298","toSide":"top","label":"Compute cost function"},
+		{"id":"afaed7b309a69c5b","fromNode":"32660bad44cee8e4","fromSide":"bottom","toNode":"6fab8d56804f16da","toSide":"top","label":"Weight initialization"},
+		{"id":"cb706db1a3fe9ecb","fromNode":"8a77fb5f9675ebd2","fromSide":"right","toNode":"6b2eb139d196961a","toSide":"left"},
+		{"id":"1a81ad454dd7953d","fromNode":"8a77fb5f9675ebd2","fromSide":"right","toNode":"aacad893bd80a8b4","toSide":"left"},
+		{"id":"b226af029179e80e","fromNode":"8a77fb5f9675ebd2","fromSide":"right","toNode":"7fa6fd57d8df6861","toSide":"left"},
+		{"id":"819030b14414de76","fromNode":"8a77fb5f9675ebd2","fromSide":"right","toNode":"530e4f84e40d766e","toSide":"left"},
+		{"id":"680860d704f508dd","fromNode":"a7c5b6bb974ce93b","fromSide":"bottom","toNode":"9d55f81dbc2bb1cf","toSide":"left","label":"Agorithms"},
+		{"id":"8fc094888fb3178e","fromNode":"a7c5b6bb974ce93b","fromSide":"bottom","toNode":"34815b611cb4873f","toSide":"left","label":"Algorithms"},
+		{"id":"383f3a3588ef621b","fromNode":"9d55f81dbc2bb1cf","fromSide":"right","toNode":"fccba73157d6fecc","toSide":"left"},
+		{"id":"4615148be97e8551","fromNode":"9d55f81dbc2bb1cf","fromSide":"right","toNode":"812103a800d15217","toSide":"left"}
 	]
 }

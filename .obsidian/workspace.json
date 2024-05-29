@@ -23,31 +23,74 @@
             "id": "d22d01a829baae1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ML/Deep Learning/Adam Algorithm.md",
-                "mode": "source",
-                "source": false
+                "file": "Mental maps summaries/Neural Networks.canvas",
+                "viewState": {
+                  "x": 100.75261085225173,
+                  "y": 64.52533770464981,
+                  "zoom": -1.5410896150743298
+                }
               }
-            }
+            },
+            "group": "ce60202c750dfa77"
           },
           {
             "id": "cc763c6e77787036",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mental maps summaries/Neural Networks.canvas",
-                "viewState": {
-                  "x": -1993.715195263428,
-                  "y": -204.01430679000893,
-                  "zoom": -1.6621672339702493
-                }
+                "file": "ML/Neural Networks/Vectorization.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "7694235ca20bb004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5359187139f863d1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Mental maps summaries/Neural Networks.canvas",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "ce60202c750dfa77"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "random initializa",
+                "query": "initializa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
+    "width": 542.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -195,35 +237,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc763c6e77787036",
+  "active": "d22d01a829baae1d",
   "lastOpenFiles": [
-    "Excalidraw/Weight Initialization.md",
     "Mental maps summaries/Neural Networks.canvas",
-    "ML/Deep Learning/Weight Initialization for Deep Networks.md",
-    "ML/Deep Learning/Adam Algorithm.md",
-    "ML/Deep Learning/Batch Normalization.md",
-    "ML/Neural Networks/gradient descent.md",
-    "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/neural networks.md",
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Neural Networks/gradient descent.md",
+    "ML/Deep Learning/Batch Normalization.md",
+    "ML/Deep Learning/Adam Algorithm.md",
+    "ML/Neural Networks/Notation.md",
+    "ML/Neural Networks/Vectorization.md",
+    "ML/Neural Networks/Train-Dev-Test sets.md",
+    "ML/Neural Networks/tanh.md",
+    "ML/Neural Networks/Softmax.md",
+    "ML/Neural Networks/Sigmoid.md",
+    "ML/Neural Networks/Normlization.md",
+    "Excalidraw/NN function decomposition.md",
+    "ML/Quizes/Optimization Algorithms.md",
+    "Excalidraw/Weight Initialization.md",
+    "ML/Deep Learning/Weight Initialization for Deep Networks.md",
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "Mental maps summaries",
     "Excalidraw/MultilayerBackpropChainRule.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/Dropout regularization.md",
     "Excalidraw/Mini-batch gradient descent.md",
-    "Excalidraw/NN function decomposition.md",
     "Excalidraw/nnNotation.md",
-    "ML/Neural Networks/Notation.md",
     "ML/Neural Networks/Regularization.md",
     "ML/Neural Networks/ReLU.md",
-    "ML/Neural Networks/Sigmoid.md",
-    "ML/Neural Networks/Softmax.md",
-    "ML/Neural Networks/tanh.md",
-    "ML/Neural Networks/Vectorization.md",
-    "ML/Neural Networks/Train-Dev-Test sets.md",
-    "ML/Neural Networks/Normlization.md",
     "ML/Neural Networks/Gradient Descent.md",
-    "ML/Neural Networks/Dropout regularization.md",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
     "Pasted image 20240516223835.png",
