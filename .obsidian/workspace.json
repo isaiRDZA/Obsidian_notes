@@ -23,9 +23,11 @@
             "id": "d22d01a829baae1d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md"
+                "file": "ML/Deep Learning/Adam Algorithm.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,17 +37,17 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Neural Networks.canvas",
+                "file": "Mental maps summaries/Neural Networks.canvas",
                 "viewState": {
-                  "x": -134.7389737431102,
-                  "y": 771.3331826402132,
-                  "zoom": -1.4787403094207885
+                  "x": -1993.715195263428,
+                  "y": -204.01430679000893,
+                  "zoom": -1.6621672339702493
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "random initializa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
+                "file": "Mental maps summaries/Neural Networks.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
+                "file": "Mental maps summaries/Neural Networks.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,16 +172,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md"
+                "file": "Mental maps summaries/Neural Networks.canvas"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
+    "width": 306.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -192,17 +195,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8897d54bfa2a951f",
+  "active": "cc763c6e77787036",
   "lastOpenFiles": [
-    "Excalidraw/derivativeBackpropagationGraph.md",
-    "Excalidraw/Drawing 2024-05-05 12.21.02.excalidraw.md",
+    "Excalidraw/Weight Initialization.md",
+    "Mental maps summaries/Neural Networks.canvas",
+    "ML/Deep Learning/Weight Initialization for Deep Networks.md",
+    "ML/Deep Learning/Adam Algorithm.md",
+    "ML/Deep Learning/Batch Normalization.md",
+    "ML/Neural Networks/gradient descent.md",
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Neural Networks/neural networks.md",
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
+    "Mental maps summaries",
+    "Excalidraw/MultilayerBackpropChainRule.md",
+    "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/Dropout regularization.md",
     "Excalidraw/Mini-batch gradient descent.md",
     "Excalidraw/NN function decomposition.md",
     "Excalidraw/nnNotation.md",
-    "Excalidraw/Weight Initialization.md",
-    "Neural Networks.canvas",
     "ML/Neural Networks/Notation.md",
     "ML/Neural Networks/Regularization.md",
     "ML/Neural Networks/ReLU.md",
@@ -212,16 +222,8 @@
     "ML/Neural Networks/Vectorization.md",
     "ML/Neural Networks/Train-Dev-Test sets.md",
     "ML/Neural Networks/Normlization.md",
-    "ML/Neural Networks/neural networks.md",
-    "ML/Neural Networks/Logistic Regression.md",
-    "ML/Neural Networks/gradient descent.md",
     "ML/Neural Networks/Gradient Descent.md",
     "ML/Neural Networks/Dropout regularization.md",
-    "ML/Neural Networks/Data augmentation.md",
-    "ML/Neural Networks/broadcasting.md",
-    "ML/Neural Networks/Binary classification.md",
-    "ML/Neural Networks/Bias and variance.md",
-    "Untitled",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
     "Pasted image 20240516223835.png",

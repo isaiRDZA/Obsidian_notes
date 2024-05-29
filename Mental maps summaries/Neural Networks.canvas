@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"32660bad44cee8e4","type":"file","file":"Excalidraw/NN function decomposition.md","x":-470,"y":-1840,"width":1400,"height":840},
+		{"id":"a7c5b6bb974ce93b","type":"file","file":"Excalidraw/derivativeBackpropagationGraph.md","x":120,"y":-121,"width":1545,"height":506},
+		{"id":"34815b611cb4873f","type":"file","file":"ML/Neural Networks/Gradient Descent.md","x":749,"y":699,"width":891,"height":1021},
+		{"id":"ef2d98c6fb1a04f9","type":"file","file":"Excalidraw/MultilayerBackpropChainRule.md","x":1840,"y":-178,"width":3220,"height":563},
+		{"id":"fb5061fed34b68e2","type":"file","file":"Excalidraw/architectureLearningAlgorith.md","x":-1600,"y":-14,"width":700,"height":541},
+		{"id":"8a77fb5f9675ebd2","type":"file","file":"ML/Neural Networks/Activation functions.md","x":-1900,"y":760,"width":600,"height":600},
+		{"id":"33ca6c87fc1b2298","type":"text","text":"![[Logistic Regression#Cost function]]","x":-560,"y":-48,"width":580,"height":328},
+		{"id":"c4e18544a7a8299b","type":"file","file":"Excalidraw/nnNotation.md","x":-3800,"y":-1560,"width":1760,"height":1226},
+		{"id":"6fab8d56804f16da","type":"file","file":"ML/Deep Learning/Weight Initialization for Deep Networks.md","x":-2100,"y":-15,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"a1eda9c91411ce8a","fromNode":"32660bad44cee8e4","fromSide":"bottom","toNode":"fb5061fed34b68e2","toSide":"top","label":"Feed Forward"},
+		{"id":"12e97dc9ff2f0ae3","fromNode":"fb5061fed34b68e2","fromSide":"bottom","toNode":"8a77fb5f9675ebd2","toSide":"top"},
+		{"id":"75d6601167748d8a","fromNode":"32660bad44cee8e4","fromSide":"bottom","toNode":"a7c5b6bb974ce93b","toSide":"top","label":"Backpropagation"},
+		{"id":"28bd868ed47912f6","fromNode":"32660bad44cee8e4","fromSide":"left","toNode":"c4e18544a7a8299b","toSide":"top","label":"Notation"},
+		{"id":"52c33571fd61782a","fromNode":"a7c5b6bb974ce93b","fromSide":"bottom","toNode":"34815b611cb4873f","toSide":"top","label":"Algorithms"},
+		{"id":"ecc6d4df92eea3e0","fromNode":"a7c5b6bb974ce93b","fromSide":"right","toNode":"ef2d98c6fb1a04f9","toSide":"left"},
+		{"id":"7a4e7171c35be0d2","fromNode":"32660bad44cee8e4","fromSide":"bottom","toNode":"33ca6c87fc1b2298","toSide":"top","label":"Compute cost function"}
+	]
+}
