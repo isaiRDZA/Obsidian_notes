@@ -30,13 +30,13 @@
 | Serene          | Sink       |                        |
 
 ## 2024 - 05 - 24
-| Adjectives               | words | words in class |
-| ------------------------ | ----- | -------------- |
-| Worn out<br>(Desgastado) |       |                |
-| Quiet                    |       |                |
-| Near<br>                 |       |                |
-| Blue-eyed<br>            |       |                |
-| Well fed                 |       |                |
+| Adjectives               | words  | words in class      |
+| ------------------------ | ------ | ------------------- |
+| Worn out<br>(Desgastado) | Drown  | Clearly             |
+| Quiet                    | Mind   | Deny                |
+| Near<br>                 | Hold   | Complain            |
+| Blue-eyed<br>            | Around | Yield<br>(Producir) |
+| Well fed                 | Rush   | Fruitless           |
 
 ## 2024 - 05 - 27
 
@@ -46,25 +46,25 @@
 | Courageous<br>  | Mess    | Arrive              |
 | Intelligent<br> | Payroll | Lend                |
 | Eloquent<br>    | Bet     | Taste               |
-| Serene          | Match   |                     |
+| Serene          | Match   | Consonant           |
 
 ## 2024 - 05 - 28
 
-| Adjectives | words | words in class |
-| ---------- | ----- | -------------- |
-|            | Sweat |                |
-|            | Faith |                |
-|            | Wire  |                |
-|            |       |                |
-|            |       |                |
+| Adjectives | Words | Words learned in class |
+| ---------- | ----- | ---------------------- |
+| Clean      | Sweat | Whole                  |
+| Dirty      | Faith | Peak                   |
+| Noisy      | Wire  | Weak                   |
+| Wasted     | Warn  | Plain                  |
+| Louder     | Stuck | Vowell                 |
 
 ## 2024 - 05 - 29
 
-| Adjectives      | words | words in class |
-| --------------- | ----- | -------------- |
-| Beautiful<br>   |       |                |
-| Courageous<br>  |       |                |
-| Intelligent<br> |       |                |
-| Eloquent<br>    |       |                |
-| Serene          |       |                |
+| Adjectives | words | words in class |
+| ---------- | ----- | -------------- |
+|            |       |                |
+|            |       |                |
+|            |       |                |
+|            |       |                |
+|            |       |                |
 
