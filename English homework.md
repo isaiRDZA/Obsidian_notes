@@ -60,11 +60,11 @@
 
 ## 2024 - 05 - 29
 
-| Adjectives | words | words in class |
-| ---------- | ----- | -------------- |
-|            |       |                |
-|            |       |                |
-|            |       |                |
-|            |       |                |
-|            |       |                |
+| Adjectives | Words      | Words learned in class |
+| ---------- | ---------- | ---------------------- |
+|            | Jaywalking |                        |
+|            | Potholes   |                        |
+|            |            |                        |
+|            |            |                        |
+|            |            |                        |
 
