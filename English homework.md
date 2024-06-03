@@ -60,11 +60,11 @@
 
 ## 2024 - 05 - 29
 
-| Adjectives | Words      | Words learned in class |
-| ---------- | ---------- | ---------------------- |
-|            | Jaywalking |                        |
-|            | Potholes   |                        |
-|            | Curbs      |                        |
-|            |            |                        |
-|            |            |                        |
+| Adjectives | Words       | Words learned in class |
+| ---------- | ----------- | ---------------------- |
+| Wild       | Jaywalking  |                        |
+|            | Potholes    |                        |
+|            | Curbs       |                        |
+|            | Roundabouts |                        |
+|            |             |                        |
 
