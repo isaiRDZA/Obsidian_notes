@@ -56,7 +56,7 @@
 | Dirty      | Faith | Peak                   |
 | Noisy      | Wire  | Weak                   |
 | Wasted     | Warn  | Plain                  |
-| Louder     | Stuck | Vowell                 |
+| Louder     | Stuck | Vowel                  |
 
 ## 2024 - 05 - 29
 
@@ -68,4 +68,12 @@
 | Crooked    | Roundabouts | Tild                   |
 | Itchy      | Roughly     | Flute                  |
 
+## 2024 - 06 - 03
 
+| Adjectives | Words | Words learned in class |
+| ---------- | ----- | ---------------------- |
+|            |       | Acquired               |
+|            |       | Holdings               |
+|            |       | Gamifies               |
+|            |       |                        |
+|            |       |                        |
