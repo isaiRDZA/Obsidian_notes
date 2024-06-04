@@ -63,7 +63,7 @@
 | Adjectives | Words       | Words learned in class |
 | ---------- | ----------- | ---------------------- |
 | Wild       | Jaywalking  |                        |
-|            | Potholes    |                        |
+| Harsh      | Potholes    |                        |
 |            | Curbs       |                        |
 |            | Roundabouts |                        |
 |            |             |                        |
