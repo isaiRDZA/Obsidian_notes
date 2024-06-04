@@ -12,22 +12,22 @@
 
 | Adjectives    | Words   | Words learned in class |
 | ------------- | ------- | ---------------------- |
-| Adorable<br>  | Date    |                        |
-| Different<br> | Dumbell |                        |
-| Peaceful<br>  | Disk    |                        |
-| Strong<br>    | Danger  |                        |
-| Grown up      | Risk    |                        |
+| Adorable<br>  | Date    | Boil                   |
+| Different<br> | Dumbell | Chuck                  |
+| Peaceful<br>  | Disk    | Wood chuck             |
+| Strong<br>    | Danger  | Bitter                 |
+| Grown up      | Risk    | Sparse                 |
 
 
 ## 2024 - 05 - 22
 
 | Adjectives      | Words      | Words learned in class |
 | --------------- | ---------- | ---------------------- |
-| Beautiful<br>   | Fall down  |                        |
-| Courageous<br>  | Froze down |                        |
-| Intelligent<br> | Bury       |                        |
-| Eloquent<br>    | Clutch     |                        |
-| Serene          | Sink       |                        |
+| Beautiful<br>   | Fall down  | Blink                  |
+| Courageous<br>  | Froze down | Righteous              |
+| Intelligent<br> | Bury       | Weapons                |
+| Eloquent<br>    | Clutch     | Wonder                 |
+| Serene          | Sink       | Whisper                |
 
 ## 2024 - 05 - 24
 | Adjectives               | words  | words in class      |
@@ -62,9 +62,10 @@
 
 | Adjectives | Words       | Words learned in class |
 | ---------- | ----------- | ---------------------- |
-| Wild       | Jaywalking  |                        |
-| Harsh      | Potholes    |                        |
-|            | Curbs       |                        |
-|            | Roundabouts |                        |
-|            |             |                        |
+| Wild       | Jaywalking  | Fate                   |
+| Harsh      | Potholes    | Heal                   |
+| Charming   | Curbs       | Wipe                   |
+| Crooked    | Roundabouts | Tild                   |
+| Itchy      | Roughly     | Flute                  |
+
 
