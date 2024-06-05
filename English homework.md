@@ -78,3 +78,14 @@
 | Versatile  | Assesment    | Refund                 |
 | Incredible | Thresholds   | Drawers                |
 
+## 2024 - 06 - 03
+
+| Adjectives | Words | Words learned in class |
+| ---------- | ----- | ---------------------- |
+|            |       | Aisle                  |
+|            |       | Cheap                  |
+|            |       | Lane                   |
+|            |       | Sweetener              |
+|            |       | Clauses                |
+
+
