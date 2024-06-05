@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English homework.md",
+                "file": "ML/Maths/Mathematics for Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English homework.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -177,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5,
-    "collapsed": true
+    "width": 926.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +186,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d22d01a829baae1d",
+  "active": "51eacb7862bd909f",
   "lastOpenFiles": [
-    "ML/Quizes/Optimization Algorithms.md",
+    "ML/Maths/Mathematics for Machine Learning.md",
+    "ML/Deep Learning/Orthogonalization.md",
+    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
+    "ML/Maths/Linear Algebra/Normalize.md",
+    "ML/Maths/Linear Algebra/Multidimensional Array.md",
+    "ML/Maths/Linear Algebra/Matriz.md",
+    "ML/Maths/Linear Algebra/Indexing.md",
+    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "ML/Maths/Linear Algebra/Array math operations.md",
     "English homework.md",
+    "ML/Quizes/Optimization Algorithms.md",
     "Note-taking/Getting Started with Obsidian.md",
     "Note-taking/Code to obsidian.md",
     "Classification.md",
@@ -210,16 +215,6 @@
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/gradient descent.md",
     "ML/Deep Learning/Batch Normalization.md",
-    "ML/Deep Learning/Adam Algorithm.md",
-    "ML/Neural Networks/Notation.md",
-    "ML/Neural Networks/Vectorization.md",
-    "ML/Neural Networks/Train-Dev-Test sets.md",
-    "ML/Neural Networks/tanh.md",
-    "ML/Neural Networks/Softmax.md",
-    "ML/Neural Networks/Sigmoid.md",
-    "ML/Neural Networks/Normlization.md",
-    "Excalidraw/NN function decomposition.md",
-    "Excalidraw/Weight Initialization.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
