@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Mathematics for Machine Learning.md",
+                "file": "English homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English homework.md"
+              }
             }
           }
         ],
@@ -186,8 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51eacb7862bd909f",
+  "active": "8897d54bfa2a951f",
   "lastOpenFiles": [
+    "Note-taking/Code to obsidian.md",
+    "daily/2024-06-04.md",
     "ML/Maths/Mathematics for Machine Learning.md",
     "ML/Deep Learning/Orthogonalization.md",
     "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
@@ -201,7 +207,6 @@
     "English homework.md",
     "ML/Quizes/Optimization Algorithms.md",
     "Note-taking/Getting Started with Obsidian.md",
-    "Note-taking/Code to obsidian.md",
     "Classification.md",
     "daily/2024-06-03.md",
     "daily/2024-05-23.md",
@@ -214,7 +219,6 @@
     "ML/Neural Networks/neural networks.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/gradient descent.md",
-    "ML/Deep Learning/Batch Normalization.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",

@@ -70,11 +70,11 @@
 
 ## 2024 - 06 - 03
 
-| Adjectives | Words | Words learned in class |
-| ---------- | ----- | ---------------------- |
-|            |       | Acquired               |
-|            |       | Holdings               |
-|            |       | Gamifies               |
-|            |       | Refund                 |
-|            |       | Drawers                |
+| Adjectives | Words        | Words learned in class |
+| ---------- | ------------ | ---------------------- |
+| Impresive  | Lifecycle    | Acquired               |
+| Intricate  | Traceability | Holdings               |
+| Vibrant    | Fulfill      | Gamifies               |
+| Versatile  | Assesment    | Refund                 |
+| Incredible | Thresholds   | Drawers                |
 
