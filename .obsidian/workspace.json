@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 926.5
+    "width": 594.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8897d54bfa2a951f",
+  "active": "d22d01a829baae1d",
   "lastOpenFiles": [
     "Note-taking/Code to obsidian.md",
     "daily/2024-06-04.md",
