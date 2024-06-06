@@ -82,10 +82,10 @@
 
 | Adjectives | Words     | Words learned in class |
 | ---------- | --------- | ---------------------- |
-|            | Loop      | Aisle                  |
-|            | Recognize | Cheap                  |
-|            | Tradeoff  | Lane                   |
-|            | Iterative | Sweetener              |
-|            |           | Clauses                |
+| Remarkable | Loop      | Aisle                  |
+| Perplexing | Recognize | Cheap                  |
+| Exquisite  | Tradeoff  | Lane                   |
+| Hefty      | Iterative | Sweetener              |
+| Serene     | Accuracy  | Clauses                |
 
 

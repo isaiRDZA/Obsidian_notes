@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English homework.md",
+                "file": "ML/Neural Networks/Gradient Descent.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English homework.md",
+                "file": "ML/Neural Networks/Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English homework.md",
+                "file": "ML/Neural Networks/Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English homework.md"
+                "file": "ML/Neural Networks/Gradient Descent.md"
               }
             }
           }
@@ -192,10 +192,11 @@
   },
   "active": "d22d01a829baae1d",
   "lastOpenFiles": [
+    "English homework.md",
+    "ML/Neural Networks/gradient descent.md",
     "daily/2024-06-03.md",
     "daily/2024-06-04.md",
     "daily/2024-06-05.md",
-    "English homework.md",
     "Note-taking/Code to obsidian.md",
     "ML/Maths/Mathematics for Machine Learning.md",
     "ML/Deep Learning/Orthogonalization.md",
@@ -218,7 +219,6 @@
     "ML/Jupyter Notebook.md",
     "Mental maps summaries/Neural Networks.canvas",
     "ML/Neural Networks/neural networks.md",
-    "ML/Neural Networks/Logistic Regression.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
