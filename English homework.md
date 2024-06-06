@@ -78,7 +78,7 @@
 | Versatile  | Assesment    | Refund                 |
 | Incredible | Thresholds   | Drawers                |
 
-## 2024 - 06 - 03
+## 2024 - 06 - 04
 
 | Adjectives | Words     | Words learned in class |
 | ---------- | --------- | ---------------------- |
