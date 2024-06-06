@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English homework.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -190,10 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d22d01a829baae1d",
+  "active": "51eacb7862bd909f",
   "lastOpenFiles": [
-    "ML/Neural Networks/Gradient Descent.md",
     "English homework.md",
+    "ML/Neural Networks/Gradient Descent.md",
     "ML/Neural Networks/gradient descent.md",
     "daily/2024-06-03.md",
     "daily/2024-06-04.md",

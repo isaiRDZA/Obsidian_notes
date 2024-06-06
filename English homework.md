@@ -88,4 +88,12 @@
 | Hefty      | Iterative | Sweetener              |
 | Serene     | Accuracy  | Clauses                |
 
+## 2024 - 06 - 05
 
+| Adjectives | Words | Words learned in class |
+| ---------- | ----- | ---------------------- |
+|            |       | Finnance               |
+|            |       |                        |
+|            |       |                        |
+|            |       |                        |
+|            |       |                        |
