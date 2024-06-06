@@ -80,12 +80,12 @@
 
 ## 2024 - 06 - 03
 
-| Adjectives | Words | Words learned in class |
-| ---------- | ----- | ---------------------- |
-|            |       | Aisle                  |
-|            |       | Cheap                  |
-|            |       | Lane                   |
-|            |       | Sweetener              |
-|            |       | Clauses                |
+| Adjectives | Words     | Words learned in class |
+| ---------- | --------- | ---------------------- |
+|            | Loop      | Aisle                  |
+|            | Recognize | Cheap                  |
+|            | Tradeoff  | Lane                   |
+|            | Iterative | Sweetener              |
+|            |           | Clauses                |
 
 

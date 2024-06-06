@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 594.5
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +192,11 @@
   },
   "active": "d22d01a829baae1d",
   "lastOpenFiles": [
-    "Note-taking/Code to obsidian.md",
+    "daily/2024-06-03.md",
     "daily/2024-06-04.md",
+    "daily/2024-06-05.md",
+    "English homework.md",
+    "Note-taking/Code to obsidian.md",
     "ML/Maths/Mathematics for Machine Learning.md",
     "ML/Deep Learning/Orthogonalization.md",
     "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
@@ -204,11 +207,9 @@
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
     "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
-    "English homework.md",
     "ML/Quizes/Optimization Algorithms.md",
     "Note-taking/Getting Started with Obsidian.md",
     "Classification.md",
-    "daily/2024-06-03.md",
     "daily/2024-05-23.md",
     "ML/Quizes/Key Concepts on Deep Neural Networks.md",
     "ML/Quizes/Neural Network Basics quiz.md",
@@ -218,7 +219,6 @@
     "Mental maps summaries/Neural Networks.canvas",
     "ML/Neural Networks/neural networks.md",
     "ML/Neural Networks/Logistic Regression.md",
-    "ML/Neural Networks/gradient descent.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
