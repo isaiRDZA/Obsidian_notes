@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English homework.md",
+                "file": "daily/2024-06-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2024-06-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2024-06-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2024-06-08.md"
+              }
             }
           }
         ],
@@ -186,8 +190,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51eacb7862bd909f",
+  "active": "d22d01a829baae1d",
   "lastOpenFiles": [
+    "daily/2024-06-08.md",
     "English homework.md",
     "ML/Neural Networks/Gradient Descent.md",
     "ML/Neural Networks/gradient descent.md",
@@ -213,7 +218,6 @@
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Quizes/Practical aspects of Deep Learning.md",
     "ML/Quizes/Shallow Neural Networks Quiz.md",
-    "ML/Jupyter Notebook.md",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries",
     "MLOps/Untitled",
