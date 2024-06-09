@@ -1,10 +1,16 @@
 {
 	"nodes":[
-		{"id":"2c283ecc9f8ccd99","x":280,"y":179,"width":360,"height":361,"type":"file","file":"Dev - Test set.md"},
-		{"id":"75798aa9bb2d4251","x":0,"y":-440,"width":520,"height":460,"type":"file","file":"Satisfacing and Optimizing Metric.md"},
-		{"id":"5610f9cb3a8eb5ad","x":-440,"y":480,"width":387,"height":387,"type":"file","file":"Variance problem.md"},
-		{"id":"53130b7087cfbbc3","x":-440,"y":-280,"width":336,"height":420,"type":"file","file":"Human-level performance.md"},
-		{"id":"a83cdf82103e7612","x":-104,"y":200,"width":288,"height":214,"type":"file","file":"Avoidable Bias.md"}
+		{"id":"73794fe397fc8115","x":-366,"y":-990,"width":626,"height":70,"type":"text","text":"# When evaluating a deep learning model"},
+		{"id":"edc74b38f6997f2b","x":-354,"y":-720,"width":250,"height":60,"type":"file","file":"F1 score.md"},
+		{"id":"75798aa9bb2d4251","x":184,"y":-400,"width":520,"height":460,"type":"file","file":"Satisfacing and Optimizing Metric.md"},
+		{"id":"53130b7087cfbbc3","x":-690,"y":-31,"width":336,"height":420,"type":"file","file":"Human-level performance.md"},
+		{"id":"5610f9cb3a8eb5ad","x":251,"y":640,"width":387,"height":387,"type":"file","file":"Variance problem.md"},
+		{"id":"a83cdf82103e7612","x":-522,"y":727,"width":288,"height":214,"type":"file","file":"Avoidable Bias.md"},
+		{"id":"2c283ecc9f8ccd99","x":-109,"y":179,"width":360,"height":361,"type":"file","file":"Dev - Test set.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1f58a0d94b85c458","fromNode":"73794fe397fc8115","fromSide":"bottom","toNode":"edc74b38f6997f2b","toSide":"top","label":"We shall define metrics to evaluate"},
+		{"id":"6060c01a00677b8b","fromNode":"edc74b38f6997f2b","fromSide":"bottom","toNode":"75798aa9bb2d4251","toSide":"top","label":"When we have more than one metric we can divide then into"},
+		{"id":"f3afc2e11b7a8d67","fromNode":"75798aa9bb2d4251","fromSide":"left","toNode":"53130b7087cfbbc3","toSide":"top","label":"Normally we want the optmizing metrics to reach or surpass the"}
+	]
 }

@@ -40,7 +40,7 @@
                 "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
                 "viewState": {
                   "x": 37.36150759888204,
-                  "y": 333.0480702504841,
+                  "y": 71.30239857523287,
                   "zoom": -1.2000000000000002
                 }
               }
@@ -208,6 +208,7 @@
   },
   "active": "76f9b9e4de3e9c2f",
   "lastOpenFiles": [
+    "F1 score.md",
     "Human-level performance.md",
     "Variance problem.md",
     "Satisfacing and Optimizing Metric.md",
@@ -235,7 +236,6 @@
     "ML/Maths/Linear Algebra/Matriz.md",
     "ML/Maths/Linear Algebra/Indexing.md",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
-    "ML/Maths/Linear Algebra/Creating arrays.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
