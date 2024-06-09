@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-06-08.md",
+                "file": "daily/2024-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-06-08.md",
+                "file": "daily/2024-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-06-08.md",
+                "file": "daily/2024-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-06-08.md"
+                "file": "daily/2024-05-29.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,13 +204,14 @@
   },
   "active": "76f9b9e4de3e9c2f",
   "lastOpenFiles": [
+    "daily/2024-06-03.md",
+    "daily/2024-06-04.md",
+    "daily/2024-06-05.md",
+    "daily/2024-06-06.md",
     "daily/2024-06-08.md",
     "English homework.md",
     "ML/Neural Networks/Gradient Descent.md",
     "ML/Neural Networks/gradient descent.md",
-    "daily/2024-06-03.md",
-    "daily/2024-06-04.md",
-    "daily/2024-06-05.md",
     "Note-taking/Code to obsidian.md",
     "ML/Maths/Mathematics for Machine Learning.md",
     "ML/Deep Learning/Orthogonalization.md",
@@ -229,7 +230,6 @@
     "ML/Quizes/Key Concepts on Deep Neural Networks.md",
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Quizes/Practical aspects of Deep Learning.md",
-    "ML/Quizes/Shallow Neural Networks Quiz.md",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries",
     "MLOps/Untitled",
