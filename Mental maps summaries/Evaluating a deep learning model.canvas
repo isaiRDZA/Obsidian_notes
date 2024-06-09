@@ -1,17 +1,21 @@
 {
 	"nodes":[
-		{"id":"08b3d0ea99a9dadf","x":-760,"y":1290,"width":400,"height":400,"type":"file","file":"ML/Deep Learning/RMSProp.md"},
-		{"id":"73794fe397fc8115","x":-366,"y":-990,"width":626,"height":70,"type":"text","text":"# When evaluating a deep learning model"},
-		{"id":"edc74b38f6997f2b","x":-354,"y":-720,"width":250,"height":60,"type":"file","file":"F1 score.md"},
-		{"id":"53130b7087cfbbc3","x":-714,"y":-80,"width":336,"height":420,"type":"file","file":"Human-level performance.md"},
-		{"id":"75798aa9bb2d4251","x":118,"y":-440,"width":520,"height":460,"type":"file","file":"Satisfacing and Optimizing Metric.md"},
-		{"id":"2c283ecc9f8ccd99","x":85,"y":159,"width":360,"height":361,"type":"file","file":"Dev - Test set.md"},
-		{"id":"5610f9cb3a8eb5ad","x":800,"y":855,"width":387,"height":387,"type":"file","file":"Variance problem.md"},
-		{"id":"a83cdf82103e7612","x":-690,"y":855,"width":288,"height":214,"type":"file","file":"Avoidable Bias.md"},
-		{"id":"3a45862dfaf8ca0f","x":-840,"y":1180,"width":250,"height":60,"type":"text","text":"Train a bigger ANN"},
-		{"id":"4d50b120b3f348cf","x":-513,"y":1183,"width":250,"height":60,"type":"text","text":"Train with a bigger dataset"},
-		{"id":"3f57bab676f515e6","x":-240,"y":1180,"width":400,"height":400,"type":"file","file":"ML/Deep Learning/Gradient descent with momentum.md"},
-		{"id":"e64b39529e46cdf6","x":-1250,"y":1187,"width":400,"height":400,"type":"file","file":"ML/Deep Learning/Adam Algorithm.md"}
+		{"id":"f6925cfd2ecbfa65","type":"file","file":"ML/Neural Networks/Data augmentation.md","x":807,"y":1366,"width":400,"height":400},
+		{"id":"73794fe397fc8115","type":"text","text":"# When evaluating a deep learning model","x":-366,"y":-990,"width":626,"height":70},
+		{"id":"edc74b38f6997f2b","type":"file","file":"ML/Deep Learning/F1 score.md","x":-354,"y":-720,"width":250,"height":60},
+		{"id":"53130b7087cfbbc3","type":"file","file":"ML/Deep Learning/Human-level performance.md","x":-714,"y":-80,"width":336,"height":420},
+		{"id":"75798aa9bb2d4251","type":"file","file":"ML/Deep Learning/Satisfacing and Optimizing Metric.md","x":118,"y":-440,"width":520,"height":460},
+		{"id":"2c283ecc9f8ccd99","type":"file","file":"ML/Deep Learning/Dev - Test set.md","x":85,"y":159,"width":360,"height":361},
+		{"id":"5610f9cb3a8eb5ad","type":"file","file":"ML/Deep Learning/Variance problem.md","x":800,"y":855,"width":387,"height":387},
+		{"id":"a83cdf82103e7612","type":"file","file":"ML/Deep Learning/Avoidable Bias.md","x":-690,"y":855,"width":288,"height":214},
+		{"id":"4d50b120b3f348cf","type":"text","text":"Train with a bigger dataset","x":-513,"y":1183,"width":250,"height":60},
+		{"id":"3f57bab676f515e6","type":"file","file":"ML/Deep Learning/Gradient descent with momentum.md","x":-240,"y":1180,"width":400,"height":400},
+		{"id":"e64b39529e46cdf6","type":"file","file":"ML/Deep Learning/Adam Algorithm.md","x":-1250,"y":1187,"width":400,"height":400},
+		{"id":"08b3d0ea99a9dadf","type":"file","file":"ML/Deep Learning/RMSProp.md","x":-746,"y":1243,"width":400,"height":400},
+		{"id":"3a45862dfaf8ca0f","type":"text","text":"Train a bigger ANN","x":-839,"y":1180,"width":250,"height":60},
+		{"id":"8e42157a7cd00de1","type":"file","file":"ML/Neural Networks/Dropout regularization.md","x":1395,"y":1330,"width":400,"height":400},
+		{"id":"585ddd28119acc7e","type":"file","file":"ML/Neural Networks/Regularization.md","x":340,"y":1330,"width":400,"height":400},
+		{"id":"198b1c5798f890d2","x":1880,"y":1330,"width":250,"height":60,"type":"text","text":"Hyperparameters"}
 	],
 	"edges":[
 		{"id":"1f58a0d94b85c458","fromNode":"73794fe397fc8115","fromSide":"bottom","toNode":"edc74b38f6997f2b","toSide":"top","label":"We shall define metrics to evaluate"},
@@ -24,6 +28,10 @@
 		{"id":"6f92063e76958d69","fromNode":"a83cdf82103e7612","fromSide":"bottom","toNode":"4d50b120b3f348cf","toSide":"top"},
 		{"id":"d53f106b7b527595","fromNode":"a83cdf82103e7612","fromSide":"bottom","toNode":"3f57bab676f515e6","toSide":"top"},
 		{"id":"cf20b48608f850a2","fromNode":"a83cdf82103e7612","fromSide":"bottom","toNode":"e64b39529e46cdf6","toSide":"top"},
-		{"id":"2f5b539832990d67","fromNode":"a83cdf82103e7612","fromSide":"bottom","toNode":"08b3d0ea99a9dadf","toSide":"top"}
+		{"id":"2f5b539832990d67","fromNode":"a83cdf82103e7612","fromSide":"bottom","toNode":"08b3d0ea99a9dadf","toSide":"top","label":"How to fix it"},
+		{"id":"70df3fa195a27512","fromNode":"5610f9cb3a8eb5ad","fromSide":"bottom","toNode":"585ddd28119acc7e","toSide":"top"},
+		{"id":"96ed7232b53093c3","fromNode":"5610f9cb3a8eb5ad","fromSide":"bottom","toNode":"8e42157a7cd00de1","toSide":"top"},
+		{"id":"0af915abbef21e05","fromNode":"5610f9cb3a8eb5ad","fromSide":"bottom","toNode":"f6925cfd2ecbfa65","toSide":"top","label":"How to solve it"},
+		{"id":"4156cf75fe700336","fromNode":"5610f9cb3a8eb5ad","fromSide":"bottom","toNode":"198b1c5798f890d2","toSide":"top"}
 	]
 }

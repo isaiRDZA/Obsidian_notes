@@ -39,9 +39,9 @@
               "state": {
                 "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
                 "viewState": {
-                  "x": -633.4473598060142,
-                  "y": 1130.7379218767176,
-                  "zoom": -0.8000000000000002
+                  "x": 60.17553609526817,
+                  "y": 537.043929760805,
+                  "zoom": -1.6
                 }
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/RMSProp.md",
+                "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/RMSProp.md",
+                "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/RMSProp.md"
+                "file": "Mental maps summaries/Evaluating a deep learning model.canvas"
               }
             }
           }
@@ -208,14 +208,18 @@
   },
   "active": "76f9b9e4de3e9c2f",
   "lastOpenFiles": [
-    "F1 score.md",
-    "Human-level performance.md",
-    "Variance problem.md",
-    "Satisfacing and Optimizing Metric.md",
-    "Dev - Test set.md",
-    "Avoidable Bias.md",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
+    "neural networks.md",
+    "mean.md",
+    "English homework.md",
+    "ML/Deep Learning/Variance problem.md",
+    "ML/Deep Learning/Satisfacing and Optimizing Metric.md",
+    "Classification.md",
+    "ML/Deep Learning/F1 score.md",
+    "ML/Deep Learning/Dev - Test set.md",
+    "ML/Deep Learning/Human-level performance.md",
+    "ML/Deep Learning/Avoidable Bias.md",
     "Mental maps summaries/Untitled.md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "daily/2024-05-29.md",
@@ -224,7 +228,6 @@
     "daily/2024-06-05.md",
     "daily/2024-06-06.md",
     "daily/2024-06-08.md",
-    "English homework.md",
     "ML/Neural Networks/Gradient Descent.md",
     "ML/Neural Networks/gradient descent.md",
     "Note-taking/Code to obsidian.md",
@@ -232,10 +235,6 @@
     "ML/Deep Learning/Orthogonalization.md",
     "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
     "ML/Maths/Linear Algebra/Normalize.md",
-    "ML/Maths/Linear Algebra/Multidimensional Array.md",
-    "ML/Maths/Linear Algebra/Matriz.md",
-    "ML/Maths/Linear Algebra/Indexing.md",
-    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
