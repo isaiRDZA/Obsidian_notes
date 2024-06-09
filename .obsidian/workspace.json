@@ -37,11 +37,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Mental maps summaries/Structuring Machine Learning Projects.canvas",
+                "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
                 "viewState": {
-                  "x": 251.94376509564478,
-                  "y": 105.8397316415936,
-                  "zoom": -0.40000000000000013
+                  "x": 37.36150759888204,
+                  "y": 333.0480702504841,
+                  "zoom": -1.2000000000000002
                 }
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental maps summaries/Structuring Machine Learning Projects.canvas",
+                "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental maps summaries/Structuring Machine Learning Projects.canvas",
+                "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental maps summaries/Structuring Machine Learning Projects.canvas"
+                "file": "Mental maps summaries/Evaluating a deep learning model.canvas"
               }
             }
           }
@@ -208,9 +208,13 @@
   },
   "active": "76f9b9e4de3e9c2f",
   "lastOpenFiles": [
+    "Human-level performance.md",
+    "Variance problem.md",
+    "Satisfacing and Optimizing Metric.md",
+    "Dev - Test set.md",
     "Avoidable Bias.md",
     "Mental maps summaries/Neural Networks.canvas",
-    "Mental maps summaries/Structuring Machine Learning Projects.canvas",
+    "Mental maps summaries/Evaluating a deep learning model.canvas",
     "Mental maps summaries/Untitled.md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "daily/2024-05-29.md",
@@ -232,10 +236,6 @@
     "ML/Maths/Linear Algebra/Indexing.md",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
     "ML/Maths/Linear Algebra/Creating arrays.md",
-    "ML/Maths/Linear Algebra/Array math operations.md",
-    "ML/Quizes/Optimization Algorithms.md",
-    "Note-taking/Getting Started with Obsidian.md",
-    "Classification.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",

@@ -1,0 +1,2 @@
+This is normally the deep learning algorithm baseline. Most of the deep learning algorithms related to perception are compared against the human-level performance.
+- The human level performance is normally measured by the accuracy reached by a team of experts where they can discuss before labeling an input. 

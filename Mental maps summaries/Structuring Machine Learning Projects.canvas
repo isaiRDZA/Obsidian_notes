@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"c9dd207fc8ab6ea8","x":334,"y":179,"width":250,"height":60,"type":"text","text":""},
-		{"id":"a83cdf82103e7612","x":-128,"y":166,"width":288,"height":214,"type":"file","file":"Avoidable Bias.md"}
-	],
-	"edges":[]
-}

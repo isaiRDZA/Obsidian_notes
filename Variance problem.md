@@ -1,0 +1,2 @@
+The difference between your train set accuracy and your dev set accuracy (sometimes between your dev set and your test set.)
+Normally taken in account when you already got a human level accuracy in your training set. But has a difference between train set and dev set or test set.
