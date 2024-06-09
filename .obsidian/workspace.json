@@ -39,9 +39,9 @@
               "state": {
                 "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
                 "viewState": {
-                  "x": 186.4703788708137,
-                  "y": 397.4429809908253,
-                  "zoom": -1.6
+                  "x": -633.4473598060142,
+                  "y": 1130.7379218767176,
+                  "zoom": -0.8000000000000002
                 }
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental maps summaries/Evaluating a deep learning model.canvas"
+                "file": "ML/Deep Learning/RMSProp.md"
               }
             }
           }

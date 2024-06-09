@@ -1,12 +1,17 @@
 {
 	"nodes":[
+		{"id":"08b3d0ea99a9dadf","x":-760,"y":1290,"width":400,"height":400,"type":"file","file":"ML/Deep Learning/RMSProp.md"},
 		{"id":"73794fe397fc8115","x":-366,"y":-990,"width":626,"height":70,"type":"text","text":"# When evaluating a deep learning model"},
 		{"id":"edc74b38f6997f2b","x":-354,"y":-720,"width":250,"height":60,"type":"file","file":"F1 score.md"},
 		{"id":"53130b7087cfbbc3","x":-714,"y":-80,"width":336,"height":420,"type":"file","file":"Human-level performance.md"},
 		{"id":"75798aa9bb2d4251","x":118,"y":-440,"width":520,"height":460,"type":"file","file":"Satisfacing and Optimizing Metric.md"},
 		{"id":"2c283ecc9f8ccd99","x":85,"y":159,"width":360,"height":361,"type":"file","file":"Dev - Test set.md"},
 		{"id":"5610f9cb3a8eb5ad","x":800,"y":855,"width":387,"height":387,"type":"file","file":"Variance problem.md"},
-		{"id":"a83cdf82103e7612","x":-690,"y":855,"width":288,"height":214,"type":"file","file":"Avoidable Bias.md"}
+		{"id":"a83cdf82103e7612","x":-690,"y":855,"width":288,"height":214,"type":"file","file":"Avoidable Bias.md"},
+		{"id":"3a45862dfaf8ca0f","x":-840,"y":1180,"width":250,"height":60,"type":"text","text":"Train a bigger ANN"},
+		{"id":"4d50b120b3f348cf","x":-513,"y":1183,"width":250,"height":60,"type":"text","text":"Train with a bigger dataset"},
+		{"id":"3f57bab676f515e6","x":-240,"y":1180,"width":400,"height":400,"type":"file","file":"ML/Deep Learning/Gradient descent with momentum.md"},
+		{"id":"e64b39529e46cdf6","x":-1250,"y":1187,"width":400,"height":400,"type":"file","file":"ML/Deep Learning/Adam Algorithm.md"}
 	],
 	"edges":[
 		{"id":"1f58a0d94b85c458","fromNode":"73794fe397fc8115","fromSide":"bottom","toNode":"edc74b38f6997f2b","toSide":"top","label":"We shall define metrics to evaluate"},
@@ -14,6 +19,11 @@
 		{"id":"f3afc2e11b7a8d67","fromNode":"75798aa9bb2d4251","fromSide":"left","toNode":"53130b7087cfbbc3","toSide":"top","label":"Normally we want the optmizing metrics to reach or surpass the"},
 		{"id":"c6bf298711e79688","fromNode":"53130b7087cfbbc3","fromSide":"bottom","toNode":"2c283ecc9f8ccd99","toSide":"top","label":"You compare against"},
 		{"id":"9bd58ae465c95757","fromNode":"2c283ecc9f8ccd99","fromSide":"bottom","toNode":"a83cdf82103e7612","toSide":"top","label":"When train set accuracy lower than human"},
-		{"id":"ae4d093ceed3776d","fromNode":"2c283ecc9f8ccd99","fromSide":"bottom","toNode":"5610f9cb3a8eb5ad","toSide":"top","label":"When in train set acuracy grater or equal to human, but big difference between train and dev/test set"}
+		{"id":"ae4d093ceed3776d","fromNode":"2c283ecc9f8ccd99","fromSide":"bottom","toNode":"5610f9cb3a8eb5ad","toSide":"top","label":"When in train set acuracy grater or equal to human, but big difference between train and dev/test set"},
+		{"id":"eaafeb64fabdb323","fromNode":"a83cdf82103e7612","fromSide":"bottom","toNode":"3a45862dfaf8ca0f","toSide":"top"},
+		{"id":"6f92063e76958d69","fromNode":"a83cdf82103e7612","fromSide":"bottom","toNode":"4d50b120b3f348cf","toSide":"top"},
+		{"id":"d53f106b7b527595","fromNode":"a83cdf82103e7612","fromSide":"bottom","toNode":"3f57bab676f515e6","toSide":"top"},
+		{"id":"cf20b48608f850a2","fromNode":"a83cdf82103e7612","fromSide":"bottom","toNode":"e64b39529e46cdf6","toSide":"top"},
+		{"id":"2f5b539832990d67","fromNode":"a83cdf82103e7612","fromSide":"bottom","toNode":"08b3d0ea99a9dadf","toSide":"top"}
 	]
 }
