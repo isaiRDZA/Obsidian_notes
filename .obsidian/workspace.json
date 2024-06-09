@@ -35,11 +35,14 @@
             "id": "76f9b9e4de3e9c2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "daily/2024-05-29.md",
-                "mode": "source",
-                "source": false
+                "file": "Mental maps summaries/Structuring Machine Learning Projects.canvas",
+                "viewState": {
+                  "x": 251.94376509564478,
+                  "y": 105.8397316415936,
+                  "zoom": -0.40000000000000013
+                }
               }
             }
           },
@@ -106,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 219.5
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-05-29.md",
+                "file": "Mental maps summaries/Structuring Machine Learning Projects.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-05-29.md",
+                "file": "Mental maps summaries/Structuring Machine Learning Projects.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-05-29.md"
+                "file": "Mental maps summaries/Structuring Machine Learning Projects.canvas"
               }
             }
           }
@@ -189,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +208,12 @@
   },
   "active": "76f9b9e4de3e9c2f",
   "lastOpenFiles": [
+    "Avoidable Bias.md",
+    "Mental maps summaries/Neural Networks.canvas",
+    "Mental maps summaries/Structuring Machine Learning Projects.canvas",
+    "Mental maps summaries/Untitled.md",
+    "Data Science/Excel/Work Smarter with Excel.md",
+    "daily/2024-05-29.md",
     "daily/2024-06-03.md",
     "daily/2024-06-04.md",
     "daily/2024-06-05.md",
@@ -226,11 +236,6 @@
     "ML/Quizes/Optimization Algorithms.md",
     "Note-taking/Getting Started with Obsidian.md",
     "Classification.md",
-    "daily/2024-05-23.md",
-    "ML/Quizes/Key Concepts on Deep Neural Networks.md",
-    "ML/Quizes/Neural Network Basics quiz.md",
-    "ML/Quizes/Practical aspects of Deep Learning.md",
-    "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
