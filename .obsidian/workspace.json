@@ -35,11 +35,14 @@
             "id": "76f9b9e4de3e9c2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "English homework.md",
-                "mode": "source",
-                "source": false
+                "file": "Mental maps summaries/Untitled.canvas",
+                "viewState": {
+                  "x": 171.73822841012486,
+                  "y": 7.229039296825306,
+                  "zoom": -0.40000000000000013
+                }
               }
             }
           },
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English homework.md",
+                "file": "Mental maps summaries/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English homework.md",
+                "file": "Mental maps summaries/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English homework.md"
+                "file": "Mental maps summaries/Untitled.canvas"
               }
             }
           }
@@ -205,12 +208,16 @@
   },
   "active": "76f9b9e4de3e9c2f",
   "lastOpenFiles": [
+    "Pasted image 20240610204627.png",
+    "Pasted image 20240610204611.png",
+    "Pasted image 20240610204440.png",
+    "English homework.md",
+    "Mental maps summaries/Untitled.canvas",
     "daily/2024-06-10.md",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
     "Mental maps summaries/Neural Networks.canvas",
     "neural networks.md",
     "mean.md",
-    "English homework.md",
     "ML/Deep Learning/Variance problem.md",
     "ML/Deep Learning/Satisfacing and Optimizing Metric.md",
     "Classification.md",
@@ -242,8 +249,6 @@
     "Pasted image 20240516171657.png",
     "Pasted image 20240516110811.png",
     "Pasted image 20240516105832.png",
-    "Pasted image 20240515235416.png",
-    "Pasted image 20240516000007.png",
     "MLOps",
     "ML/Quizes",
     "Excalidraw",

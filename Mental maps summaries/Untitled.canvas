@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"e8ab591a878db03e","x":-60,"y":-440,"width":440,"height":323,"type":"file","file":"Pasted image 20240610204627.png"},
+		{"id":"ffc6e36582eaac4a","x":440,"y":-60,"width":379,"height":130,"type":"text","text":"Low intrinsic load. Tasks like memorizing facts and recalling information require minimal cognitive processing."},
+		{"id":"224e90d51adefa29","x":1127,"y":-22,"width":250,"height":60,"type":"text","text":"Project based learning"},
+		{"id":"2509c99a8ebee682","x":1230,"y":-278,"width":147,"height":67,"type":"text","text":"Teaching"},
+		{"id":"bc565c080b029624","x":625,"y":-291,"width":440,"height":160,"type":"text","text":"**Cognitive Load**: Higher intrinsic load. Analysis requires breaking down complex information into parts and understanding relationships, demanding significant cognitive resources."},
+		{"id":"8967e67edf829bed","x":441,"y":-627,"width":446,"height":104,"type":"text","text":"High intrinsic load. Evaluation involves making judgments based on criteria and standards, necessitating critical thinking and justification."},
+		{"id":"668bec44ae1344cd","x":1046,"y":-605,"width":162,"height":61,"type":"text","text":"flashcards, and repetition."},
+		{"id":"c770ca99c7b9ceb5","x":1320,"y":-604,"width":250,"height":60,"type":"text","text":"Active recall"},
+		{"id":"29eadd9dd0db465a","x":703,"y":-500,"width":343,"height":180,"type":"text","text":"**Cognitive Load**: Higher intrinsic load. Analysis requires breaking down complex information into parts and understanding relationships, demanding significant cognitive resources."},
+		{"id":"2acd4d912492e85d","x":1248,"y":-441,"width":152,"height":81,"type":"text","text":"Graphic explanation"},
+		{"id":"2ac039fcbb092272","x":-428,"y":-583,"width":250,"height":60,"type":"text","text":"Deep processing"},
+		{"id":"2392d5167915a279","x":-458,"y":-26,"width":250,"height":60,"type":"text","text":"Shallow processing"},
+		{"id":"3cd7c49d028b0d22","x":-840,"y":-440,"width":481,"height":320,"type":"file","file":"Pasted image 20240610204440.png"},
+		{"id":"6530f773c8fdd0c8","x":-538,"y":244,"width":138,"height":76,"type":"text","text":"Priming"},
+		{"id":"3ad0cd86f5614182","x":-240,"y":252,"width":250,"height":88,"type":"text","text":"Generate non-obvious questions (Use Bloom's taxonomy)"},
+		{"id":"be1e3552d78ff57a","x":183,"y":419,"width":250,"height":60,"type":"text","text":"This would increase cognitive load"},
+		{"id":"3f4c0d6abf9cf729","x":181,"y":109,"width":250,"height":60,"type":"text","text":"Yopur brain would feel like solving a maze"},
+		{"id":"323df5f978b76510","x":181,"y":266,"width":250,"height":60,"type":"text","text":"Take lectures, trying to solve questions"},
+		{"id":"fbed0dcc09ce7917","x":625,"y":240,"width":250,"height":120,"type":"text","text":"Generate a second brain for record data."}
+	],
+	"edges":[
+		{"id":"21f5046b222e1796","fromNode":"e8ab591a878db03e","fromSide":"bottom","toNode":"ffc6e36582eaac4a","toSide":"left"},
+		{"id":"7fe1470647e77a5e","fromNode":"e8ab591a878db03e","fromSide":"top","toNode":"8967e67edf829bed","toSide":"left"},
+		{"id":"bfe50d47c1ae43b8","fromNode":"e8ab591a878db03e","fromSide":"right","toNode":"bc565c080b029624","toSide":"left"},
+		{"id":"d9fc294b9522bf7c","fromNode":"8967e67edf829bed","fromSide":"right","toNode":"668bec44ae1344cd","toSide":"left"},
+		{"id":"37aed7921a220e45","fromNode":"668bec44ae1344cd","fromSide":"right","toNode":"c770ca99c7b9ceb5","toSide":"left"},
+		{"id":"5da901b6835699f2","fromNode":"bc565c080b029624","fromSide":"right","toNode":"2509c99a8ebee682","toSide":"left"},
+		{"id":"f7c18a4bdfb639a1","fromNode":"ffc6e36582eaac4a","fromSide":"right","toNode":"224e90d51adefa29","toSide":"left"},
+		{"id":"66d665e4983a8891","fromNode":"e8ab591a878db03e","fromSide":"right","toNode":"29eadd9dd0db465a","toSide":"left"},
+		{"id":"cd5c47c555350258","fromNode":"29eadd9dd0db465a","fromSide":"right","toNode":"2acd4d912492e85d","toSide":"left"},
+		{"id":"da7af58a6e7a71ef","fromNode":"e8ab591a878db03e","fromSide":"left","toNode":"2ac039fcbb092272","toSide":"right"},
+		{"id":"a3586fa81ac1a4c0","fromNode":"e8ab591a878db03e","fromSide":"left","toNode":"2392d5167915a279","toSide":"right"},
+		{"id":"3189b449ff28f001","fromNode":"6530f773c8fdd0c8","fromSide":"right","toNode":"3ad0cd86f5614182","toSide":"left"},
+		{"id":"0bd3d2066f0ae80a","fromNode":"3ad0cd86f5614182","fromSide":"right","toNode":"323df5f978b76510","toSide":"left"},
+		{"id":"ee5e995d0417a32e","fromNode":"323df5f978b76510","fromSide":"bottom","toNode":"be1e3552d78ff57a","toSide":"top"},
+		{"id":"e262038a58b376c7","fromNode":"323df5f978b76510","fromSide":"top","toNode":"3f4c0d6abf9cf729","toSide":"bottom"},
+		{"id":"1db0a7041c4849fc","fromNode":"323df5f978b76510","fromSide":"right","toNode":"fbed0dcc09ce7917","toSide":"left"}
+	]
+}
