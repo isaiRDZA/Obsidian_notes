@@ -97,3 +97,13 @@
 | Immaculate | Pitfalls   | Illness                |
 | Insightful | Disguise   | Jackpot                |
 | Astounding | Downwards  | Payouts                |
+
+## 2024 - 06 - 10
+
+| Adjectives | Words | Words learned in class |
+| ---------- | ----- | ---------------------- |
+|            |       | Genre                  |
+|            |       |                        |
+|            |       |                        |
+|            |       |                        |
+|            |       |                        |

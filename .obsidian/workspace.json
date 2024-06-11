@@ -39,9 +39,9 @@
               "state": {
                 "file": "Mental maps summaries/How to study.canvas",
                 "viewState": {
-                  "x": 171.73822841012486,
-                  "y": 7.229039296825306,
-                  "zoom": -0.40000000000000013
+                  "x": 331.95798374124723,
+                  "y": -183.38630846205854,
+                  "zoom": -0.27796306764580714
                 }
               }
             }
@@ -208,15 +208,15 @@
   },
   "active": "76f9b9e4de3e9c2f",
   "lastOpenFiles": [
+    "English homework.md",
+    "neural networks.md",
+    "Mental maps summaries/How to study.canvas",
     "Pasted image 20240610204627.png",
     "Pasted image 20240610204611.png",
     "Pasted image 20240610204440.png",
-    "English homework.md",
-    "Mental maps summaries/How to study.canvas",
     "daily/2024-06-10.md",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
     "Mental maps summaries/Neural Networks.canvas",
-    "neural networks.md",
     "mean.md",
     "ML/Deep Learning/Variance problem.md",
     "ML/Deep Learning/Satisfacing and Optimizing Metric.md",
@@ -248,7 +248,6 @@
     "Pasted image 20240516173530.png",
     "Pasted image 20240516171657.png",
     "Pasted image 20240516110811.png",
-    "Pasted image 20240516105832.png",
     "MLOps",
     "ML/Quizes",
     "Excalidraw",
