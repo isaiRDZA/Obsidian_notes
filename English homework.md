@@ -90,10 +90,10 @@
 
 ## 2024 - 06 - 05
 
-| Adjectives | Words | Words learned in class |
-| ---------- | ----- | ---------------------- |
-|            |       | Finnance               |
-|            |       | Sewer system           |
-|            |       |                        |
-|            |       |                        |
-|            |       |                        |
+| Adjectives | Words      | Words learned in class |
+| ---------- | ---------- | ---------------------- |
+| Meticolous | Crumb Tray | Finnance               |
+| Dynamic    | Rationale  | Sewer system           |
+| Immaculate | Pitfalls   | Illness                |
+| Insightful | Disguise   | Jackpot                |
+| Astounding | Downwards  | Payouts                |

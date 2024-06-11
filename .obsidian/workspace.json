@@ -35,14 +35,11 @@
             "id": "76f9b9e4de3e9c2f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
-                "viewState": {
-                  "x": 60.17553609526817,
-                  "y": 537.043929760805,
-                  "zoom": -1.6
-                }
+                "file": "English homework.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -125,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
+                "file": "English homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental maps summaries/Evaluating a deep learning model.canvas",
+                "file": "English homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental maps summaries/Evaluating a deep learning model.canvas"
+                "file": "English homework.md"
               }
             }
           }
@@ -208,8 +205,9 @@
   },
   "active": "76f9b9e4de3e9c2f",
   "lastOpenFiles": [
-    "Mental maps summaries/Neural Networks.canvas",
+    "daily/2024-06-10.md",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
+    "Mental maps summaries/Neural Networks.canvas",
     "neural networks.md",
     "mean.md",
     "English homework.md",
@@ -234,7 +232,6 @@
     "ML/Maths/Mathematics for Machine Learning.md",
     "ML/Deep Learning/Orthogonalization.md",
     "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
-    "ML/Maths/Linear Algebra/Normalize.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
