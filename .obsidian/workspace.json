@@ -35,14 +35,11 @@
             "id": "76f9b9e4de3e9c2f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mental maps summaries/How to study.canvas",
-                "viewState": {
-                  "x": 331.95798374124723,
-                  "y": -183.38630846205854,
-                  "zoom": -1.0779630676458072
-                }
+                "file": "daily/2024-06-13.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -125,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental maps summaries/How to study.canvas",
+                "file": "daily/2024-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental maps summaries/How to study.canvas",
+                "file": "daily/2024-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental maps summaries/How to study.canvas"
+                "file": "daily/2024-06-13.md"
               }
             }
           }
@@ -208,9 +205,10 @@
   },
   "active": "76f9b9e4de3e9c2f",
   "lastOpenFiles": [
+    "Mental maps summaries/How to study.canvas",
+    "daily/2024-06-13.md",
     "English homework.md",
     "neural networks.md",
-    "Mental maps summaries/How to study.canvas",
     "Pasted image 20240610204627.png",
     "Pasted image 20240610204611.png",
     "Pasted image 20240610204440.png",
@@ -238,7 +236,6 @@
     "Note-taking/Code to obsidian.md",
     "ML/Maths/Mathematics for Machine Learning.md",
     "ML/Deep Learning/Orthogonalization.md",
-    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
