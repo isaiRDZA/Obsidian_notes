@@ -15,9 +15,9 @@
               "state": {
                 "file": "Mental maps summaries/Convolution Neural Networks.canvas",
                 "viewState": {
-                  "x": 415.0593675760139,
-                  "y": -572.5435574272482,
-                  "zoom": -0.6380930060011133
+                  "x": 738.5,
+                  "y": -91,
+                  "zoom": -0.8866954202494006
                 }
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
+                "file": "Convolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
+                "file": "Convolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas"
+                "file": "Convolution.md"
               }
             }
           }
@@ -186,9 +186,11 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "Pasted image 20240617205414.png",
+    "English homework.md",
+    "Mental maps summaries/Convolution Neural Networks.canvas",
     "Excalidraw/architectureLearningAlgorith.md",
     "Convolution.md",
-    "Mental maps summaries/Convolution Neural Networks.canvas",
     "ML/Neural Networks/Notation.md",
     "daily/2024-06-08.md",
     "Padding.md",
@@ -201,7 +203,6 @@
     "Mental maps summaries/How to study.canvas",
     "daily/2024-06-17.md",
     "daily/2024-06-13.md",
-    "English homework.md",
     "neural networks.md",
     "Pasted image 20240610204627.png",
     "Pasted image 20240610204611.png",
@@ -218,7 +219,6 @@
     "daily/2024-05-29.md",
     "daily/2024-06-03.md",
     "daily/2024-06-04.md",
-    "daily/2024-06-05.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
