@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "220badd66e3ddbf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Neural Networks/Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d22d01a829baae1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-06-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10a90a6046758b0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Padding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31a5002697c40886",
             "type": "leaf",
             "state": {
@@ -51,9 +15,9 @@
               "state": {
                 "file": "Mental maps summaries/Convolution Neural Networks.canvas",
                 "viewState": {
-                  "x": 641.0799419300288,
-                  "y": -505.27935532581466,
-                  "zoom": -0.8000000000000002
+                  "x": 415.0593675760139,
+                  "y": -572.5435574272482,
+                  "zoom": -0.6380930060011133
                 }
               }
             }
@@ -67,26 +31,13 @@
                 "file": "Mental maps summaries/Convolution Neural Networks.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": -334.79999999999995,
                   "zoom": 0
                 }
               }
             }
-          },
-          {
-            "id": "cc763c6e77787036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Neural Networks/Vectorization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convolution.md",
+                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convolution.md",
+                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convolution.md"
+                "file": "Mental maps summaries/Convolution Neural Networks.canvas"
               }
             }
           }
@@ -235,10 +186,15 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "Excalidraw/architectureLearningAlgorith.md",
     "Convolution.md",
-    "Padding.md",
-    "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
+    "ML/Neural Networks/Notation.md",
+    "daily/2024-06-08.md",
+    "Padding.md",
+    "ML/Neural Networks/Vectorization.md",
+    "Classification.md",
+    "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
     "Mental maps summaries/Convolution Neural Networks.md",
     "Mental maps summaries/Neural Networks.canvas",
@@ -254,7 +210,6 @@
     "mean.md",
     "ML/Deep Learning/Variance problem.md",
     "ML/Deep Learning/Satisfacing and Optimizing Metric.md",
-    "Classification.md",
     "ML/Deep Learning/F1 score.md",
     "ML/Deep Learning/Dev - Test set.md",
     "ML/Deep Learning/Human-level performance.md",
@@ -264,10 +219,6 @@
     "daily/2024-06-03.md",
     "daily/2024-06-04.md",
     "daily/2024-06-05.md",
-    "daily/2024-06-06.md",
-    "daily/2024-06-08.md",
-    "ML/Neural Networks/Gradient Descent.md",
-    "ML/Neural Networks/gradient descent.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",

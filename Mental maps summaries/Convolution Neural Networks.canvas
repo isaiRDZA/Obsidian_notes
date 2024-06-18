@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"3ea8db734a0473cf","type":"file","file":"Padding.md","x":-565,"y":-500,"width":605,"height":520},
-		{"id":"69313bc72ed7abe8","x":220,"y":-1080,"width":898,"height":457,"type":"file","file":"Convolution.md"}
+		{"id":"69313bc72ed7abe8","type":"file","file":"Convolution.md","x":200,"y":-468,"width":898,"height":457},
+		{"id":"8de5ef8185086477","x":230,"y":-798,"width":290,"height":158,"type":"text","text":"\n| 43  | 2   | 98  | 103 |\n| --- | --- | --- | --- |\n| 21  | 17  | 19  | 23  |\n| 104 | 168 | 189 | 198 |\n| 93  | 76  | 61  | 82  |\n"}
 	],
 	"edges":[]
 }
