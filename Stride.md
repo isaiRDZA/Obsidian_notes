@@ -1,0 +1,1 @@
+This is the number of components your are going to advance at each step of the convolution.

@@ -4,7 +4,8 @@
 		{"id":"69313bc72ed7abe8","type":"file","file":"Convolution.md","x":180,"y":-540,"width":940,"height":600},
 		{"id":"8de5ef8185086477","type":"text","text":"\n| 43  | 2   | 98  | 103 |\n| --- | --- | --- | --- |\n| 21  | 17  | 19  | 23  |\n| 104 | 168 | 189 | 198 |\n| 93  | 76  | 61  | 82  |\n","x":729,"y":120,"width":310,"height":158},
 		{"id":"c058a2529dc135da","type":"text","text":"\n| 0   | 2   |\n| --- | --- |\n| 1   | 4   |\n\n","x":1039,"y":360,"width":163,"height":107},
-		{"id":"a5836628f399c82f","type":"text","text":"\n| 93  | 317 |\n| --- | --- |\n| 733 | 785 |\n\n","x":1169,"y":540,"width":170,"height":83}
+		{"id":"a5836628f399c82f","type":"text","text":"\n| 93  | 317 |\n| --- | --- |\n| 733 | 785 |\n\n","x":1169,"y":540,"width":170,"height":83},
+		{"id":"8d1bd68ec87fda30","x":1300,"y":-502,"width":428,"height":422,"type":"file","file":"Stride.md"}
 	],
 	"edges":[
 		{"id":"ac27942dd6e7fb68","fromNode":"8de5ef8185086477","fromSide":"right","toNode":"c058a2529dc135da","toSide":"left","label":"Convolves with"},
