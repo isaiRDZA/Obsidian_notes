@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"3ea8db734a0473cf","x":-565,"y":-393,"width":465,"height":313,"type":"file","file":"Padding.md"}
+		{"id":"3ea8db734a0473cf","type":"file","file":"Padding.md","x":-565,"y":-500,"width":605,"height":520},
+		{"id":"69313bc72ed7abe8","x":220,"y":-1080,"width":898,"height":457,"type":"file","file":"Convolution.md"}
 	],
 	"edges":[]
 }
