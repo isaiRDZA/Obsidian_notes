@@ -32,14 +32,39 @@
             }
           },
           {
-            "id": "76f9b9e4de3e9c2f",
+            "id": "10a90a6046758b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-06-13.md",
+                "file": "Padding.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "31a5002697c40886",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "76f9b9e4de3e9c2f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -56,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 325.5
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -122,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-06-13.md",
+                "file": "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-06-13.md",
+                "file": "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-06-13.md"
+                "file": "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md"
               }
             }
           }
@@ -203,9 +228,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76f9b9e4de3e9c2f",
+  "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "Padding.md",
+    "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
+    "Mental maps summaries/Convolution Neural Networks.canvas",
+    "Mental maps summaries/Evaluating a deep learning model.canvas",
+    "Mental maps summaries/Convolution Neural Networks.md",
+    "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
+    "daily/2024-06-17.md",
     "daily/2024-06-13.md",
     "English homework.md",
     "neural networks.md",
@@ -213,8 +245,6 @@
     "Pasted image 20240610204611.png",
     "Pasted image 20240610204440.png",
     "daily/2024-06-10.md",
-    "Mental maps summaries/Evaluating a deep learning model.canvas",
-    "Mental maps summaries/Neural Networks.canvas",
     "mean.md",
     "ML/Deep Learning/Variance problem.md",
     "ML/Deep Learning/Satisfacing and Optimizing Metric.md",
@@ -223,7 +253,6 @@
     "ML/Deep Learning/Dev - Test set.md",
     "ML/Deep Learning/Human-level performance.md",
     "ML/Deep Learning/Avoidable Bias.md",
-    "Mental maps summaries/Untitled.md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "daily/2024-05-29.md",
     "daily/2024-06-03.md",
@@ -234,8 +263,6 @@
     "ML/Neural Networks/Gradient Descent.md",
     "ML/Neural Networks/gradient descent.md",
     "Note-taking/Code to obsidian.md",
-    "ML/Maths/Mathematics for Machine Learning.md",
-    "ML/Deep Learning/Orthogonalization.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
