@@ -11,14 +11,9 @@
             "id": "31a5002697c40886",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
-                "viewState": {
-                  "x": 688.5145365419347,
-                  "y": 36.48426633402332,
-                  "zoom": -1.4979537606239324
-                }
+                "file": "Excalidraw/NN function decomposition.md"
               }
             }
           },
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
+                "file": "Excalidraw/NN function decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
+                "file": "Excalidraw/NN function decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas"
+                "file": "Excalidraw/NN function decomposition.md"
               }
             }
           }
@@ -186,10 +181,10 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "Mental maps summaries/Convolution Neural Networks.canvas",
     "Pooling.md",
     "Pasted image 20240618170102.png",
     "English homework.md",
-    "Mental maps summaries/Convolution Neural Networks.canvas",
     "Stride.md",
     "Pasted image 20240617205414.png",
     "Excalidraw/architectureLearningAlgorith.md",
@@ -220,7 +215,6 @@
     "ML/Deep Learning/Avoidable Bias.md",
     "Data Science/Excel/Work Smarter with Excel.md",
     "daily/2024-05-29.md",
-    "daily/2024-06-03.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
