@@ -11,9 +11,14 @@
             "id": "31a5002697c40886",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/NN function decomposition.md"
+                "file": "Mental maps summaries/Neural Networks.canvas",
+                "viewState": {
+                  "x": -657.4510081694843,
+                  "y": -472.013171908896,
+                  "zoom": -1.451611536156225
+                }
               }
             }
           },
@@ -98,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/NN function decomposition.md",
+                "file": "Mental maps summaries/Neural Networks.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/NN function decomposition.md",
+                "file": "Mental maps summaries/Neural Networks.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/NN function decomposition.md"
+                "file": "Mental maps summaries/Neural Networks.canvas"
               }
             }
           }
@@ -181,6 +186,8 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "daily/2024-06-20.md",
+    "Excalidraw/NN function decomposition.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "Pooling.md",
     "Pasted image 20240618170102.png",
@@ -214,7 +221,6 @@
     "ML/Deep Learning/Human-level performance.md",
     "ML/Deep Learning/Avoidable Bias.md",
     "Data Science/Excel/Work Smarter with Excel.md",
-    "daily/2024-05-29.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
