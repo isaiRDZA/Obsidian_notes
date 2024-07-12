@@ -11,9 +11,11 @@
             "id": "31a5002697c40886",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MultilayerBackpropChainRule.md"
+                "file": "ML/Quizes/Neural Network Basics quiz.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/MultilayerBackpropChainRule.md",
+                "file": "ML/Quizes/Neural Network Basics quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/MultilayerBackpropChainRule.md",
+                "file": "ML/Quizes/Neural Network Basics quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/MultilayerBackpropChainRule.md"
+                "file": "ML/Quizes/Neural Network Basics quiz.md"
               }
             }
           }
@@ -181,8 +183,10 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "Excalidraw/Mini-batch gradient descent.md",
+    "ML/Quizes/Key Concepts on Deep Neural Networks.md",
+    "ML/Quizes/Neural Network Basics quiz.md",
     "Excalidraw/MultilayerBackpropChainRule.md",
+    "Excalidraw/Mini-batch gradient descent.md",
     "Excalidraw/NN function decomposition.md",
     "Excalidraw/nnNotation.md",
     "Excalidraw/Weight Initialization.md",
@@ -197,8 +201,6 @@
     "Mental maps summaries/How to study.canvas",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
     "ML/Machine Learning Algorithms.md",
-    "ML/Quizes/Key Concepts on Deep Neural Networks.md",
-    "ML/Quizes/Neural Network Basics quiz.md",
     "daily/2024-07-11.md",
     "ML/Neural Networks/Regularization.md",
     "daily/2024-06-24.md",

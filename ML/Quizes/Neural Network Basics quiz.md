@@ -15,7 +15,7 @@ Quiz from the week 2 of Deep Learning Specialization
 3. Supose x is a (8,1) array. Which of the following is a valid reshape?
 - [ ] `x.reshape(2, 4, 4)`
 - [ ] `x.reshape(1, 4, 3)`
-- [ ] `x.reshape(2, 2, 2)`
+- [x] `x.reshape(2, 2, 2)`
 - [ ] `x.reshape(-1, 3)`
 
 4. Consider the following random arrays $a$ and $b$, and $c$:
@@ -25,7 +25,7 @@ b = np.random.randn(2,1) #b.shape = (2,1)
 c = a + b
 ```
 What will be the shape of c?
-- [ ] The computation cannot happen because it is not possible to broadcast more than one dimension.
+- [x] The computation cannot happen because it is not possible to broadcast more than one dimension.
 - [ ] c.shape = (2, 3, 3)
 - [ ] c.shape = (3, 3)
 - [ ] c.shape = (2, 1)
