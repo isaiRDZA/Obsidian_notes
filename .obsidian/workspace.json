@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Regularization.md",
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "L2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Regularization.md",
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Regularization.md",
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Regularization.md"
+                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md"
               }
             }
           }
@@ -184,6 +183,10 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "ML/Quizes/Neural Network Basics quiz.md",
+    "ML/Quizes/Key Concepts on Deep Neural Networks.md",
+    "daily/2024-07-11.md",
+    "ML/Neural Networks/Regularization.md",
     "daily/2024-06-24.md",
     "Mental maps summaries/Neural Networks.canvas",
     "daily/2024-06-20.md",
@@ -215,9 +218,6 @@
     "mean.md",
     "ML/Deep Learning/Variance problem.md",
     "ML/Deep Learning/Satisfacing and Optimizing Metric.md",
-    "ML/Deep Learning/F1 score.md",
-    "ML/Deep Learning/Dev - Test set.md",
-    "ML/Deep Learning/Human-level performance.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
