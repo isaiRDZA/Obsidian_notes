@@ -11,14 +11,11 @@
             "id": "31a5002697c40886",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mental maps summaries/Neural Networks.canvas",
-                "viewState": {
-                  "x": -657.4510081694843,
-                  "y": -472.013171908896,
-                  "zoom": -1.451611536156225
-                }
+                "file": "ML/Neural Networks/Regularization.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -66,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "initializa",
+                "query": "L2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental maps summaries/Neural Networks.canvas",
+                "file": "ML/Neural Networks/Regularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental maps summaries/Neural Networks.canvas",
+                "file": "ML/Neural Networks/Regularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental maps summaries/Neural Networks.canvas"
+                "file": "ML/Neural Networks/Regularization.md"
               }
             }
           }
@@ -186,6 +184,8 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "daily/2024-06-24.md",
+    "Mental maps summaries/Neural Networks.canvas",
     "daily/2024-06-20.md",
     "Excalidraw/NN function decomposition.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
@@ -204,7 +204,6 @@
     "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
     "Mental maps summaries/Convolution Neural Networks.md",
-    "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
     "daily/2024-06-17.md",
     "daily/2024-06-13.md",
@@ -219,8 +218,6 @@
     "ML/Deep Learning/F1 score.md",
     "ML/Deep Learning/Dev - Test set.md",
     "ML/Deep Learning/Human-level performance.md",
-    "ML/Deep Learning/Avoidable Bias.md",
-    "Data Science/Excel/Work Smarter with Excel.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
