@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md"
+                "file": "Excalidraw/MultilayerBackpropChainRule.md"
               }
             }
           },
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 200
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md",
+                "file": "Excalidraw/MultilayerBackpropChainRule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md",
+                "file": "Excalidraw/MultilayerBackpropChainRule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/derivativeBackpropagationGraph.md"
+                "file": "Excalidraw/MultilayerBackpropChainRule.md"
               }
             }
           }
@@ -181,14 +181,19 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "Excalidraw/Deep learning notation.md",
-    "Excalidraw/MultilayerBackpropChainRule.md",
     "Excalidraw/Mini-batch gradient descent.md",
-    "Excalidraw/Dropout regularization.md",
+    "Excalidraw/MultilayerBackpropChainRule.md",
+    "Excalidraw/NN function decomposition.md",
+    "Excalidraw/nnNotation.md",
+    "Excalidraw/Weight Initialization.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
+    "Excalidraw/Deep learning notation.md",
+    "Excalidraw/architectureLearningAlgorith.md",
+    "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
+    "Excalidraw/Dropout regularization.md",
+    "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "Mental maps summaries/Neural Networks.canvas",
-    "Excalidraw/nnNotation.md",
     "Mental maps summaries/How to study.canvas",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
     "ML/Machine Learning Algorithms.md",
@@ -198,21 +203,16 @@
     "ML/Neural Networks/Regularization.md",
     "daily/2024-06-24.md",
     "daily/2024-06-20.md",
-    "Excalidraw/NN function decomposition.md",
     "Pooling.md",
     "Pasted image 20240618170102.png",
     "English homework.md",
     "Stride.md",
     "Pasted image 20240617205414.png",
-    "Excalidraw/architectureLearningAlgorith.md",
     "Convolution.md",
     "ML/Neural Networks/Notation.md",
     "daily/2024-06-08.md",
     "Padding.md",
     "ML/Neural Networks/Vectorization.md",
-    "Classification.md",
-    "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
-    "Mental maps summaries/Convolution Neural Networks.md",
     "Pasted image 20240610204627.png",
     "Pasted image 20240610204611.png",
     "Pasted image 20240610204440.png",
