@@ -11,11 +11,9 @@
             "id": "31a5002697c40886",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/derivativeBackpropagationGraph.md"
               }
             }
           },
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
+                "file": "Excalidraw/derivativeBackpropagationGraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md",
+                "file": "Excalidraw/derivativeBackpropagationGraph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Quizes/Key Concepts on Deep Neural Networks.md"
+                "file": "Excalidraw/derivativeBackpropagationGraph.md"
               }
             }
           }
@@ -183,15 +181,20 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "ML/Quizes/Neural Network Basics quiz.md",
+    "Mental maps summaries/Convolution Neural Networks.canvas",
+    "Excalidraw/derivativeBackpropagationGraph.md",
+    "Mental maps summaries/Neural Networks.canvas",
+    "Excalidraw/nnNotation.md",
+    "Mental maps summaries/How to study.canvas",
+    "Mental maps summaries/Evaluating a deep learning model.canvas",
+    "ML/Machine Learning Algorithms.md",
     "ML/Quizes/Key Concepts on Deep Neural Networks.md",
+    "ML/Quizes/Neural Network Basics quiz.md",
     "daily/2024-07-11.md",
     "ML/Neural Networks/Regularization.md",
     "daily/2024-06-24.md",
-    "Mental maps summaries/Neural Networks.canvas",
     "daily/2024-06-20.md",
     "Excalidraw/NN function decomposition.md",
-    "Mental maps summaries/Convolution Neural Networks.canvas",
     "Pooling.md",
     "Pasted image 20240618170102.png",
     "English homework.md",
@@ -205,19 +208,13 @@
     "ML/Neural Networks/Vectorization.md",
     "Classification.md",
     "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
-    "Mental maps summaries/Evaluating a deep learning model.canvas",
     "Mental maps summaries/Convolution Neural Networks.md",
-    "Mental maps summaries/How to study.canvas",
     "daily/2024-06-17.md",
     "daily/2024-06-13.md",
     "neural networks.md",
     "Pasted image 20240610204627.png",
     "Pasted image 20240610204611.png",
     "Pasted image 20240610204440.png",
-    "daily/2024-06-10.md",
-    "mean.md",
-    "ML/Deep Learning/Variance problem.md",
-    "ML/Deep Learning/Satisfacing and Optimizing Metric.md",
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
