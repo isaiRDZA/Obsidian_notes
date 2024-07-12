@@ -38,7 +38,7 @@ c = a * b
 ```
 What will be the shape of c?
 
-- [ ] c.shape = (3,3)
+- [x] c.shape = (3,3)
 - [ ] The computation cannot happen because it is not possible to broadcast more than one dimension.
 - [ ] c.shape = (1, 3)
 - [ ] The computation cannot happen because the sizes don´t match.
@@ -47,7 +47,7 @@ What will be the shape of c?
 - [ ] (m,1)
 - [ ] $(m, n_{x})$
 - [ ] (1,m)
-- [ ] $(n_{x}, m)$
+- [x] $(n_{x}, m)$
 
 7. Consider the following array:
 $a = np.array([[2,1],[1,3]])$
@@ -55,7 +55,7 @@ what is the result of a * a?
 - [ ] $\begin{pmatrix}5&5\\5&10\end{pmatrix}$
 - [ ] The computation cannot happen because the sizes don't match. It's going to be an "Error"
 - [ ] $\begin{pmatrix}4&2\\2&6\end{pmatrix}$
-- [ ] $\begin{pmatrix}4&1\\1&9\end{pmatrix}$
+- [x] $\begin{pmatrix}4&1\\1&9\end{pmatrix}$
 
 8. Consider the following code snippet:
 ```Python
@@ -63,7 +63,7 @@ a.shape = (3,4)
 b.shape = (4,1)
 
 for i in range(3):
-	for i in range(4):
+	for j in range(4):
 		c[i][j] = a[i][j]*b[j]
 ```
 How do you vectorize this?
