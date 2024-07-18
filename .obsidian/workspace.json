@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "2a29fb3727101f8d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Weight Initialization.md"
-              }
-            }
-          },
-          {
             "id": "9b758847a80108e0",
             "type": "leaf",
             "state": {
@@ -38,24 +28,9 @@
                 "file": "Excalidraw/Excercise 2.md"
               }
             }
-          },
-          {
-            "id": "76f9b9e4de3e9c2f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -334.79999999999995,
-                  "zoom": 0
-                }
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -205,11 +179,14 @@
   },
   "active": "9b758847a80108e0",
   "lastOpenFiles": [
+    "Excalidraw/Dropout regularization.md",
+    "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/Deep learning notation.md",
-    "Excalidraw/architectureLearningAlgorith.md",
     "Excalidraw/Excercise 2.md",
-    "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
+    "Excalidraw/Mini-batch gradient descent.md",
+    "ML/Quizes/Neural Network Basics quiz.md",
+    "Excalidraw/architectureLearningAlgorith.md",
     "Excalidraw/Weight Initialization.md",
     "Data Science/Pandas/value_counts().md",
     "Data Science/Excel/Work Smarter with Excel.md",
@@ -225,12 +202,9 @@
     "Convolution.md",
     "Classification.md",
     "Excalidraw/NN function decomposition.md",
-    "Excalidraw/Mini-batch gradient descent.md",
     "Excalidraw/MultilayerBackpropChainRule.md",
     "Excalidraw/nnNotation.md",
     "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
-    "daily/2024-07-18.md",
-    "Excalidraw/Dropout regularization.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
