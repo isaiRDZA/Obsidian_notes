@@ -23,9 +23,11 @@
             "id": "9b758847a80108e0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Excercise 2.md"
+                "file": "ML/Neural Networks/Early stopping.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -59,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cost function",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Excercise 2.md",
+                "file": "ML/Neural Networks/Early stopping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Excercise 2.md",
+                "file": "ML/Neural Networks/Early stopping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Excercise 2.md"
+                "file": "ML/Neural Networks/Early stopping.md"
               }
             }
           }
@@ -179,11 +182,11 @@
   },
   "active": "9b758847a80108e0",
   "lastOpenFiles": [
+    "Excalidraw/Excercise 2.md",
     "Excalidraw/Dropout regularization.md",
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/Deep learning notation.md",
-    "Excalidraw/Excercise 2.md",
     "Excalidraw/Mini-batch gradient descent.md",
     "ML/Quizes/Neural Network Basics quiz.md",
     "Excalidraw/architectureLearningAlgorith.md",
