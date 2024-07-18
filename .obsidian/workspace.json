@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Neural Networks/Early stopping.md",
+                "file": "ML/Quizes/Neural Network Basics quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Neural Networks/Early stopping.md",
+                "file": "ML/Quizes/Neural Network Basics quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Neural Networks/Early stopping.md"
+                "file": "ML/Quizes/Neural Network Basics quiz.md"
               }
             }
           }
@@ -180,15 +179,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b758847a80108e0",
+  "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "ML/Neural Networks/Early stopping.md",
+    "ML/Quizes/Neural Network Basics quiz.md",
     "Excalidraw/Excercise 2.md",
     "Excalidraw/Dropout regularization.md",
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/Deep learning notation.md",
     "Excalidraw/Mini-batch gradient descent.md",
-    "ML/Quizes/Neural Network Basics quiz.md",
     "Excalidraw/architectureLearningAlgorith.md",
     "Excalidraw/Weight Initialization.md",
     "Data Science/Pandas/value_counts().md",
@@ -207,7 +207,6 @@
     "Excalidraw/NN function decomposition.md",
     "Excalidraw/MultilayerBackpropChainRule.md",
     "Excalidraw/nnNotation.md",
-    "Excalidraw/Padding 2024-06-17 19.42.15.excalidraw.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
