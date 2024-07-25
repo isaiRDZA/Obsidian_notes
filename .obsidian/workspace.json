@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3fefa424c4ff80b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Deep Learning/RMSProp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9b758847a80108e0",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cost function",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Quizes/Neural Network Basics quiz.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Quizes/Neural Network Basics quiz.md",
+                "file": "ML/Deep Learning/RMSProp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Quizes/Neural Network Basics quiz.md"
+                "file": "ML/Deep Learning/RMSProp.md"
               }
             }
           }
@@ -179,8 +191,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31a5002697c40886",
+  "active": "3fefa424c4ff80b8",
   "lastOpenFiles": [
+    "ML/Neural Networks/Bias and variance.md",
+    "ML/Neural Networks/Backpropagation.md",
+    "ML/Neural Networks/Artificial neuron.md",
+    "ML/Neural Networks/Architecture of the learning algorithm.md",
+    "ML/Neural Networks/Activation functions.md",
+    "daily/2024-07-25.md",
     "ML/Neural Networks/Early stopping.md",
     "ML/Quizes/Neural Network Basics quiz.md",
     "Excalidraw/Excercise 2.md",
@@ -201,12 +219,6 @@
     "Padding.md",
     "neural networks.md",
     "mean.md",
-    "English homework.md",
-    "Convolution.md",
-    "Classification.md",
-    "Excalidraw/NN function decomposition.md",
-    "Excalidraw/MultilayerBackpropChainRule.md",
-    "Excalidraw/nnNotation.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
