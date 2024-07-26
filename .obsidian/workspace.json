@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Deep Learning/RMSProp.md",
+                "file": "ML/Deep Learning/Gradient descent with momentum.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 407.5
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Deep Learning/RMSProp.md",
+                "file": "ML/Deep Learning/Gradient descent with momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Deep Learning/RMSProp.md",
+                "file": "ML/Deep Learning/Gradient descent with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Deep Learning/RMSProp.md"
+                "file": "ML/Deep Learning/Gradient descent with momentum.md"
               }
             }
           }
@@ -193,6 +193,7 @@
   },
   "active": "3fefa424c4ff80b8",
   "lastOpenFiles": [
+    "ML/Deep Learning/RMSProp.md",
     "ML/Neural Networks/Bias and variance.md",
     "ML/Neural Networks/Backpropagation.md",
     "ML/Neural Networks/Artificial neuron.md",
@@ -218,7 +219,6 @@
     "Pooling.md",
     "Padding.md",
     "neural networks.md",
-    "mean.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
