@@ -10,3 +10,5 @@ prit(args)
 ```
 
 If we called this function with random arguments, our output would show us what is inside \*args 
+
+The unpacking operator is not limited to being used alone, but rather it can be combined with other positional arguments.
