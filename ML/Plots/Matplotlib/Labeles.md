@@ -11,3 +11,4 @@ plt.titlte('My Self-Reported Hapineess While Awake')
 plt.show()
 ```
 ![[Pasted image 20231220150917.png]]
+
