@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Function Call Unpacking & Beyond.md",
+                "file": "Data Structures and Algorithms/Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Function Call Unpacking & Beyond.md",
+                "file": "Data Structures and Algorithms/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Function Call Unpacking & Beyond.md",
+                "file": "Data Structures and Algorithms/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Function Call Unpacking & Beyond.md"
+                "file": "Data Structures and Algorithms/Linked List.md"
               }
             }
           }
@@ -193,10 +193,16 @@
   },
   "active": "3fefa424c4ff80b8",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Node.md",
+    "Data Structures and Algorithms/Linked List.md",
+    "Pasted image 20240726232245.png",
+    "Pasted image 20240726232018.png",
+    "Python/Function Call Unpacking & Beyond.md",
+    "Data Structures and Algorithms",
+    "Data Science/Untitled",
     "Pasted image 20240726183836.png",
     "Pasted image 20240726183818.png",
     "Python/**Kwargs.md",
-    "Python/Function Call Unpacking & Beyond.md",
     "Python/Function Arguments.md",
     "Python/Variable number of arguments.md",
     "Untitled.md",
@@ -220,7 +226,6 @@
     "Excalidraw/Excercise 2.md",
     "Excalidraw/Dropout regularization.md",
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
-    "Excalidraw/derivativeBackpropagationGraph.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
@@ -233,15 +238,10 @@
     "Mental maps summaries",
     "MLOps/Untitled",
     "Pasted image 20240526175958.png",
-    "Pasted image 20240516223835.png",
-    "Pasted image 20240516181144.png",
-    "Pasted image 20240516173749.png",
     "MLOps",
     "ML/Quizes",
     "Excalidraw",
     "ML/Deep Learning",
-    "ML/Neural Networks",
-    "Data Science/Pandas",
-    "Data Science/Roles"
+    "ML/Neural Networks"
   ]
 }
