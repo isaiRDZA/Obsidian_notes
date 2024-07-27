@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/**Kwargs.md",
+                "file": "Python/Function Call Unpacking & Beyond.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/**Kwargs.md",
+                "file": "Python/Function Call Unpacking & Beyond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/**Kwargs.md",
+                "file": "Python/Function Call Unpacking & Beyond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/**Kwargs.md"
+                "file": "Python/Function Call Unpacking & Beyond.md"
               }
             }
           }
@@ -194,8 +193,9 @@
   },
   "active": "3fefa424c4ff80b8",
   "lastOpenFiles": [
-    "Python/Function Arguments.md",
     "Python/**Kwargs.md",
+    "Python/Function Call Unpacking & Beyond.md",
+    "Python/Function Arguments.md",
     "Python/Variable number of arguments.md",
     "Untitled.md",
     "Python/Python Gotcha.md",
@@ -220,7 +220,6 @@
     "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
     "Excalidraw/Deep learning notation.md",
-    "Excalidraw/Mini-batch gradient descent.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",

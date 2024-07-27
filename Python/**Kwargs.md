@@ -19,4 +19,10 @@ Would output
 
 We can observe two things:
 - `**kwargs` takes the form of a dictionary with all the keyword argument values passed to `arbitrary_keyword_args`. Since `**kwargs` is a dictionary, we can use standard dictionary functions like `.get()` to retrieve values.
-- 
+- Just as we saw with `*args`, the name of `kwargs`is completely arbitrary, and this example works exactly the same with the name becoming `data`:
+```Python
+def arbitrary_keyword_args(**data):
+	...
+```
+
+
