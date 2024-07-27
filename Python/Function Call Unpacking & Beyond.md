@@ -14,7 +14,7 @@ def sum(nume1, num2, num3):
 sum(*my_num_list)
 ```
 
-By using the unpacking operator (\*) we are spreading the contents of our list `my_num_list` into the individial arguments in our function definition. We are immediately saved the hassle of writing loops and are given the flexibility to use any iterable with three elements.  
+By using the unpacking operator (\*) we are spreading the contents of our list `my_num_list` into the individual arguments in our function definition. We are immediately saved the hassle of writing loops and are given the flexibility to use any iterable with three elements.  
 
 The same way we use \* operator we can use the keyword operator \*\*.
 
@@ -34,5 +34,38 @@ Would output:
 ```
 [3,4,5]
 ```
+The possibilities of using the `*` and `**` operators are endless.
 
+- Unpacking parts of an iterable
+```Python
+a, *b, c = [3, 6, 9, 12, 15]
+print(b)
+```
+Would output
+```
+[6, 9, 12]
+```
 
+- Merging iterables
+```Python
+my_tuple = (3, 6, 9)
+merged_tuple = (0, *my_tuple, 12)
+print(merged_teuple)
+```
+
+- Combining unpacking and packing:
+```Python
+num_collection = [3, 6, 9]
+def power_two(*nums):
+	for num in nums:
+		print(num**2)
+
+power_two(*num_collection)
+```
+
+would output:
+```
+9
+36
+81
+```
