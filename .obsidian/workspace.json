@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Linked List.md",
+                "file": "Data Structures and Algorithms/Node.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Linked List.md",
+                "file": "Data Structures and Algorithms/Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Linked List.md",
+                "file": "Data Structures and Algorithms/Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Linked List.md"
+                "file": "Data Structures and Algorithms/Node.md"
               }
             }
           }
@@ -193,8 +193,12 @@
   },
   "active": "3fefa424c4ff80b8",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Node.md",
     "Data Structures and Algorithms/Linked List.md",
+    "Data Structures and Algorithms/Node.md",
+    "Pasted image 20240726235006.png",
+    "Pasted image 20240726234417.png",
+    "Pasted image 20240726234401.png",
+    "Pasted image 20240726233858.png",
     "Pasted image 20240726232245.png",
     "Pasted image 20240726232018.png",
     "Python/Function Call Unpacking & Beyond.md",
@@ -225,19 +229,14 @@
     "ML/Quizes/Neural Network Basics quiz.md",
     "Excalidraw/Excercise 2.md",
     "Excalidraw/Dropout regularization.md",
-    "Excalidraw/Drawing 2024-05-07 19.48.37.excalidraw.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
     "Pasted image 20240618170102.png",
     "Pasted image 20240617205414.png",
-    "Pasted image 20240610204627.png",
-    "Pasted image 20240610204611.png",
-    "Pasted image 20240610204440.png",
     "Mental maps summaries",
     "MLOps/Untitled",
-    "Pasted image 20240526175958.png",
     "MLOps",
     "ML/Quizes",
     "Excalidraw",
