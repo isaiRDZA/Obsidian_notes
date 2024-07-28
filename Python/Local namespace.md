@@ -32,4 +32,4 @@ Output:
 
 We can notice the following:
 - We called `locals()` inside the `add()` function to get the local namespace generated when the functions is executed. If we called `locals( )` outside of a function in our program, it behaves the same as `globals()`.
-- The value printed from calling `locals()` represents the namespace that only exist inside the function. Notice even the function parameters `um1` and `num2` exist along side the variable name `nested_value`. The namespace does not include `global_variable` since it exist outside of t
+- The value printed from calling `locals()` represents the namespace that only exist inside the function. Notice even the function parameters `um1` and `num2` exist along side the variable name `nested_value`. The namespace does not include `global_variable` since it exist outside of the function.
