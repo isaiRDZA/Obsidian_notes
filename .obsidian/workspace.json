@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Global namespace.md",
+                "file": "Python/Local namespace.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Global namespace.md",
+                "file": "Python/Local namespace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Global namespace.md",
+                "file": "Python/Local namespace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Global namespace.md"
+                "file": "Python/Local namespace.md"
               }
             }
           }
@@ -194,8 +194,9 @@
   "active": "3fefa424c4ff80b8",
   "lastOpenFiles": [
     "Python/Namespace.md",
-    "Pasted image 20240727204029.png",
+    "Python/Local namespace.md",
     "Python/Global namespace.md",
+    "Pasted image 20240727204029.png",
     "Python/Built-in namespace.md",
     "Obnject-Oriented Programming.md",
     "neural networks.md",
