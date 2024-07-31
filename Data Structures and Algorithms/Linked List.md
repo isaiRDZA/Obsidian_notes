@@ -26,12 +26,41 @@ Depending on the language, nodes that are not referenced are removed automatical
 
 ```Python
 class LinkeList:
+	
 	def __init__(self, value = None):
 		self.head_note = Node(value)
+	
 	def get_head_node(self):
 		return self.head_node = Node(value)
+	
 	def get_head_node(self):
 		return self.head_node
+	
 	def insert_ebegining(self, new_value):
-		new_node = Node(new_value, sel)
+		new_node = Node(new_value, self.head_node)
+		self.head_node = new_node
+	
+	def stringify_list(self):
+		itr = self.head_node
+		llstr = ''
+		while itr != None:
+			if itr.get_value() != None:
+				llstr += str (itr.get_value())+ "\n"
+				itr = itr.get_next_node()
+		return llstr
+		
+	def remove_node(self, value_to_remove):
+		current_node = self.get_head_node()
+		if current_node.get_value() == value_to_remove:
+			self.head_node = current_node.get_next_node()
+		else:
+			while current_node:
+				next_node = current_node.get_nex_node()
+				if next_node.get_value() == value_to_remove:
+					current_node.set_next_node(next_node.get_next_node())
+					current_node = None
+				else:
+					current_node = next_node
+					
+		
 ```
