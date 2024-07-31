@@ -25,3 +25,5 @@ class Node:
 	def set_link_node(self, link_node):
 		self.link_node = link_node
 ```
+
+^cd318b

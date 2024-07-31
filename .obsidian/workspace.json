@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Enclosing namespace.md",
+                "file": "Data Structures and Algorithms/Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Enclosing namespace.md",
+                "file": "Data Structures and Algorithms/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Enclosing namespace.md",
+                "file": "Data Structures and Algorithms/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Enclosing namespace.md"
+                "file": "Data Structures and Algorithms/Linked List.md"
               }
             }
           }
@@ -191,8 +191,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8897d54bfa2a951f",
+  "active": "3fefa424c4ff80b8",
   "lastOpenFiles": [
+    "ML/Deep Learning/Mini-batch gradient descent.md",
+    "ML/Deep Learning/Learning Decay.md",
+    "ML/Deep Learning/Human-level performance.md",
+    "ML/Deep Learning/Gradient descent with momentum.md",
+    "ML/Deep Learning/F1 score.md",
+    "ML/Deep Learning/Exponentially weighted averages.md",
+    "ML/Deep Learning/Exploding gradients.md",
+    "ML/Deep Learning/Dev - Test set.md",
+    "ML/Deep Learning/Deep Learning.md",
+    "ML/Deep Learning/Batch Normalization.md",
+    "ML/Deep Learning/Avoidable Bias.md",
+    "ML/Deep Learning/Adam Algorithm.md",
+    "Data Structures and Algorithms/Linked List.md",
+    "Data Structures and Algorithms/Node.md",
+    "daily/2024-07-30.md",
+    "ML/Quizes/Neural Network Basics quiz.md",
     "Python/Namespace.md",
     "Python/Enclosing namespace.md",
     "Python/Local namespace.md",
@@ -204,33 +220,17 @@
     "mean.md",
     "English homework.md",
     "Convolution.md",
-    "Classification.md",
-    "daily/2024-07-27.md",
-    "Data Structures and Algorithms/Node.md",
-    "Data Structures and Algorithms/Linked List.md",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",
     "Pasted image 20240726234401.png",
     "Pasted image 20240726233858.png",
     "Pasted image 20240726232245.png",
     "Pasted image 20240726232018.png",
-    "Python/Function Call Unpacking & Beyond.md",
     "Data Structures and Algorithms",
     "Data Science/Untitled",
     "Pasted image 20240726183836.png",
     "Pasted image 20240726183818.png",
-    "Python/**Kwargs.md",
-    "Python/Function Arguments.md",
-    "Python/Variable number of arguments.md",
-    "Untitled.md",
-    "Python/Python Gotcha.md",
-    "Python/Intermediate Python.md",
-    "ML/Plots/Matplotlib/Labeles.md",
-    "ML/Plots/Matplotlib/Legend.md",
-    "daily/2024-07-26.md",
     "Python",
-    "ML/Deep Learning/Gradient descent with momentum.md",
-    "ML/Deep Learning/RMSProp.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",

@@ -21,3 +21,17 @@ To properly maintain the list when removing a node from the middle of a linked l
 Depending on the language, nodes that are not referenced are removed automatically. "Removing" a node is equivalent to removing all references to the node.
 ![[Pasted image 20240726235006.png]]
 
+## Implementation
+![[node#^cd318b]]
+
+```Python
+class LinkeList:
+	def __init__(self, value = None):
+		self.head_note = Node(value)
+	def get_head_node(self):
+		return self.head_node = Node(value)
+	def get_head_node(self):
+		return self.head_node
+	def insert_ebegining(self, new_value):
+		new_node = Node(new_value, sel)
+```
