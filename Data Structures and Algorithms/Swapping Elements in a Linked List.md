@@ -69,5 +69,27 @@ The last step is to update the pointers from node1 and node2. This is relatively
 
 ```Python
 temp = node1.get_next_node()
-
+node1.set_next_node(node2.get_next_node())
+node2.set_next_node(temp)
 ```
+
+## Edge Cases
+We have completed the basic swap algorithm in Python! However, we haven't accounted for some edge cases. What if there is no matching node for one of the inputs? The current `swap_nodes()`function will not run because we will try to access the next node of a node the is None. (Remember that our initial while loop only breaks if the matching node is found. Otherwise, it runs until the node is None.)
+Thankfully this has a quick fix. We can put in an if that checks if either node1 or node2 is None. If they are, we can print a statement that explains a match was not found, and return to end the method. We can put this right after the while loops that iterate through the list to find the matching nodes:
+```Python
+if(node1 is None or node2 is None):
+	print("Swap not possible - one or more element is not in the list")
+	return
+```
+The last edge case is if the two nodes to be swapped are the same. While out current implementation will run without error, there's no point in executing the whole function if it isn't necessary. We can add a brief check at the beginning of the function that checks if the val1 is the same as val2, and then return to end the function:
+```Python
+if val1 == val2:
+	print("Elements are the same - no swap needed")
+	return
+```
+
+## Finished function
+
+
+
+
