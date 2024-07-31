@@ -16,6 +16,7 @@ Given an input of a linked list, val1 and val2, the general steps for doing so i
 8. Set node2's next node to node1's next node
 
 ## Finding the Matching and Preceding Nodes
+
 Let's look at what implementing steps 1 and 2 looks like. In order to swap the two nodes, we must first find them. We also need to keep track of the nodes that precede them so that we can properly reset their pointers. (We will use the Node class's .get_next_node() method in order to access the next node)
 We will start by setting node1 equal to the head of the list, and then creating a while loop that runs while node1 isn't None. Inside the loop, we will check if node1's value matches val1. If so, we break out of the loop as we have found the correct node. If there is no match we update node1_prev to be node1 and move node1 to its next node:
 ```Python
@@ -27,9 +28,46 @@ def swap_nodes(input_list, val1, val2):
 
 	while node1 is not None:
 		if node1.get_value() = val1:
-			breal
+			break
 		node1_prev = node1
 		node1 = node1.get_next_node()
 		
 ```
-At the end of this we have found out 
+At the end of this we have found out matching node, and also saved its previous node which we will use in the next step.
+
+```Python
+while node2 is not None:
+	if node2.get_value() == val2:
+		break
+
+	node2_prev = node2
+	node2 = node2.get_next_node()
+```
+## Updating the Preceding Node's Pointers
+
+Our next step is to set node1_prev and node2_prev's next nodes, starting with node1_prev. We'll being by checking if node1_prev is None. If it is, then node1 is the head of the list, and so we will update the head to be node2. If node1_prev isn't None, then we set its next node to node2:
+
+```Python
+if node1_prev is None:
+	input_list.head_node =  node2
+else:
+	node1_prev.set_next_node(node2);
+```
+
+After this step, we have finished updating the pointers that point to our swapped nodes. The next step will be update the pointers from them.
+
+```Python
+if node2_prev is None:
+	input_list.head_node = node1
+else:
+	node2_prev.set_next_node(node1)
+```
+
+## Updating the Node's Next Pointers
+
+The last step is to update the pointers from node1 and node2. This is relatively simple, and mirrors a swapping function for an array in that we will use a temporary variable
+
+```Python
+temp = node1.get_next_node()
+
+```
