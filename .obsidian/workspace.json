@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
+                "file": "daily/2024-08-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
+                "file": "daily/2024-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
+                "file": "daily/2024-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Swapping Elements in a Linked List.md"
+                "file": "daily/2024-08-01.md"
               }
             }
           }
@@ -192,8 +192,9 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "ML/Quizes/Neural Network Basics quiz.md",
     "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
+    "daily/2024-08-01.md",
+    "ML/Quizes/Neural Network Basics quiz.md",
     "Data Structures and Algorithms/Linked List.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Learning Decay.md",
@@ -218,7 +219,6 @@
     "Obnject-Oriented Programming.md",
     "neural networks.md",
     "mean.md",
-    "English homework.md",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",
     "Pasted image 20240726234401.png",
