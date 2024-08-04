@@ -138,6 +138,12 @@ def swap_nodes(input_list, val1, val2):
 	node1.set_next_node(node2.get_next_node())
 	node2.set_next_node(temp)
 
-	ll = Linkedlist.Linkedlist()
+ll = Linkedlist.Linkedlist()
+for i in range(10):
+	ll.insert_begining(i)
+
+print(ll.stringify_list())
+swap_nodes(ll, 9, 5)
+print(ll.stringify_list())
 	
 ```

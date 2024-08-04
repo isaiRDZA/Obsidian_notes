@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
+                "file": "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
+                "file": "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
+                "file": "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Swapping Elements in a Linked List.md"
+                "file": "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md"
               }
             }
           }
@@ -192,6 +192,8 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
+    "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md",
     "Data Structures and Algorithms/Linked List.md",
     "Stride.md",
     "Ve.md",
@@ -200,7 +202,6 @@
     "Data Science/Data Science Structure.md",
     "daily/2024-08-03.md",
     "daily/2024-08-01.md",
-    "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
     "ML/Quizes/Neural Network Basics quiz.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Learning Decay.md",
@@ -217,7 +218,6 @@
     "Data Structures and Algorithms/Node.md",
     "daily/2024-07-30.md",
     "Python/Namespace.md",
-    "Python/Enclosing namespace.md",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",
