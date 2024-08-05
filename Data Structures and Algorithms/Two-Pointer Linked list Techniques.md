@@ -86,7 +86,18 @@ cout = 4
 Fourth Tick
 ```
 count = 5
-
+        T
     N
 1 2 3 4 5
 ```
+
+Final Tick
+```
+count = 6
+          T
+      N
+1 2 3 4 5 None
+```
+
+## Implementation
+
