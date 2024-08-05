@@ -51,6 +51,42 @@ When the tail pointer moves `n` nodes into the linked list from its starting pos
 
 Let's visualize the steps of the algorithm through the following example, where we want to obtain the 2nd to last node of the linked list. `T` represents the tail pointer and `N` represents the nth last pointer. For each iteration of the while loop, we will also keep track of the `count` value.
 
-### Starting State
+Starting State
+```
+count = 1
+T
 
+1 2 3 4 5
+```
 
+First Tick
+```
+count  = 2
+  T
+  
+1 2 3 4 5
+```
+
+Second Tick
+```
+count = 3
+    T
+N
+1 2 3 4 5
+```
+
+Third Tick
+```
+cout = 4
+      T
+  N
+1 2 3 4 5
+```
+
+Fourth Tick
+```
+count = 5
+
+    N
+1 2 3 4 5
+```
