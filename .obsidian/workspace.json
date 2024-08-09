@@ -172,11 +172,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 751.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -192,9 +192,10 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "Python/nonlocal.md",
+    "Python/Scope.md",
     "Pasted image 20240808190356.png",
     "Python/Enclosing namespace.md",
-    "Python/Scope.md",
     "Python/Python Gotcha.md",
     "Python/Namespace.md",
     "Python/Local namespace.md",
@@ -234,7 +235,6 @@
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
-    "Pasted image 20240618170102.png",
     "Mental maps summaries",
     "MLOps/Untitled",
     "MLOps",

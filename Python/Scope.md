@@ -102,3 +102,25 @@ Would output:
 ```
 UnboundLocalError: local variable 'enclosing_value' referenced vefore assignment
 ```
+
+This can be solved with [[nonlocal]] keyword
+
+# Global scope
+
+At the highest level of access, we have the global scope. Names defined in the global namespace will automatically be globally scoped and can be accessed anywhere in our program.
+For example:
+```Python
+# global scope variable
+
+gravity = 9.8
+
+def get_force(mass):
+	return mass * gravity
+
+print(get_force(60))
+```
+
+Would output:
+```
+588.0
+```
