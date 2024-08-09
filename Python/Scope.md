@@ -124,3 +124,23 @@ Would output:
 ```
 588.0
 ```
+
+However, **similar to local scope**, values can only be accessed but not modified. For example, if we tried to manipulate the value of `gravity`:
+
+```Python
+gravity = 9.8
+
+def get_force(mass):
+	gravity += 100
+	return mass * gravity
+
+print(get_force(60))
+```
+
+Would output:
+
+```
+UboundLocalError: local variable 'gravity' referenced before assignment
+```
+
+This can be solved with the [[global]] keyword
