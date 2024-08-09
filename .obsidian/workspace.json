@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/global.md",
+                "file": "Python/Lambda functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/global.md",
+                "file": "Python/Lambda functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/global.md",
+                "file": "Python/Lambda functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/global.md"
+                "file": "Python/Lambda functions.md"
               }
             }
           }
@@ -192,8 +192,11 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "Python/Scope.md",
+    "Python/**Kwargs.md",
+    "Python/Lambda functions.md",
+    "daily/2024-08-09.md",
     "Python/global.md",
+    "Python/Scope.md",
     "Python/nonlocal.md",
     "Pasted image 20240808190356.png",
     "Python/Enclosing namespace.md",
@@ -216,9 +219,6 @@
     "ML/Deep Learning/Mini-batch gradient descent.md",
     "ML/Deep Learning/Learning Decay.md",
     "ML/Deep Learning/Human-level performance.md",
-    "ML/Deep Learning/Gradient descent with momentum.md",
-    "ML/Deep Learning/F1 score.md",
-    "ML/Deep Learning/Exponentially weighted averages.md",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",
