@@ -18,3 +18,6 @@ def favourite_color():
 
 favourite_color()
 ```
+
+# Enclosing/Nonlocal scope
+Enclosing scope allows any value defined in an enclosing function to be accessed in nested functions below it. We can observe this scope since `nested_function()`
