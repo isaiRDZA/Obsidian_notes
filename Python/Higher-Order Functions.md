@@ -89,4 +89,34 @@ Would output:
 As these examples show, being able to pass functions in as arguments can be pretty handy, especially when we want to apply a function multipple times. In fact, it's so handy that there's a built-in higher-order function in Python that does just that-the `map()` function. 
 
 # Functions as Return Values
+So far, we have focused on higher-order functions that take another function as an argument. Remember, thought, that a function that returns another function is also higher-order function.
+```Python
+def make_box_volume_function(height):
+	#defines and returns a function that takes two numeric arguments,
+	#lengh & width, and returns the volume given the input height
+	def volume(lenght, width):
+		return lenght*width*height
+	
+	return volume
 
+box_volume_height15 = make_box_volume_function(15)
+print(box_volume_height15(3,2))
+```
+
+Output:
+```
+90
+```
+
+And if we had slightly shorter boxes:
+```Python
+box_volume_height10 = make_box_volume_function(10)
+
+print(box_volume_height10(3,2))
+```
+Would output:
+```
+60
+```
+In the example we:
+- Wrote a high-order function `make_box_volume_function()`: It takes a height as an argument and returns a new function that calculates the volume of any box with that height when it is

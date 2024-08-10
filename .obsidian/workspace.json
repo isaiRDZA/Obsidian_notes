@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/**Kwargs.md",
+                "file": "Python/Higher-Order Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/**Kwargs.md",
+                "file": "Python/Higher-Order Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/**Kwargs.md",
+                "file": "Python/Higher-Order Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/**Kwargs.md"
+                "file": "Python/Higher-Order Functions.md"
               }
             }
           }
@@ -190,10 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8897d54bfa2a951f",
+  "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "Python/Variable number of arguments.md",
     "Python/**Kwargs.md",
+    "Python/Variable number of arguments.md",
     "daily/2024-08-09.md",
     "Python/Higher-Order Functions.md",
     "Python/Lambda functions.md",
