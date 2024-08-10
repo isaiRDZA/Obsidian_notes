@@ -2,7 +2,7 @@
 [[Variable number of arguments]]
 Python doesn't stop at allowing us to accept unlimited positional arguments; it also give us the power to define functions with unlimited keyword arguments. The syntax is very similar but uses two asterisks ** instead of one. We typically call these kwargs as a shorthand of keyword arguments.
 ```Python
-def arbitrary_keyword_args(**kwars):
+def arbitrary_keyword_args(**kwargs):
 	print(type(kwargs))
 	print(kwargs)
 	#See if there is an 'anything_goes' keyword arg and print it
