@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/reduce().md",
+                "file": "Python/Function Call Unpacking & Beyond.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/reduce().md",
+                "file": "Python/Function Call Unpacking & Beyond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/reduce().md",
+                "file": "Python/Function Call Unpacking & Beyond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/reduce().md"
+                "file": "Python/Function Call Unpacking & Beyond.md"
               }
             }
           }
@@ -193,22 +193,24 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "Python/Higher-Order Functions.md",
+    "Python/Function Arguments.md",
+    "Python/Enclosing namespace.md",
+    "Python/**Kwargs.md",
     "Python/reduce().md",
+    "Pasted image 20240810131632.png",
+    "Python/Higher-Order Functions.md",
     "Python/filter().md",
     "Python/Variable number of arguments.md",
     "Python/Python Gotcha.md",
     "Python/map().md",
     "Pasted image 20240809202423.png",
     "Pasted image 20240809193104.png",
-    "Python/**Kwargs.md",
     "daily/2024-08-09.md",
     "Python/Lambda functions.md",
     "Python/global.md",
     "Python/Scope.md",
     "Python/nonlocal.md",
     "Pasted image 20240808190356.png",
-    "Python/Enclosing namespace.md",
     "Python/Namespace.md",
     "Python/Local namespace.md",
     "Python/Intermediate Python.md",
@@ -221,14 +223,12 @@
     "daily/2024-08-04.md",
     "Data Science/Data Science Structure.md",
     "daily/2024-08-03.md",
-    "daily/2024-08-01.md",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",
     "Pasted image 20240726234401.png",
     "Pasted image 20240726233858.png",
     "Pasted image 20240726232245.png",
-    "Pasted image 20240726232018.png",
     "Data Structures and Algorithms",
     "Data Science/Untitled",
     "Python",
