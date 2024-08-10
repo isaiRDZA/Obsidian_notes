@@ -1,0 +1,3 @@
+`reduce()` has two distinct differences from the built-in higher-order functions that we have learned so far.
+1. In contrast to the `map()` and `filter()` functions that are always available, the `reduce()` function must be imported from the `functools` module to use it.
+2. Rather than returning a `reduce` object as might be expected after learning about `map()` and `filter()`, `reduce()` returns a single value. To get to this single value, `reduce()` cumulatively applies a passed function to each sequential pair of elements.
