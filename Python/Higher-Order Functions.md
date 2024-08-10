@@ -119,4 +119,10 @@ Would output:
 60
 ```
 In the example we:
-- Wrote a high-order function `make_box_volume_function()`: It takes a height as an argument and returns a new function that calculates the volume of any box with that height when it is
+- Wrote a high-order function `make_box_volume_function()`: It takes a height as an argument and returns a new function that calculates the volume of any box with that height when it is passed the length and width of the box.
+- High-order functions with functions as return values are just as re-usables as higher-order functions with functions as arguments, and therefore, also reduce repetition and the chances for mistakes to creep into code,
+
+There are built-in higher-order functions:
+1. [[map()]]
+2. [[filter()]]
+3. [[reduce()]]
