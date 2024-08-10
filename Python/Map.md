@@ -19,3 +19,8 @@ Output:
 <map at 0x7f1ca0f58090>
 ```
 
+In our example:
+1. We defined a function called `double()` that takes in a value and returns the value doubled. This function can be used anywhere in our program-not only with `map()`.
+2. We also defined an iterable (`int_list`) that we wanted to apply the function to.
+3. We then passed the function reference `double` as the function argument and `int_list` as the iterable to `map()`.
+4. The `map()`
