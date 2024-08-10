@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -190,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31a5002697c40886",
+  "active": "8897d54bfa2a951f",
   "lastOpenFiles": [
     "Python/Lambda functions.md",
     "Python/Higher-Order Functions.md",

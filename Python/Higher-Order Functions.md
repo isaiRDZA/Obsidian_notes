@@ -40,4 +40,53 @@ Would output:
 'Total amount owed is $44.52. Thank you! :)']
 ```
 Now, we could write out another loop for when we need to add a tip instead of tax, but we can probably guess how many repetitions would be involved. 
-**A much more powerful solution** would be to use a high-order function to apply `add_tax()` or `add_tip()` to each balance in our list. Lets first define a higher-order function, `total_bills()`, that takes a function and a list as arguments, applies the function to each element in the list, standadizes 
+**A much more powerful solution** would be to use a high-order function to apply `add_tax()` or `add_tip()` to each balance in our list. Lets first define a higher-order function, `total_bills()`, that takes a function and a list as arguments, applies the function to each element in the list, standardizes the format of the result and adds a friendly message, appends the output to a new list, and finally returns the updated new list
+
+```Python
+def total_bills(func, list):
+	#This list will store all the new bill values
+	new_bills = []
+
+	for i in range(len(list)):
+
+		#Here we apply the function to each element of the list
+		total = func(list[i])
+		new_bills.append("Total amount owed is $" + "{:.2f}".format(total) + ". Thank you! :)")
+		return new_bills
+```
+
+Next, let's use the `add_tax()` function that we wrote before with our new `toral_bills()` higher-order function:
+```Python
+
+bills = [115, 120, 42]
+
+bills_w_tax = total_bills(add_tax, bills)
+
+print(bills_w_tax)
+```
+
+would output:
+```Python
+['Total amount owed is $121.90. Thank you! :)', 'Total amount owed is $127.20. Thank you! :)', 'Total amount owed is $44.52. Thank you! :)']
+
+```
+
+And if we need to add a tip instead of tax, we could simply swap out the function argument:
+
+```Python
+bills_w_tip = total_bills(add_tip, bills)
+
+print(bills_w_tip)
+```
+
+Would output:
+```Python
+
+['Total amount owed is $138.00. Thank you! :)', 'Total amount owed is $144.00. Thank you! :)', 'Total amount owed is $50.40. Thank you! :)']
+
+```
+
+As these examples show, being able to pass functions in as arguments can be pretty handy, especially when we want to apply a function multipple times. In fact, it's so handy that there's a built-in higher-order function in Python that does just that-the `map()` function. 
+
+# Functions as Return Values
+
