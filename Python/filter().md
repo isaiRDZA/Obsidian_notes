@@ -24,6 +24,6 @@ In this example:
 4. The `filter` object is returned and when converted to a list and printed, we saw that it contained `['margarita', 'Masako', 'Maki']`-only M-names!
 ### Example
 We were given a list of lists, where each sublist holds the title of a famous book that has a year as its title and the last name of the author that wrote the book.
-Unfortunately, when this list was made, each of the books was accidentally entered twice-once withe the title as a numeric value and once with the title as a string. Use the filter() function to deduplicate the list and keep only the sublists that have the book title stored as a string:
+Unfortunately, when this list was made, each of the books was accidentally entered twice-once with the title as a numeric value and once with the title as a string. Use the filter() function to deduplicate the list and keep only the sublists that have the book title stored as a string:
 
 
