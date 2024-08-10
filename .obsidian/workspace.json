@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/filter().md",
+                "file": "Python/reduce().md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/filter().md",
+                "file": "Python/reduce().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/filter().md",
+                "file": "Python/reduce().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/filter().md"
+                "file": "Python/reduce().md"
               }
             }
           }
@@ -194,10 +193,11 @@
   "active": "31a5002697c40886",
   "lastOpenFiles": [
     "Python/Higher-Order Functions.md",
+    "Python/reduce().md",
+    "Python/filter().md",
     "Python/Variable number of arguments.md",
     "Python/Python Gotcha.md",
     "Python/map().md",
-    "Python/filter().md",
     "Pasted image 20240809202423.png",
     "Pasted image 20240809193104.png",
     "Python/**Kwargs.md",
