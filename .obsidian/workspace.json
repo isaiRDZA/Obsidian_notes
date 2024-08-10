@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "3fefa424c4ff80b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b758847a80108e0",
             "type": "leaf",
             "state": {
@@ -93,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -192,8 +181,10 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "Python/**Kwargs.md",
+    "ML/Neural Networks/Early stopping.md",
     "Python/Decorators.md",
+    "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
+    "Python/**Kwargs.md",
     "Python/Function Call Unpacking & Beyond.md",
     "Python/Function Arguments.md",
     "Python/Enclosing namespace.md",
@@ -216,12 +207,10 @@
     "Python/Local namespace.md",
     "Python/Intermediate Python.md",
     "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md",
-    "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
     "Data Structures and Algorithms/Linked List.md",
     "Stride.md",
     "Ve.md",
     "Pooling.md",
-    "daily/2024-08-04.md",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",
