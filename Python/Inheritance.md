@@ -120,4 +120,7 @@ pet_cat.make_noise()#Rachel says, Meow!
 In the above example:
 - The `Cat` subclass has an `.__init__()` method which means the `.__init__()` method of its superclass `Animal` will not be called when creating an instance of `Cat`. The `.__init__()` method from the subclass is overriding the one form the superclass.
 
-- The `.__init__()` method of  `Animal` is still invoked when in `super().__init__(name, "Meow!")` is called inside the subclass `.__init__()` method. This additional logic allows us to add the `"Meow"` sound from within the `Cat`classs, but still use the `
+- The `.__init__()` method of  `Animal` is still invoked when in `super().__init__(name, "Meow!")` is called inside the subclass `.__init__()` method. This additional logic allows us to add the `"Meow"` sound from within the `Cat`class, but still use the `.__init__()` method of the `Animal` class.
+
+## Multiple Inheritance
+
