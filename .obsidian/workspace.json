@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Inheritance.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 751.5,
-    "collapsed": true
+    "width": 751.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +174,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31a5002697c40886",
+  "active": "51eacb7862bd909f",
   "lastOpenFiles": [
+    "Python/Inheritance.md",
+    "ML/Neural Networks/Early stopping.md",
     "Python/Object-Oriented Programming.md",
     "Python/Decorators.md",
-    "Python/Inheritance.md",
     "Polymorphism.md",
     "daily/2024-08-12.md",
-    "ML/Neural Networks/Early stopping.md",
     "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
     "Python/**Kwargs.md",
     "Python/Function Call Unpacking & Beyond.md",

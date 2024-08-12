@@ -124,3 +124,37 @@ In the above example:
 
 ## Multiple Inheritance
 
+This is when a subclass inherits from more than one superclass. One form of multiple inheritance is when there are multiple levels of inheritance. This means a class inherits members from its superclass and its super-superclass
+```Python
+class Employee():
+	new_id = 1
+	
+	def __init__(self):
+		self.id = Employee.new_id
+		Employee.new_id += 1
+
+
+	def say_id(self):
+		print("My id is {}.".format(self.id))
+
+
+clas Admin(Employee):
+	def say_id(self):
+		super().say_id()
+		print("I am an admin.")
+
+
+class Manager(Admin):
+	def say_id(self):
+		print("I am in charge")
+		super().say_id()
+
+
+e1 = Employee()
+e2 = Employee()
+e3 = Admin()
+e4 = Manager()
+e4.say_id()
+	
+```
+Another form of multiple inheritance involves a subclass that inherits directly from two classes and can use the attributes and methods of both.
