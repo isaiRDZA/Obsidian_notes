@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Inheritance.md",
+                "file": "Python/Polymorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Polymorphism.md"
+              }
             }
           }
         ],
@@ -175,11 +179,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51eacb7862bd909f",
+  "active": "31a5002697c40886",
   "lastOpenFiles": [
     "Python/Inheritance.md",
-    "ML/Neural Networks/Early stopping.md",
+    "Python/Python Gotcha.md",
+    "Python/Polymorphism.md",
     "Python/Object-Oriented Programming.md",
+    "ML/Neural Networks/Early stopping.md",
     "Python/Decorators.md",
     "Polymorphism.md",
     "daily/2024-08-12.md",
@@ -193,7 +199,6 @@
     "Python/Higher-Order Functions.md",
     "Python/filter().md",
     "Python/Variable number of arguments.md",
-    "Python/Python Gotcha.md",
     "Python/map().md",
     "Pasted image 20240809202423.png",
     "Pasted image 20240809193104.png",
@@ -206,7 +211,6 @@
     "Python/Namespace.md",
     "Python/Local namespace.md",
     "Python/Intermediate Python.md",
-    "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",

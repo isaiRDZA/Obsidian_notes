@@ -204,6 +204,8 @@ e3.say_user_info()
 ```
 
 Output:
-``
-
+```
+My username is 3
+My role is Admin
+```
 - Here the `super().__init__()` is calling the constructor of the `Employee()` class, because its listed first in the Admin class declaration `class Admin(Employee, User)`.
