@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Abstraction.md",
+                "file": "Python/Encapsulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Abstraction.md",
+                "file": "Python/Encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Abstraction.md",
+                "file": "Python/Encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Abstraction.md"
+                "file": "Python/Encapsulation.md"
               }
             }
           }
@@ -193,8 +193,9 @@
   },
   "active": "25b1ca4994e4fcd5",
   "lastOpenFiles": [
-    "Python/Dunder methods.md",
     "Python/Abstraction.md",
+    "Python/Encapsulation.md",
+    "Python/Dunder methods.md",
     "Python/Polymorphism.md",
     "Python/Inheritance.md",
     "Python/Python Gotcha.md",
@@ -222,7 +223,6 @@
     "Python/Scope.md",
     "Python/nonlocal.md",
     "Pasted image 20240808190356.png",
-    "Python/Namespace.md",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",
