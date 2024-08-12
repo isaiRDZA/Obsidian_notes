@@ -25,7 +25,7 @@ def title_decorator(print_name_function):
 		print_name_funtion(*args, **kwargs)
 	return wrapper
 
-	@title_decorator 
+@title_decorator 
 def print_my_name(name, age):
 	print(name + "you are" + str(age))
 
