@@ -45,4 +45,5 @@ I am an admin.
 I am in charge!
 ```
 
-The example above shows how each class has a method `say_id()` with different outputs. T
+The example above shows how each class has a method `say_id()` with different outputs. The identical method name with different behaviors is a form of polymorphism.
+Another type of polymorphism can be seen with the help of [[Dunder methods]]

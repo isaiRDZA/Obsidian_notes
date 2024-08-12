@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "25b1ca4994e4fcd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Dunder methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9b758847a80108e0",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Polymorphism.md",
+                "file": "Python/Dunder methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Polymorphism.md",
+                "file": "Python/Dunder methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Polymorphism.md"
+                "file": "Python/Dunder methods.md"
               }
             }
           }
@@ -179,11 +192,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31a5002697c40886",
+  "active": "25b1ca4994e4fcd5",
   "lastOpenFiles": [
+    "Python/Polymorphism.md",
+    "Python/Dunder methods.md",
     "Python/Inheritance.md",
     "Python/Python Gotcha.md",
-    "Python/Polymorphism.md",
     "Python/Object-Oriented Programming.md",
     "ML/Neural Networks/Early stopping.md",
     "Python/Decorators.md",
@@ -210,7 +224,6 @@
     "Pasted image 20240808190356.png",
     "Python/Namespace.md",
     "Python/Local namespace.md",
-    "Python/Intermediate Python.md",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",
