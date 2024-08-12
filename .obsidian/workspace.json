@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Encapsulation.md",
+                "file": "Python/Getters, Setters and Deleters.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Encapsulation.md",
+                "file": "Python/Getters, Setters and Deleters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Encapsulation.md",
+                "file": "Python/Getters, Setters and Deleters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Encapsulation.md"
+                "file": "Python/Getters, Setters and Deleters.md"
               }
             }
           }
@@ -193,8 +194,9 @@
   },
   "active": "25b1ca4994e4fcd5",
   "lastOpenFiles": [
-    "Python/Abstraction.md",
     "Python/Encapsulation.md",
+    "Python/Getters, Setters and Deleters.md",
+    "Python/Abstraction.md",
     "Python/Dunder methods.md",
     "Python/Polymorphism.md",
     "Python/Inheritance.md",
@@ -221,7 +223,6 @@
     "Python/Lambda functions.md",
     "Python/global.md",
     "Python/Scope.md",
-    "Python/nonlocal.md",
     "Pasted image 20240808190356.png",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",

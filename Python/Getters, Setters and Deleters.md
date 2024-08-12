@@ -1,0 +1,23 @@
+Using getter, setter, and deleter functions are one way to implement encapsulation within Python where the states of class attributes can be handled within the class. These functions are useful in making sure that the data being handled is appropriate for the defined class functionality.
+```Python
+class Animal:
+	def __init__(self, name):
+		self._name = name
+		self.age = None
+
+	def get_age(self):
+		return self._age
+
+	def set_age(self, new_age):
+		if isinstance(new_age, int):
+			self._age = new_age
+		else:
+		raise TypeError
+
+
+	def delete_age(self):
+		print("_age Deleted")
+		del self._age
+
+```
+Looking at the `Animal` class above there is an `_age` attribute with a single underscore. 
