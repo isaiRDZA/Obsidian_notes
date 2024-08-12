@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Object-Oriented Programming.md",
+                "file": "Python/Inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Object-Oriented Programming.md",
+                "file": "Python/Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Object-Oriented Programming.md",
+                "file": "Python/Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Object-Oriented Programming.md"
+                "file": "Python/Inheritance.md"
               }
             }
           }
@@ -180,8 +181,10 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "daily/2024-08-12.md",
     "Python/Object-Oriented Programming.md",
+    "Python/Inheritance.md",
+    "Polymorphism.md",
+    "daily/2024-08-12.md",
     "Python/Decorators.md",
     "ML/Neural Networks/Early stopping.md",
     "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
@@ -208,8 +211,6 @@
     "Python/Local namespace.md",
     "Python/Intermediate Python.md",
     "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md",
-    "Data Structures and Algorithms/Linked List.md",
-    "Stride.md",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",
