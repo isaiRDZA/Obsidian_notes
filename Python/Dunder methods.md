@@ -25,5 +25,38 @@ class Animal:
 		return Animal(self.name + another_animal.name)
 
 
+a1 = Animal("Horse")
+a2 = Animal("Penguin")
+a3 = a1 + a2
 
+print(a1)
+print(a2)
+print(a3)
+```
+The above code has the class `Animal` with a dunder method, `.__add__()`. This defines the `+` operator behavior when used on objects of this class type. The method returns a new `Animal` object with the name of the operands objects concatenated. in this example, we have created a `"HorsePenguin"`!
+
+The line of code `a3 = a1 + a2` invokes the `.__add__()` method of the left operand, `a1`, with the right operand `a2` passed as an argument. The `name` attributes of `a1` and `a2` are concatenated using the `.__add_()`parameters, `self`and `another_animal`. The resulting string is used as the name of a new `Animal` object which is returned to become the value of `a3`
+```Python
+class Employee:
+	new_id = 1
+	def __init__(self):
+		self.id = Employee.new_id
+		Employee.new_id += 1
+
+class Meeting:
+	def __init__(self):
+		self.attendees = []
+	def __len__(self):
+		return len(self.attendees)
+	def __add__(self, employee):
+		print("ID {} added".format(employee.id))
+		self.attendees.append(employee)
+
+
+e1 = Employee()
+e2 = Employee()
+e3 = Employee()
+m1 = Meeting()
+m1+e1
+m1+e2
 ```
