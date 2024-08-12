@@ -59,4 +59,14 @@ e3 = Employee()
 m1 = Meeting()
 m1+e1
 m1+e2
+m1+e3
+print(len(m1))
+```
+
+Output:
+```
+ID 1 added
+ID 2 added
+Id 3 added
+3
 ```
