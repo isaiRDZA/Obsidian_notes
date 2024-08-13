@@ -35,4 +35,36 @@ a.delete_age() # "_age Deleted"
 print(a.get_age()) # Raises a AttributeError
 ```
 
-Above we see `a.get_age()` gets the `_age` value, `a.set_age(10)` sets the value and `a.delete_age()`
+Above we see `a.get_age()` gets the `_age` value, `a.set_age(10)` sets the value and `a.delete_age()` deletes the attribute entirely. A `TypeError` occurs with `a.set_age("Ten")` because the defined logic in the setter is looking only for an integer. An `AttributeError` occurs with `a.get_age()` after the attribute was deleted.
+```Python
+class Employee():
+	new_id = 1
+	def __init__(self, name=None):
+		self.id = Employee.new_id
+		Employee.new_id += 1
+		self._name = name
+
+	def get_name(self):
+		return self._name
+
+	def set_name(self, name):
+		self._name = name
+	def del_name(self):
+		del self._name
+
+e1 = Employee("Maisy")
+e2 = Employee()
+
+
+e1 = Employee("Maisy")
+e2 = Employe
+print(e1.get_name())
+
+e2.set_name("Fluffy")
+print(e2.get_name())
+
+e2.del_name()
+print(e2.get_name())
+
+```
+
