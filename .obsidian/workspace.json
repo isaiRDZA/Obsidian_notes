@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -192,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8897d54bfa2a951f",
+  "active": "25b1ca4994e4fcd5",
   "lastOpenFiles": [
     "Python/Getters, Setters and Deleters.md",
     "Python/Encapsulation.md",

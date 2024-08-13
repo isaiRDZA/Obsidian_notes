@@ -140,9 +140,25 @@ class Box:
 			self.__weight = weight
 
 	@weight.deleter
-	def weighter(self):
+	def weight(self):
 		del self.__weight
 		
 ```
 
-Let's break t
+Let's break this down:
+
+- First, we have renamed all of out methods to simply be `weight()`.
+- Then we denoted our getter with `@property`. This marks the property to be used as a prefix for decorating the setter and deleter methods.
+- Lastly, we use `@weight.setter` and `@weight.deleter` to define our setter and deleter methods, respectively.
+
+This is the equivalent of doing:
+```Python
+weight = property(getWeight, setWeight, delWeight, "Docstring for the 'weight' property")
+```
+
+And this giving us the same syntactical advantage as before:
+```Python
+box = Box(10)
+box.weight = 5
+del box.weight
+```
