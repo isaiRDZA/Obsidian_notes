@@ -75,4 +75,74 @@ That our box weight was unchanged on the first call:
 5
 ```
 
-Notice that we need to call the methods instead of directly interacting with the weight attribute. What if we could have the best of both worlds? That is, a way to directly interact with the weight attribute but still benefit from the complex behavior of meth
+Notice that we need to call the methods instead of directly interacting with the weight attribute. What if we could have the best of both worlds? That is, a way to directly interact with the weight attribute but still benefit from the complex behavior of methods such as the weight restriction. This is where the built-in function `property()` comes in.
+
+## The built-in property() function
+The Python built-in `property()` function accepts four optional arguments: `fget`, `fset`, `fdel`, and `doc`. The first three represent getter, setter and deleter methods, respectively, and the last one is a docstring for the attribute.
+Let's take a look at the advantages by refactoring our `Box` class:
+```Python
+class Box:
+	def __init__(self, weight):
+		self.__weight = weight
+
+	def getWeight(self):
+		return self.__weight
+
+	def setWeight(self, weight):
+		if weight >= 0:
+			self.__weight = weight
+
+	def delWeight(self):
+		del self.__weight
+
+	weight = property(getWeight, setWeight, delWeight, "Docstring for the 'weight' property")
+	
+	```
+
+Notice we have added one additional method to out class called `delWeight()`ti serve as a deleter for the property. While it is not strictly required, we will add it to show the full potential of the property() function. We then call the `property()` function and pass the getter, setter and deleter in as arguments. This will imediately allow us to use the following syntax for our class:
+
+```Python
+box = Box(10)
+print(box.weight) #this calls. getWeight()
+
+box.weight = 5 #this called .setWeight()
+
+del box.weight #this calls .delWeight()
+
+box.weight = -5 #box.__weight is unchanged
+
+
+```
+
+With this change, our program gains some immediate benefits:
+- We can now use the `weight` attribute as if it was public, We no longer have to call the setters, getters and deleter methods directly and this giving our program a simpler syntax.
+- Even though we no longer call the methods directly, we still can maintain constraints such as the weight limit in `setWeight()`. It's the best of both worlds!
+- If we had a huge codebase that used our methods multiple times in multiple places, a single change to the method name would seriously mess up our program since we would have to change it everywhere! We no longer have this issue using the `property()` method since we never call it directly.
+
+While this is a big advantage for our programs to be more "pythonic", we can go even further by using the decorator patter to replace the need to call the `property()` function altogether.
+
+## @property Decorator
+The most pythonic way to define getters, setters, and deleters is by using the `@property` decorator. This decorator is syntactic sugar for using the `property()` function and helps our code look much cleaner. Let's take a look:
+```Python
+class Box:
+	def __init__(self, weight):
+		self.__weight = weight
+
+	@property
+	def weight(self):
+		"""Docstring for the `weight` property"""
+		return self.__weight
+
+
+	@weight.setter
+	def weight(self, weight):
+		if weight >= 0:
+			self.__weight = weight
+
+	@weight.deleter
+	def weighter(self):
+		del self.__weight
+		
+```
+
+Let's break t
