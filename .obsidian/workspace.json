@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Decorators.md",
+                "file": "daily/2024-08-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Neural Networks/Early stopping.md",
+                "file": "Python/Iterbles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Decorators.md",
+                "file": "Python/Iterbles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Decorators.md",
+                "file": "Python/Iterbles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Decorators.md"
+                "file": "Python/Iterbles.md"
               }
             }
           }
@@ -191,8 +192,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25b1ca4994e4fcd5",
+  "active": "9b758847a80108e0",
   "lastOpenFiles": [
+    "ML/Neural Networks/Early stopping.md",
+    "Python/Iterbles.md",
+    "daily/2024-08-13.md",
+    "Python/Decorators.md",
     "Python/Getters, Setters and Deleters.md",
     "Python/Encapsulation.md",
     "Python/Abstraction.md",
@@ -201,8 +206,6 @@
     "Python/Inheritance.md",
     "Python/Python Gotcha.md",
     "Python/Object-Oriented Programming.md",
-    "ML/Neural Networks/Early stopping.md",
-    "Python/Decorators.md",
     "Polymorphism.md",
     "daily/2024-08-12.md",
     "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
@@ -220,8 +223,6 @@
     "Pasted image 20240809193104.png",
     "daily/2024-08-09.md",
     "Python/Lambda functions.md",
-    "Python/global.md",
-    "Python/Scope.md",
     "Pasted image 20240808190356.png",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
