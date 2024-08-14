@@ -51,4 +51,60 @@ To go behind the scenes even further, `iter(dog_foods)` is actually calling a me
 print(dir(dog_foods))
 ```
 
-The built-in function `iter()` and the iterable's method `__iter__()` can be used intercahng
+The built-in function `iter()` and the iterable's method `__iter__()` can be used intercahngeably.
+
+The iterator object has a method called `__next__()`, which retrieves the iterator's next value, Let's take a look using our SKU iterable for our shop:
+
+```Python
+sku_list = [7046538, 8289407, 9056375, 2308597]
+sku_iterator = iter(sku_list)
+next_sku = sku_iterator.__next__()
+print(next_sku)
+```
+Output:
+
+```
+7046538
+```
+
+There is a Python built-in function called `next()` that we can use in place of calling the `__next__()` method. Calling `next()` simply calls the iterator object's `__next__()` method. Here is the same script but using `next()`
+
+```Python
+sku_list = [7046538, 8289407, 9056375, 2308597]
+sku_iterator = iter(sku_list)
+next_sku = next(sku_iterator)
+print(next_sku)
+```
+Output:
+
+```
+7046538
+```
+
+`__next__()` method will raise an exception called `StopIteration` when all items have been iterated through.
+
+```Python
+sku_list = [7046538, 8289407, 9056375, 2308597]
+sku_iterator = iter(sku_list)
+for i in range(5):  
+	next_sku = sku_iterator.__next__()  
+	print(next_sku)
+
+```
+Output:
+
+```
+
+7046538
+8289407
+9056375
+2308597
+
+Traceback (most recent call last):
+  File "main.py", line 24, in <module>
+    next_sku = sku_iterator.__next__()
+StopIteration
+
+```
+
+
