@@ -31,3 +31,24 @@ Under the hood, the first step that the `for` loop has to do is to convert our d
 ```Python
 dog_food_iterator = iter(dog_foods)
 ```
+
+We can see the new object by printing it:
+```Python
+print(dog_food_iterator)
+```
+
+This would output our new iterator object:
+```
+<dict_keyiterator object at 0x>
+# Note: The memory address is omitted since it varies on the system you run the script on
+```
+Here is a visual representation:
+
+![[Pasted image 20240813192902.png]]
+To go behind the scenes even further, `iter(dog_foods)` is actually calling a method defined within the iterable called `__iter__()`. All iterables have this `__iter__()`method defined. We can even use the Python built-in function `dir()` to show that our `dog_foods` dictionary (iterable) has a defined method called `__iter__()`
+
+```Python
+print(dir(dog_foods))
+```
+
+The built-in function `iter()` and the iterable's method `__iter__()` can be used intercahng
