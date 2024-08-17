@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-08-13.md",
+                "file": "ML/Quizes/Sequence Models & Attention Mechanism.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English homework.md",
+                "file": "ML/Quizes/Practical aspects of Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English homework.md",
+                "file": "ML/Quizes/Sequence Models & Attention Mechanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English homework.md",
+                "file": "ML/Quizes/Sequence Models & Attention Mechanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English homework.md"
+                "file": "ML/Quizes/Sequence Models & Attention Mechanism.md"
               }
             }
           }
@@ -192,18 +191,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b758847a80108e0",
+  "active": "25b1ca4994e4fcd5",
   "lastOpenFiles": [
+    "Python/Polymorphism.md",
+    "ML/Quizes/Sequence Models & Attention Mechanism.md",
+    "ML/Quizes/Practical aspects of Deep Learning.md",
+    "daily/2024-08-13.md",
+    "Pasted image 20240817074432.png",
+    "daily/2024-08-17.md",
+    "English homework.md",
     "Python/Iterables.md",
     "Pasted image 20240813192902.png",
     "ML/Neural Networks/Early stopping.md",
-    "daily/2024-08-13.md",
     "Python/Decorators.md",
     "Python/Getters, Setters and Deleters.md",
     "Python/Encapsulation.md",
     "Python/Abstraction.md",
     "Python/Dunder methods.md",
-    "Python/Polymorphism.md",
     "Python/Inheritance.md",
     "Python/Python Gotcha.md",
     "Python/Object-Oriented Programming.md",
@@ -218,17 +222,13 @@
     "Pasted image 20240810131632.png",
     "Python/Higher-Order Functions.md",
     "Python/filter().md",
-    "Python/Variable number of arguments.md",
-    "Python/map().md",
     "Pasted image 20240809202423.png",
     "Pasted image 20240809193104.png",
-    "daily/2024-08-09.md",
     "Pasted image 20240808190356.png",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
     "Pasted image 20240726234417.png",
     "Pasted image 20240726234401.png",
-    "Pasted image 20240726233858.png",
     "Data Structures and Algorithms",
     "Data Science/Untitled",
     "Python",
