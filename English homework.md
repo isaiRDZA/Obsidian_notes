@@ -108,4 +108,3 @@
 |            |       |                        |
 |            |       |                        |
 
-What food would you eat if you are eating it the rest of your life?
