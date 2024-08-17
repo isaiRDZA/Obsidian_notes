@@ -35,5 +35,16 @@ Ture/False: This model is a "conditional language model" in the sense that the d
    - [ ] We expect $\alpha^{<t, t'>}$ to generally larger for values of $\alpha^{<t'>}$ that are highly relevant to the value the network should output for $y ^{<t>}$ **Note the indices in the superscripts**
    - [ ] $\sum_{t'}\alpha^{<t, t'>} = 1$ **Note the summation is over $t'$**
 
- 7. The network learns where to "pay attention" by learning the values $e^{<t, t'>}$, which are computed using a small neural network:
- 8. 
+ 7. The network learns where to "pay attention" by learning the values $e^{<t, t'>}$, which are computed using a small neural network
+    We can replace $s^{<t-1>}$ with $s^{<t>}$ as an input to this neural network because $s^{<t>}$ is independent of $\alpha^{t, t'}$
+    - [ ] True
+    - [ ] False
+8. Compared to the encoder-decoder model show in Question 1 of this quiz (which does not use an attention mechanism), we expect the attention model to have the least advantage when:
+- [ ] The input sequence lenght $T_{x}$ is small.
+- [ ] The input sequence lenght $T_{x}$ is large.
+
+9. Under the CTC model, identical repeated characters not separated by the “blank” character (_) are collapsed. Under the CTC model, what does the following string collapse to?
+   ![[Pasted image 20240817083708.png]]
+   - [ ] 
+   ![[Pasted image 20240817083730.png]]
+   
