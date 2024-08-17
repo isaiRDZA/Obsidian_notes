@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Polymorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25b1ca4994e4fcd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "ML/Quizes/Sequence Models & Attention Mechanism.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9b758847a80108e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Quizes/Practical aspects of Deep Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\\sum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,11 +166,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25b1ca4994e4fcd5",
+  "active": "31a5002697c40886",
   "lastOpenFiles": [
     "Python/Polymorphism.md",
-    "ML/Quizes/Sequence Models & Attention Mechanism.md",
     "ML/Quizes/Practical aspects of Deep Learning.md",
+    "ML/Deep Learning/Mini-batch gradient descent.md",
+    "ML/Quizes/Sequence Models & Attention Mechanism.md",
+    "Pasted image 20240817081411.png",
+    "Pasted image 20240817081241.png",
     "daily/2024-08-13.md",
     "Pasted image 20240817074432.png",
     "daily/2024-08-17.md",
@@ -221,14 +199,11 @@
     "Python/reduce().md",
     "Pasted image 20240810131632.png",
     "Python/Higher-Order Functions.md",
-    "Python/filter().md",
     "Pasted image 20240809202423.png",
     "Pasted image 20240809193104.png",
     "Pasted image 20240808190356.png",
     "Pasted image 20240727204029.png",
     "Pasted image 20240726235006.png",
-    "Pasted image 20240726234417.png",
-    "Pasted image 20240726234401.png",
     "Data Structures and Algorithms",
     "Data Science/Untitled",
     "Python",
