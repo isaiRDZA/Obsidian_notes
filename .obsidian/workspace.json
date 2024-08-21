@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Quizes/Sequence Models & Attention Mechanism.md",
+                "file": "Python/Getters, Setters and Deleters.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\sum",
+                "query": "new",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Quizes/Sequence Models & Attention Mechanism.md",
+                "file": "Python/Getters, Setters and Deleters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Quizes/Sequence Models & Attention Mechanism.md",
+                "file": "Python/Getters, Setters and Deleters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Quizes/Sequence Models & Attention Mechanism.md"
+                "file": "Python/Getters, Setters and Deleters.md"
               }
             }
           }
@@ -166,14 +167,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31a5002697c40886",
+  "active": "a2c8c102ab57b7c8",
   "lastOpenFiles": [
+    "Python/Encapsulation.md",
+    "Python/Dunder methods.md",
+    "Python/Decorators.md",
+    "Python/Abstraction.md",
+    "Python/Object-Oriented Programming.md",
+    "Python/Polymorphism.md",
+    "daily/2024-08-20.md",
+    "ML/Quizes/Sequence Models & Attention Mechanism.md",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
-    "Python/Polymorphism.md",
     "ML/Quizes/Practical aspects of Deep Learning.md",
     "ML/Deep Learning/Mini-batch gradient descent.md",
-    "ML/Quizes/Sequence Models & Attention Mechanism.md",
     "Pasted image 20240817081411.png",
     "Pasted image 20240817081241.png",
     "daily/2024-08-13.md",
@@ -183,14 +190,9 @@
     "Python/Iterables.md",
     "Pasted image 20240813192902.png",
     "ML/Neural Networks/Early stopping.md",
-    "Python/Decorators.md",
     "Python/Getters, Setters and Deleters.md",
-    "Python/Encapsulation.md",
-    "Python/Abstraction.md",
-    "Python/Dunder methods.md",
     "Python/Inheritance.md",
     "Python/Python Gotcha.md",
-    "Python/Object-Oriented Programming.md",
     "Polymorphism.md",
     "daily/2024-08-12.md",
     "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
@@ -203,7 +205,6 @@
     "Pasted image 20240809202423.png",
     "Pasted image 20240809193104.png",
     "Pasted image 20240808190356.png",
-    "Pasted image 20240727204029.png",
     "Data Structures and Algorithms",
     "Data Science/Untitled",
     "Python",
