@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Creating arrays.md",
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Matplotlib",
+                "query": "reshape",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Creating arrays.md",
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Creating arrays.md",
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Creating arrays.md"
+                "file": "ML/Maths/Linear Algebra/Reshaping.md"
               }
             }
           }
@@ -167,6 +168,12 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "ML/Neural Networks/Logistic Regression.md",
+    "ML/Neural Networks/Activation functions.md",
+    "ML/Quizes/Key Concepts on Deep Neural Networks.md",
+    "Python/Getters, Setters and Deleters.md",
+    "Excalidraw/derivativeBackpropagationGraph.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
     "ML/Maths/Linear Algebra/Reshaping.md",
     "ML/Maths/Linear Algebra/Numpy array.md",
@@ -177,24 +184,18 @@
     "ML/Maths/Linear Algebra/Multidimensional Array.md",
     "ML/Maths/Linear Algebra/Lineal.md",
     "ML/Maths/Linear Algebra/Matriz.md",
-    "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Indexing.md",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
     "ML/Deep Learning/Adam Algorithm.md",
     "daily/2024-08-23.md",
-    "Python/Getters, Setters and Deleters.md",
     "Python/Encapsulation.md",
     "Python/Dunder methods.md",
     "Python/Decorators.md",
     "Python/Abstraction.md",
     "Python/Object-Oriented Programming.md",
     "Python/Polymorphism.md",
-    "daily/2024-08-20.md",
-    "ML/Quizes/Sequence Models & Attention Mechanism.md",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
-    "ML/Quizes/Practical aspects of Deep Learning.md",
-    "ML/Deep Learning/Mini-batch gradient descent.md",
     "Pasted image 20240817081411.png",
     "Pasted image 20240817081241.png",
     "Pasted image 20240817074432.png",
