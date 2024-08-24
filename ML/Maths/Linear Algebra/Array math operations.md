@@ -1,5 +1,7 @@
 [[Numpy]] allows you to quickly perform elementwise adition,, substraction, multiplication and division for both 1-D and multidimensional arrays. The operations are performed using the math symbol for each '+', '-' and '\*'. Recall that adition of Python lists works completely different as it would append the lists, thus making a longer list, in addition, substraction and multiplication of Python lists do not work.
 ```Python
+import numpy as np
+
 arr_1 = np.array([2, 4, 6])
 arr_2 = np.array([1, 3, 5])
 
