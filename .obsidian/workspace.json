@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "new",
+                "query": "tag:#Matplotlib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Getters, Setters and Deleters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Getters, Setters and Deleters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Getters, Setters and Deleters.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -153,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 751.5,
-    "collapsed": true
+    "width": 751.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +164,7 @@
   },
   "active": "a2c8c102ab57b7c8",
   "lastOpenFiles": [
+    "Python/Getters, Setters and Deleters.md",
     "Python/Encapsulation.md",
     "Python/Dunder methods.md",
     "Python/Decorators.md",
@@ -190,7 +186,6 @@
     "Python/Iterables.md",
     "Pasted image 20240813192902.png",
     "ML/Neural Networks/Early stopping.md",
-    "Python/Getters, Setters and Deleters.md",
     "Python/Inheritance.md",
     "Python/Python Gotcha.md",
     "Polymorphism.md",
