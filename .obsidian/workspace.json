@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Reshaping.md",
+                "file": "TensorFlow2/What is tensorflow?.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Reshaping.md",
+                "file": "TensorFlow2/What is tensorflow?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Reshaping.md",
+                "file": "TensorFlow2/What is tensorflow?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Reshaping.md"
+                "file": "TensorFlow2/What is tensorflow?.md"
               }
             }
           }
@@ -153,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +167,10 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "TensorFlow2/What is tensorflow?.md",
+    "daily/2024-08-24.md",
+    "TensorFlow2",
+    "ML/Maths/Linear Algebra/Reshaping.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/Activation functions.md",
     "ML/Quizes/Key Concepts on Deep Neural Networks.md",
@@ -175,7 +178,6 @@
     "Excalidraw/derivativeBackpropagationGraph.md",
     "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
-    "ML/Maths/Linear Algebra/Reshaping.md",
     "ML/Maths/Linear Algebra/Numpy array.md",
     "ML/Maths/Linear Algebra/np.sum().md",
     "ML/Maths/Linear Algebra/np.linalg.solve.md",
@@ -192,8 +194,6 @@
     "Python/Dunder methods.md",
     "Python/Decorators.md",
     "Python/Abstraction.md",
-    "Python/Object-Oriented Programming.md",
-    "Python/Polymorphism.md",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
     "Pasted image 20240817081411.png",
@@ -216,7 +216,6 @@
     "MLOps",
     "ML/Quizes",
     "Excalidraw",
-    "ML/Deep Learning",
-    "ML/Neural Networks"
+    "ML/Deep Learning"
   ]
 }
