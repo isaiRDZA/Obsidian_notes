@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Getters, Setters and Deleters.md",
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/Maths/Linear Algebra/Reshaping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML/Maths/Linear Algebra/Reshaping.md"
+              }
             }
           }
         ],
@@ -149,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 751.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +165,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2c8c102ab57b7c8",
+  "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "ML/Maths/Linear Algebra/Numpy array.md",
+    "ML/Maths/Linear Algebra/np.sum().md",
+    "ML/Maths/Linear Algebra/np.linalg.solve.md",
+    "ML/Maths/Linear Algebra/Normalize.md",
+    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
+    "ML/Maths/Linear Algebra/Multidimensional Array.md",
+    "ML/Maths/Linear Algebra/Lineal.md",
+    "ML/Maths/Linear Algebra/Matriz.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "ML/Maths/Linear Algebra/Array math operations.md",
+    "ML/Maths/Linear Algebra/Indexing.md",
+    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
+    "ML/Deep Learning/Adam Algorithm.md",
+    "daily/2024-08-23.md",
     "Python/Getters, Setters and Deleters.md",
     "Python/Encapsulation.md",
     "Python/Dunder methods.md",
@@ -181,21 +198,7 @@
     "Pasted image 20240817081241.png",
     "daily/2024-08-13.md",
     "Pasted image 20240817074432.png",
-    "daily/2024-08-17.md",
-    "English homework.md",
-    "Python/Iterables.md",
     "Pasted image 20240813192902.png",
-    "ML/Neural Networks/Early stopping.md",
-    "Python/Inheritance.md",
-    "Python/Python Gotcha.md",
-    "Polymorphism.md",
-    "daily/2024-08-12.md",
-    "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
-    "Python/**Kwargs.md",
-    "Python/Function Call Unpacking & Beyond.md",
-    "Python/Function Arguments.md",
-    "Python/Enclosing namespace.md",
-    "Python/reduce().md",
     "Pasted image 20240810131632.png",
     "Pasted image 20240809202423.png",
     "Pasted image 20240809193104.png",
