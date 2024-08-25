@@ -11,14 +11,11 @@
             "id": "31a5002697c40886",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
-                "viewState": {
-                  "x": 913.2602035245748,
-                  "y": -415.4623487201159,
-                  "zoom": -0.2522097727747996
-                }
+                "file": "TensorFlow2/Sequential Model.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -51,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reshape",
+                "query": "pooling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
+                "file": "TensorFlow2/Sequential Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas",
+                "file": "TensorFlow2/Sequential Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental maps summaries/Convolution Neural Networks.canvas"
+                "file": "TensorFlow2/Sequential Model.md"
               }
             }
           }
@@ -170,6 +167,12 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "TensorFlow2/Keras API.md",
+    "TensorFlow2/Sequential Model.md",
+    "TensorFlow2/What is tensorflow?.md",
+    "Pooling.md",
+    "Padding.md",
+    "Mental maps summaries/Convolution Neural Networks.canvas",
     "ML/Deep Learning/Gradient descent with momentum.md",
     "ML/Deep Learning/Human-level performance.md",
     "ML/Deep Learning/Learning Decay.md",
@@ -183,8 +186,6 @@
     "English homework.md",
     "Convolution.md",
     "Classification.md",
-    "TensorFlow2/Keras API.md",
-    "TensorFlow2/What is tensorflow?.md",
     "daily/2024-08-24.md",
     "TensorFlow2",
     "ML/Maths/Linear Algebra/Reshaping.md",
@@ -194,9 +195,6 @@
     "Python/Getters, Setters and Deleters.md",
     "Excalidraw/derivativeBackpropagationGraph.md",
     "ML/Maths/Linear Algebra/Creating arrays.md",
-    "ML/Maths/Linear Algebra/Array math operations.md",
-    "ML/Maths/Linear Algebra/Numpy array.md",
-    "ML/Maths/Linear Algebra/np.sum().md",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
     "Pasted image 20240817081411.png",
@@ -210,7 +208,6 @@
     "Data Structures and Algorithms",
     "Data Science/Untitled",
     "Python",
-    "Mental maps summaries/Convolution Neural Networks.canvas",
     "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
     "Mental maps summaries/Evaluating a deep learning model.canvas",

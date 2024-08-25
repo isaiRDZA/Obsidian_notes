@@ -3,3 +3,5 @@ Tensorflow uses symbolic mathematics (instead of purely numerical computations),
 - Another major benefit is its ability to perform computations on GPU hardware, potentially leading to large speedups. 
 
 - [[Keras API]]
+- [[Sequential Model]]
+- 
