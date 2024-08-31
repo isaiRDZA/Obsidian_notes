@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TensorFlow2/Sequential Model.md",
+                "file": "ML/Quizes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TensorFlow2/Sequential Model.md",
+                "file": "ML/Quizes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TensorFlow2/Sequential Model.md",
+                "file": "ML/Quizes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TensorFlow2/Sequential Model.md"
+                "file": "ML/Quizes/Untitled.md"
               }
             }
           }
@@ -167,9 +167,12 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
+    "ML/Quizes/Sequence Models & Attention Mechanism.md",
+    "ML/Quizes/Untitled.md",
+    "daily/2024-08-30.md",
+    "TensorFlow2/Sequential Model.md",
     "TensorFlow2/What is tensorflow?.md",
     "daily/2024-08-25.md",
-    "TensorFlow2/Sequential Model.md",
     "TensorFlow2/Keras API.md",
     "Pooling.md",
     "Padding.md",
@@ -192,9 +195,6 @@
     "ML/Maths/Linear Algebra/Reshaping.md",
     "ML/Neural Networks/Logistic Regression.md",
     "ML/Neural Networks/Activation functions.md",
-    "ML/Quizes/Key Concepts on Deep Neural Networks.md",
-    "Python/Getters, Setters and Deleters.md",
-    "Excalidraw/derivativeBackpropagationGraph.md",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
     "Pasted image 20240817081411.png",
