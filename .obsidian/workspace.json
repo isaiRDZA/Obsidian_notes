@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +178,10 @@
   },
   "active": "cc9e0848f1cf5c11",
   "lastOpenFiles": [
+    "ML/Quizes/Untitled.md",
+    "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
     "Pasted Image 20240830201105_025.png",
     "daily/2024-08-30.md",
-    "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
     "Excalidraw/architectureLearningAlgorith.md",
     "ML/Neural Networks/Artificial neuron.md",
     "Convolution.md",
@@ -190,7 +190,6 @@
     "TensorFlow2/Sequential Model.md",
     "TensorFlow2/What is tensorflow?.md",
     "TensorFlow2/Keras API.md",
-    "ML/Quizes/Untitled.md",
     "ML/Quizes/Sequence Models & Attention Mechanism.md",
     "daily/2024-08-25.md",
     "Pooling.md",
@@ -217,7 +216,6 @@
     "Pasted image 20240810131632.png",
     "Pasted image 20240809202423.png",
     "Pasted image 20240809193104.png",
-    "Pasted image 20240808190356.png",
     "Data Structures and Algorithms",
     "Data Science/Untitled",
     "Python",
