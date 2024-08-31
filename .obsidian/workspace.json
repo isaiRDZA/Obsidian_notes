@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Quizes/Untitled.md",
+                "file": "TensorFlow2/Sequential Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Quizes/Untitled.md",
+                "file": "TensorFlow2/Sequential Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Quizes/Untitled.md",
+                "file": "TensorFlow2/Sequential Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Quizes/Untitled.md"
+                "file": "TensorFlow2/Sequential Model.md"
               }
             }
           }
@@ -152,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 591.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,13 +167,13 @@
   },
   "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "ML/Quizes/Sequence Models & Attention Mechanism.md",
+    "TensorFlow2/What is tensorflow?.md",
+    "TensorFlow2/Keras API.md",
     "ML/Quizes/Untitled.md",
+    "ML/Quizes/Sequence Models & Attention Mechanism.md",
     "daily/2024-08-30.md",
     "TensorFlow2/Sequential Model.md",
-    "TensorFlow2/What is tensorflow?.md",
     "daily/2024-08-25.md",
-    "TensorFlow2/Keras API.md",
     "Pooling.md",
     "Padding.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
