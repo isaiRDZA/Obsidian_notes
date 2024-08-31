@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TensorFlow2/Sequential Model.md",
+                "file": "daily/2024-08-30.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc9e0848f1cf5c11",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TensorFlow2/Sequential Model.md",
+                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TensorFlow2/Sequential Model.md",
+                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TensorFlow2/Sequential Model.md"
+                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md"
               }
             }
           }
@@ -165,14 +177,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31a5002697c40886",
+  "active": "cc9e0848f1cf5c11",
   "lastOpenFiles": [
+    "daily/2024-08-30.md",
+    "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
+    "Mental maps summaries/Neural Networks.canvas",
+    "TensorFlow2/Sequential Model.md",
     "TensorFlow2/What is tensorflow?.md",
     "TensorFlow2/Keras API.md",
     "ML/Quizes/Untitled.md",
     "ML/Quizes/Sequence Models & Attention Mechanism.md",
-    "daily/2024-08-30.md",
-    "TensorFlow2/Sequential Model.md",
     "daily/2024-08-25.md",
     "Pooling.md",
     "Padding.md",
@@ -194,7 +208,6 @@
     "TensorFlow2",
     "ML/Maths/Linear Algebra/Reshaping.md",
     "ML/Neural Networks/Logistic Regression.md",
-    "ML/Neural Networks/Activation functions.md",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
     "Pasted image 20240817081411.png",
@@ -208,7 +221,6 @@
     "Data Structures and Algorithms",
     "Data Science/Untitled",
     "Python",
-    "Mental maps summaries/Neural Networks.canvas",
     "Mental maps summaries/How to study.canvas",
     "Mental maps summaries/Evaluating a deep learning model.canvas",
     "Mental maps summaries",
