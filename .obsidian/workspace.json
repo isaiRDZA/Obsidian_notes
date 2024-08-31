@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pooling",
+                "query": "pmatrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,12 +76,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -179,8 +179,13 @@
   },
   "active": "cc9e0848f1cf5c11",
   "lastOpenFiles": [
+    "Pasted Image 20240830201105_025.png",
     "daily/2024-08-30.md",
     "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
+    "Excalidraw/architectureLearningAlgorith.md",
+    "ML/Neural Networks/Artificial neuron.md",
+    "Convolution.md",
+    "ML/Quizes/Neural Network Basics quiz.md",
     "Mental maps summaries/Neural Networks.canvas",
     "TensorFlow2/Sequential Model.md",
     "TensorFlow2/What is tensorflow?.md",
@@ -202,12 +207,7 @@
     "ML/Deep Learning/Deep Learning.md",
     "mean.md",
     "English homework.md",
-    "Convolution.md",
-    "Classification.md",
-    "daily/2024-08-24.md",
     "TensorFlow2",
-    "ML/Maths/Linear Algebra/Reshaping.md",
-    "ML/Neural Networks/Logistic Regression.md",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
     "Pasted image 20240817081411.png",
