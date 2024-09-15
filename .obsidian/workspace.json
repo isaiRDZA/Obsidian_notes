@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Asymptotic Analysis.md",
+                "file": "ML/Maths/Linear Algebra/Indexing.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pmatrix",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Asymptotic Analysis.md",
+                "file": "ML/Maths/Linear Algebra/Indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Asymptotic Analysis.md",
+                "file": "ML/Maths/Linear Algebra/Indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Asymptotic Analysis.md"
+                "file": "ML/Maths/Linear Algebra/Indexing.md"
               }
             }
           }
@@ -180,6 +180,9 @@
   },
   "active": "cc9e0848f1cf5c11",
   "lastOpenFiles": [
+    "ML/Maths/Linear Algebra/Lineal.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "ML/Maths/Linear Algebra/Array math operations.md",
     "Algorithms/Asymptotic Analysis.md",
     "Algorithms",
     "daily/2024-09-15.md",
@@ -207,9 +210,6 @@
     "ML/Deep Learning/Weight Initialization for Deep Networks.md",
     "ML/Deep Learning/Adam Algorithm.md",
     "ML/Deep Learning/Avoidable Bias.md",
-    "ML/Deep Learning/Batch Normalization.md",
-    "ML/Deep Learning/Deep Learning.md",
-    "mean.md",
     "TensorFlow2",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
