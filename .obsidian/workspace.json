@@ -23,9 +23,11 @@
             "id": "cc9e0848f1cf5c11",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md"
+                "file": "Algorithms/Asymptotic Analysis.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
+                "file": "Algorithms/Asymptotic Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
+                "file": "Algorithms/Asymptotic Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md"
+                "file": "Algorithms/Asymptotic Analysis.md"
               }
             }
           }
@@ -163,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +180,11 @@
   },
   "active": "cc9e0848f1cf5c11",
   "lastOpenFiles": [
-    "ML/Quizes/Untitled.md",
+    "Algorithms/Asymptotic Analysis.md",
+    "Algorithms",
+    "daily/2024-09-15.md",
     "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
+    "ML/Quizes/Untitled.md",
     "Pasted Image 20240830201105_025.png",
     "daily/2024-08-30.md",
     "Excalidraw/architectureLearningAlgorith.md",
@@ -205,7 +210,6 @@
     "ML/Deep Learning/Batch Normalization.md",
     "ML/Deep Learning/Deep Learning.md",
     "mean.md",
-    "English homework.md",
     "TensorFlow2",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
@@ -225,7 +229,6 @@
     "MLOps/Untitled",
     "MLOps",
     "ML/Quizes",
-    "Excalidraw",
-    "ML/Deep Learning"
+    "Excalidraw"
   ]
 }
