@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Indexing.md",
+                "file": "ML/Maths/Linear Algebra/Slicing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Indexing.md",
+                "file": "ML/Maths/Linear Algebra/Slicing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Indexing.md",
+                "file": "ML/Maths/Linear Algebra/Slicing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Indexing.md"
+                "file": "ML/Maths/Linear Algebra/Slicing.md"
               }
             }
           }
@@ -180,16 +180,22 @@
   },
   "active": "cc9e0848f1cf5c11",
   "lastOpenFiles": [
+    "daily/2024-08-30.md",
+    "ML/Maths/Linear Algebra/Slicing.md",
+    "ML/Maths/Linear Algebra/Indexing.md",
     "ML/Maths/Linear Algebra/Lineal.md",
-    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "ML/Maths/Linear Algebra/Matriz.md",
+    "ML/Maths/Linear Algebra/Multidimensional Array.md",
+    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
     "ML/Maths/Linear Algebra/Array math operations.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
     "Algorithms/Asymptotic Analysis.md",
     "Algorithms",
     "daily/2024-09-15.md",
     "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
     "ML/Quizes/Untitled.md",
     "Pasted Image 20240830201105_025.png",
-    "daily/2024-08-30.md",
     "Excalidraw/architectureLearningAlgorith.md",
     "ML/Neural Networks/Artificial neuron.md",
     "Convolution.md",
@@ -204,12 +210,6 @@
     "Padding.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "ML/Deep Learning/Gradient descent with momentum.md",
-    "ML/Deep Learning/Human-level performance.md",
-    "ML/Deep Learning/Learning Decay.md",
-    "ML/Deep Learning/Mini-batch gradient descent.md",
-    "ML/Deep Learning/Weight Initialization for Deep Networks.md",
-    "ML/Deep Learning/Adam Algorithm.md",
-    "ML/Deep Learning/Avoidable Bias.md",
     "TensorFlow2",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
