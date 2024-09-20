@@ -28,9 +28,19 @@
                 "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "4cf6fbfd5aedded7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +186,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc9e0848f1cf5c11",
+  "active": "4cf6fbfd5aedded7",
   "lastOpenFiles": [
     "ML/Quizes/Untitled.md",
     "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
