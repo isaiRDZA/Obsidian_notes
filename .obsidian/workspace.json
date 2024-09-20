@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-08-30.md",
+                "file": "Data Structures and Algorithms/Asymptotic notation.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cc9e0848f1cf5c11",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4cf6fbfd5aedded7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957
+    "width": 278.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
+                "file": "Data Structures and Algorithms/Asymptotic notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
+                "file": "Data Structures and Algorithms/Asymptotic notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md"
+                "file": "Data Structures and Algorithms/Asymptotic notation.md"
               }
             }
           }
@@ -173,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 498.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,12 +167,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4cf6fbfd5aedded7",
+  "active": "31a5002697c40886",
   "lastOpenFiles": [
-    "ML/Quizes/Untitled.md",
-    "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
-    "Pasted Image 20240830201105_025.png",
+    "Pasted image 20240920112713.png",
     "daily/2024-08-30.md",
+    "Data Structures and Algorithms/Asymptotic notation.md",
+    "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
+    "daily/2024-09-20.md",
+    "ML/Quizes/Untitled.md",
+    "Pasted Image 20240830201105_025.png",
     "Excalidraw/architectureLearningAlgorith.md",
     "ML/Neural Networks/Artificial neuron.md",
     "Convolution.md",
@@ -214,8 +198,6 @@
     "ML/Deep Learning/Avoidable Bias.md",
     "ML/Deep Learning/Batch Normalization.md",
     "ML/Deep Learning/Deep Learning.md",
-    "mean.md",
-    "English homework.md",
     "TensorFlow2",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",
