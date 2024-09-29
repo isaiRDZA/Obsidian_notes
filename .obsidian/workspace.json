@@ -13,11 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-08-30.md",
+                "file": "Data Structures and Algorithms/Asymptotic notation.md",
                 "mode": "source",
                 "source": false
               }
             }
+<<<<<<< HEAD
           },
           {
             "id": "cc9e0848f1cf5c11",
@@ -30,9 +31,10 @@
                 "source": false
               }
             }
+=======
+>>>>>>> refs/remotes/origin/main
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957
+    "width": 278.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "a561ba51a917dc51",
@@ -98,7 +101,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "ML/Maths/Linear Algebra/Slicing.md",
+=======
+                "file": "Data Structures and Algorithms/Asymptotic notation.md",
+>>>>>>> refs/remotes/origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "ML/Maths/Linear Algebra/Slicing.md",
+=======
+                "file": "Data Structures and Algorithms/Asymptotic notation.md",
+>>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +167,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "ML/Maths/Linear Algebra/Slicing.md"
+=======
+                "file": "Data Structures and Algorithms/Asymptotic notation.md"
+>>>>>>> refs/remotes/origin/main
               }
             }
           }
@@ -165,7 +180,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 200
+=======
+    "width": 498.5,
+    "collapsed": true
+>>>>>>> refs/remotes/origin/main
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +198,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc9e0848f1cf5c11",
+  "active": "31a5002697c40886",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "daily/2024-08-30.md",
     "ML/Maths/Linear Algebra/Slicing.md",
     "ML/Maths/Linear Algebra/Indexing.md",
@@ -194,6 +215,13 @@
     "Algorithms",
     "daily/2024-09-15.md",
     "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
+=======
+    "Pasted image 20240920112713.png",
+    "daily/2024-08-30.md",
+    "Data Structures and Algorithms/Asymptotic notation.md",
+    "Excalidraw/Drawing 2024-08-30 19.56.18.excalidraw.md",
+    "daily/2024-09-20.md",
+>>>>>>> refs/remotes/origin/main
     "ML/Quizes/Untitled.md",
     "Pasted Image 20240830201105_025.png",
     "Excalidraw/architectureLearningAlgorith.md",
@@ -210,6 +238,17 @@
     "Padding.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
     "ML/Deep Learning/Gradient descent with momentum.md",
+<<<<<<< HEAD
+=======
+    "ML/Deep Learning/Human-level performance.md",
+    "ML/Deep Learning/Learning Decay.md",
+    "ML/Deep Learning/Mini-batch gradient descent.md",
+    "ML/Deep Learning/Weight Initialization for Deep Networks.md",
+    "ML/Deep Learning/Adam Algorithm.md",
+    "ML/Deep Learning/Avoidable Bias.md",
+    "ML/Deep Learning/Batch Normalization.md",
+    "ML/Deep Learning/Deep Learning.md",
+>>>>>>> refs/remotes/origin/main
     "TensorFlow2",
     "Pasted image 20240817083730.png",
     "Pasted image 20240817083708.png",

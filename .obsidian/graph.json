@@ -1,22 +1,40 @@
 {
+<<<<<<< HEAD
   "collapse-filter": false,
   "search": "",
   "showTags": true,
+=======
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+>>>>>>> refs/remotes/origin/main
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
+<<<<<<< HEAD
   "collapse-display": false,
+=======
+  "collapse-display": true,
+>>>>>>> refs/remotes/origin/main
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
+<<<<<<< HEAD
   "collapse-forces": false,
+=======
+  "collapse-forces": true,
+>>>>>>> refs/remotes/origin/main
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.16303093393071494,
+=======
+  "scale": 0.18462326225858128,
+>>>>>>> refs/remotes/origin/main
   "close": true
 }
