@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-09-29.md",
+                "file": "ML/Maths/Linear Algebra/Normalize.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-09-29.md",
+                "file": "ML/Maths/Linear Algebra/Normalize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-09-29.md",
+                "file": "ML/Maths/Linear Algebra/Normalize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-09-29.md"
+                "file": "ML/Maths/Linear Algebra/Normalize.md"
               }
             }
           }
@@ -156,8 +155,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f76dda9e370b5331",
+  "active": "26d30c8a38c8d383",
   "lastOpenFiles": [
+    "ML/Maths/Linear Algebra/Lineal.md",
+    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
+    "ML/Maths/Linear Algebra/Array math operations.md",
+    "Data Structures and Algorithms/Asymptotic notation.md",
     "daily/2024-09-29.md"
   ]
 }
