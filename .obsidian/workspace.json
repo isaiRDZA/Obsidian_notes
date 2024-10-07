@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iot",
+                "query": "list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26d30c8a38c8d383",
+  "active": "f76dda9e370b5331",
   "lastOpenFiles": [
     "ML/Maths/Linear Algebra/Array math operations.md",
     "ML/Maths/Numpy.md",
