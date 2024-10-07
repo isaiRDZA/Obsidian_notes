@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Creating arrays.md",
+                "file": "ML/Plots/Matplotlib/Labeles.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "list",
+                "query": "plt.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Creating arrays.md",
+                "file": "ML/Plots/Matplotlib/Labeles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Creating arrays.md",
+                "file": "ML/Plots/Matplotlib/Labeles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Creating arrays.md"
+                "file": "ML/Plots/Matplotlib/Labeles.md"
               }
             }
           }
@@ -156,8 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f76dda9e370b5331",
+  "active": "26d30c8a38c8d383",
   "lastOpenFiles": [
+    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
+    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
     "ML/Maths/Numpy.md",
     "ML/Maths/Linear Algebra/Size, shape and dimension.md",
@@ -170,7 +173,6 @@
     "ML/Maths/Linear Algebra/Normalize.md",
     "ML/Maths/Linear Algebra/Multidimensional Array.md",
     "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
-    "ML/Maths/Linear Algebra/Creating arrays.md",
     "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
     "ML/Maths/Linear Algebra/Indexing.md",
     "ML/Maths/Linear Algebra/Lineal.md",
