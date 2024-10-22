@@ -157,8 +157,9 @@
   },
   "active": "26d30c8a38c8d383",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Asymptotic notation.md",
+    "Algorithms/Asymptotic Analysis.md",
     "Data Structures and Algorithms/Linked List.md",
+    "Data Structures and Algorithms/Asymptotic notation.md",
     "Data Structures and Algorithms/Node.md",
     "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md",
     "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
@@ -181,7 +182,6 @@
     "ML/Maths/Linear Algebra/np.sum().md",
     "ML/Maths/Linear Algebra/np.linalg.solve.md",
     "ML/Maths/Linear Algebra/Normalize.md",
-    "ML/Maths/Linear Algebra/Multidimensional Array.md",
-    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md"
+    "ML/Maths/Linear Algebra/Multidimensional Array.md"
   ]
 }
