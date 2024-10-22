@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md",
+                "file": "Data Structures and Algorithms/Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md",
+                "file": "Data Structures and Algorithms/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md",
+                "file": "Data Structures and Algorithms/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Pandas/value_counts().md"
+                "file": "Data Structures and Algorithms/Linked List.md"
               }
             }
           }
@@ -157,6 +157,13 @@
   },
   "active": "26d30c8a38c8d383",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Asymptotic notation.md",
+    "Data Structures and Algorithms/Linked List.md",
+    "Data Structures and Algorithms/Node.md",
+    "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md",
+    "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
+    "daily/2024-10-21.md",
+    "Data Science/Pandas/value_counts().md",
     "daily/2024-10-08.md",
     "ML/Plots/Matplotlib/Legend.md",
     "ML/Plots/Matplotlib/Labeles.md",
@@ -175,13 +182,6 @@
     "ML/Maths/Linear Algebra/np.linalg.solve.md",
     "ML/Maths/Linear Algebra/Normalize.md",
     "ML/Maths/Linear Algebra/Multidimensional Array.md",
-    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md",
-    "ML/Maths/Linear Algebra/Forma escalonada reducida por renglones.md",
-    "ML/Maths/Linear Algebra/Indexing.md",
-    "ML/Maths/Linear Algebra/Lineal.md",
-    "ML/Maths/Linear Algebra/Matriz.md",
-    "daily/2024-10-06.md",
-    "Data Structures and Algorithms/Asymptotic notation.md",
-    "daily/2024-09-29.md"
+    "ML/Maths/Linear Algebra/Multiplying vector with a scalar (broadcasting).md"
   ]
 }
