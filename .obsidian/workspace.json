@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Linked List.md",
+                "file": "daily/2024-04-29.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-04-29"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -84,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Linked List.md",
+                "file": "daily/2024-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-04-29"
             }
           },
           {
@@ -110,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Linked List.md",
+                "file": "daily/2024-04-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-04-29"
             }
           },
           {
@@ -124,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Linked List.md"
-              }
+                "file": "daily/2024-04-29.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-04-29"
             }
           }
         ]
@@ -157,31 +175,31 @@
   },
   "active": "26d30c8a38c8d383",
   "lastOpenFiles": [
-    "Algorithms/Asymptotic Analysis.md",
-    "Data Structures and Algorithms/Linked List.md",
-    "Data Structures and Algorithms/Asymptotic notation.md",
-    "Data Structures and Algorithms/Node.md",
-    "Data Structures and Algorithms/Two-Pointer Linked list Techniques.md",
-    "Data Structures and Algorithms/Swapping Elements in a Linked List.md",
-    "daily/2024-10-21.md",
-    "Data Science/Pandas/value_counts().md",
-    "daily/2024-10-08.md",
-    "ML/Plots/Matplotlib/Legend.md",
-    "ML/Plots/Matplotlib/Labeles.md",
-    "ML/Plots/Matplotlib/Linestyle.md",
-    "ML/Maths/Understanding and Visualizing Data/Count Plot.md",
-    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
-    "ML/Maths/Linear Algebra/Creating arrays.md",
-    "ML/Maths/Linear Algebra/Array math operations.md",
-    "ML/Maths/Numpy.md",
-    "ML/Maths/Linear Algebra/Size, shape and dimension.md",
-    "ML/Maths/Linear Algebra/Sistemas inconsistentes y consistentes.md",
-    "ML/Maths/Linear Algebra/Reshaping.md",
-    "ML/Maths/Linear Algebra/Operaciones elementales con renglones.md",
-    "ML/Maths/Linear Algebra/Numpy array.md",
-    "ML/Maths/Linear Algebra/np.sum().md",
-    "ML/Maths/Linear Algebra/np.linalg.solve.md",
-    "ML/Maths/Linear Algebra/Normalize.md",
-    "ML/Maths/Linear Algebra/Multidimensional Array.md"
+    "daily/2024-04-26.md",
+    "daily/2024-04-24.md",
+    "daily/2024-04-22.md",
+    "daily/2024-04-20.md",
+    "daily/2024-04-19.md",
+    "daily/2024-06-05.md",
+    "daily/2024-06-04.md",
+    "daily/2024-06-03.md",
+    "daily/2024-05-29.md",
+    "daily/2024-05-28.md",
+    "daily/2024-05-26.md",
+    "daily/2024-05-23.md",
+    "daily/2024-05-20.md",
+    "daily/2024-06-08.md",
+    "daily/2024-06-10.md",
+    "daily/2024-06-13.md",
+    "daily/2024-06-17.md",
+    "daily/2024-06-20.md",
+    "daily/2024-06-24.md",
+    "daily/2024-07-11.md",
+    "daily/2024-07-18.md",
+    "daily/2024-07-25.md",
+    "daily/2024-07-26.md",
+    "daily/2024-07-27.md",
+    "daily/2024-07-30.md",
+    "daily/2024-08-01.md"
   ]
 }
