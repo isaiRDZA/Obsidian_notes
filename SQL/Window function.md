@@ -1,4 +1,4 @@
-So far we've learned how to retrieve information from tables and perform calculations on them. But we've seen that GROUP BY and SUM reduce the number of rows in your query results because they are combining or grouping roes.
+ So far we've learned how to retrieve information from tables and perform calculations on them. But we've seen that GROUP BY and SUM reduce the number of rows in your query results because they are combining or grouping roes.
 Window functions, on the other hand allow you to maintain the values of your original table while displaying grouped or summative information alongside in another column. This is why many Data Scientist and Data Engineers  love to use window functions for complex data analysis.
 So we have these two querys let's see how their results differ:
 The first one is using the SUM and GROUP BYU instructions:
