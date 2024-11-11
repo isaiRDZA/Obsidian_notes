@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Maths/Linear Algebra/Creating arrays.md",
+                "file": "Data Structures and Algorithms/Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating arrays"
+              "title": "Trees"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "np.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,43 +175,46 @@
   },
   "active": "6e281edcab21eae5",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Depth First Search.md",
+    "Data Structures and Algorithms/Breath-First Search.md",
+    "Data Structures and Algorithms/Sudoku.md",
+    "Pasted image 20241110202603.png",
+    "ML/Neural Networks/broadcasting.md",
     "ML/Maths/Linear Algebra/Array math operations.md",
-    "Mental maps summaries/How to study.canvas",
     "Data Structures and Algorithms/Trees.md",
+    "Data Structures and Algorithms/Asymptotic notation.md",
+    "Data Structures and Algorithms/Node.md",
+    "Data Structures and Algorithms/Linked List.md",
+    "Data Structures and Algorithms/Tree Traversal.md",
+    "DSP/Sampling Theorem.md",
+    "Pasted image 20241110154641.png",
+    "Pasted image 20241110154613.png",
+    "Pasted image 20241110154542.png",
+    "DSP/Signal.md",
+    "DSP/Discrete time.md",
+    "DSP/Processing.md",
+    "DSP",
+    "Pasted image 20241104202553.png",
+    "Pasted image 20241104202503.png",
+    "Pasted image 20241104202240.png",
+    "Pasted image 20241104201716.png",
+    "Data Structures and Algorithms/Tree implementation.md",
+    "Untitled.md",
+    "ML/Maths/Linear Algebra/Creating arrays.md",
+    "Mental maps summaries/How to study.canvas",
     "SQL/Window function.md",
     "Pasted image 20241103193514.png",
     "Pasted image 20241103193047.png",
     "SQL/Code Challenge 12.md",
     "SQL/Code Challenge 11.md",
-    "Pasted image 20241103132602.png",
     "SQL/Code Challenge 10.md",
-    "Pasted image 20241103131133.png",
     "SQL/ROW_NUMBER.md",
     "SQL/Code Challenge 9.md",
     "SQL/Code Challenge 8.md",
     "SQL/Code Challenge 7.md",
     "Embedded/Excercise for STM32F401RET6.md",
-    "Pasted image 20241030221205.png",
-    "Pasted image 20241030215950.png",
-    "Embedded/Enable the peripheral clock.md",
-    "Embedded/Procedure to turn on a LED.md",
-    "Pasted image 20241030212617.png",
-    "Pasted image 20241030212600.png",
-    "Pasted image 20241030212543.png",
-    "English homework.md",
     "Mental maps summaries/Convolution Neural Networks.canvas",
-    "ML/Maths/Understanding and Visualizing Data/Boxplot.md",
-    "Excalidraw/architectureLearningAlgorith.md",
     "Embedded",
-    "ML/Maths/Linear Algebra/Lineal.md",
-    "ML/Maths/Linear Algebra/Matriz.md",
-    "daily/2024-04-29.md",
-    "SQL",
-    "daily/2024-04-26.md",
-    "daily/2024-04-24.md",
-    "daily/2024-04-22.md",
-    "daily/2024-04-20.md",
-    "daily/2024-04-19.md",
-    "daily/2024-06-05.md"
+    "SQL"
   ]
 }
