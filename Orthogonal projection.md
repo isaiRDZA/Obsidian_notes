@@ -1,0 +1,1 @@
+Given an affine subspace $L = \bf{x_{0}} + U$ where $\bf{b_{1}, b_{2}}$ are U basis. In order to determinate the orthogonal projection $\pi _{L}(\bf{x})$ over $L$, this problem is actually a [[General Subspace Projections]].

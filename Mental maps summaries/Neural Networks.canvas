@@ -14,7 +14,7 @@
 		{"id":"34815b611cb4873f","type":"file","file":"ML/Neural Networks/Gradient Descent.md","x":1000,"y":550,"width":891,"height":1021},
 		{"id":"9d55f81dbc2bb1cf","type":"file","file":"ML/Deep Learning/Adam Algorithm.md","x":1000,"y":1760,"width":891,"height":520},
 		{"id":"fccba73157d6fecc","type":"file","file":"ML/Deep Learning/RMSProp.md","x":2240,"y":1880,"width":1000,"height":800},
-		{"id":"812103a800d15217","type":"file","file":"ML/Deep Learning/Exponentially weighted averages.md","x":2240,"y":2920,"width":1000,"height":640},
+		{"id":"812103a800d15217","type":"file","file":"ML/Deep Learning/Exponentially weighted averages.md","x":2240,"y":2920,"width":1000,"height":1060},
 		{"id":"c4e18544a7a8299b","type":"file","file":"Excalidraw/nnNotation.md","x":-3860,"y":-1520,"width":1760,"height":1226}
 	],
 	"edges":[

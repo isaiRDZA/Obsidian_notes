@@ -1,4 +1,4 @@
-A neuron is the process unit in [[ML/Deep Learning/Deep Learning]].
+A neuron is the process unit in [[ML/Deep Learning/Deep Learning]] and [[neural network]]s.
 There are two types of operation that a neuron can perform:
 - [[Classification]]
 - [[Regression]]
